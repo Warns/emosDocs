@@ -4,15 +4,52 @@
       "giris",
       {
         "type": "subcategory",
-        "ids": ["giris"]
+        "ids": [
+          "giris"
+        ]
       },
       {
         "type": "subcategory",
-        "ids": ["ekran-standartlari"]
+        "ids": [
+          "ekran-standartlari"
+        ]
       },
       {
         "type": "subcategory",
-        "ids": ["resim-ve-dosya-yukleme"]
+        "ids": [
+          "resim-ve-dosya-yukleme"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "ids": [
+          "ftp-erisimi"
+        ]
+      }
+    ],
+    "Tanımlar": [
+      {
+        "type": "subcategory",
+        "label": "Tanimlar",
+        "ids": [
+          "ftp-erisimi"
+        ]
+      },
+      {
+        "type": [
+          {
+            "type": "subcategory",
+            "ids": [
+              "resim-ve-dosya-yukleme"
+            ]
+          },
+          {
+            "type": "subcategory",
+            "ids": [
+              "ftp-erisimi"
+            ]
+          }
+        ]
       }
     ]
   }
