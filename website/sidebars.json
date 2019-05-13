@@ -1,10 +1,19 @@
 {
   "docs": {
-    "Giriş": ["giris"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Giriş": [
+      "giris",
+      {
+        "type": "subcategory",
+        "ids": ["giris"]
+      },
+      {
+        "type": "subcategory",
+        "ids": ["ekran-standartlari"]
+      },
+      {
+        "type": "subcategory",
+        "ids": ["resim-ve-dosya-yukleme"]
+      }
+    ]
   }
 }
