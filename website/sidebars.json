@@ -5,34 +5,20 @@
       {
         "type": "subcategory",
         "ids": [
-          "giris"
-        ]
-      },
-      {
-        "type": "subcategory",
-        "ids": [
-          "ekran-standartlari"
-        ]
-      },
-      {
-        "type": "subcategory",
-        "ids": [
+          "giris",
+          "ekran-standartlari",
+          "ftp-erisimi",
           "resim-ve-dosya-yukleme"
-        ]
-      },
-      {
-        "type": "subcategory",
-        "ids": [
-          "ftp-erisimi"
         ]
       }
     ],
     "Tanımlar": [
       {
         "type": "subcategory",
-        "label": "Tanimlar",
+        "label": "Ürün Tanımı",
         "ids": [
-          "ftp-erisimi"
+          "urun-tanimi",
+          "kategori-tanimi"
         ]
       },
       {
@@ -40,13 +26,13 @@
           {
             "type": "subcategory",
             "ids": [
-              "resim-ve-dosya-yukleme"
+              ""
             ]
           },
           {
             "type": "subcategory",
             "ids": [
-              "ftp-erisimi"
+              ""
             ]
           }
         ]
