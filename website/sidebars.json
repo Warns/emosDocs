@@ -18,6 +18,7 @@
         "label": "Ürün Tanımı",
         "ids": [
           "urun-tanimi",
+          "urun-yonetimi",
           "kategori-tanimi"
         ]
       },
