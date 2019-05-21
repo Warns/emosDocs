@@ -24,7 +24,7 @@ Bir ürüne tıklandığında aşağıdaki gibi ürün kartı ekranı açılır;
 |Ürün Kodu|Ürün kodunun yazıldığı alandır. Yeni kayıt ekleme sırasında bir ürün kodu girilmezse sistem tarafından otomatik bir kod atanacaktır. Bu ürün kodunun ön ek karakterleri **Site Yönetimi > Temel Ayarlar > Site Ayarları > Ürün Ayarları** sayfasında bulunan **Ürün Kodu Formatı** alanından belirlenebilir.|HS000134 (Burada ön ek karakteri HS olarak belirlendi)|
 |Ürün|Ürün isminin girildiği alandır. Girilen isim site bazında tekil olmalıdır.||
 |Sayfa Başlık|Tarayıcı sekmesinde görünecek yazıya karşılık gelir.![](https://snag.gy/bm8KC6.jpg)||
-|Sayfa İsmi|||
+|Sayfa İsmi|Bu alana ürünle ilişkili kelimelerden oluşan bir link bilgisi girilebilir. Bu linkin amacı ürün sayfasının arama motorlarında girilen link kelimeleri ile ilgili olarak daha üst sıralarda yer almasını sağlamaktadır.||
 |Kısa Açıklama|||
 |Editor Notu|||
 |Anahtar Kelimeler|||
