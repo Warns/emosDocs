@@ -12,7 +12,7 @@ e-MOS her ürünün en az bir kategoriye bağlı olacağı kabulü ile hareket e
 - Ekle, Sil, Onay, Onay Kaldır butonlarından ürünü ekleme, silme, onaylama, onay kaldırma işlemlerini yapabilirsiniz.
 ![image.png](https://snag.gy/oAlvEg.jpg)
 
-❗️ _Bir kategoriye onay verildiğinde sadece o kategori onaylanır, onay kaldırıldığında altındaki tüm kategorilerle beraber onayı kalkar._
+> ❗️ _Bir kategoriye onay verildiğinde sadece o kategori onaylanır, onay kaldırıldığında altındaki tüm kategorilerle beraber onayı kalkar._
 
 Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtları düzenlemek için ise ilgili satırın üzerine tıklamak yeterlidir.
 
@@ -41,6 +41,6 @@ Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtla
 |Class|Kategoriler arasında tasarımsal farklılık oluşturulması için kullanılan sitil bilgisi bu alana girilir.||
 |Min.Satış Mik.<br>ve<br>Max.Satış Mik.|Bu alanları kullanarak kategori bazında minimum ve maksimum satış miktarı belirtilebilir. Sepet onayı sırasında, kategori bazında minimum, maximum ürün sayısı kontrol edilir. <br><br>❗️ _Bir ürün iki farklı kategoride tanımlanmış ise ve iki kategorinin minimum ve/veya maksimum adetleri birbirinden farklı ise, karışıklık olmaması adına ürün tanımlanırken seçilen ilk "ön değer" kategorisinin minimum ve/veya maksimum adet değeri baz alınır._|Nevresim kategorisinde minimum miktar 10 ve maksimum miktar 15 olarak belirtildiğinde sepet onayı sırasında nevresim kategorisinden en az 10 ve en fazla 15 adet ürün olması gerekir (renk, beden vb. değerlerden bağımsız olarak).|
 
-❗️ _Hızlı alt kategori açabilmek için, ana kategorinin yanındaki kutucuk işaretlendikten sonra **Ekle** butonuna tıklanmalıdır._
+>❗️ _Hızlı alt kategori açabilmek için, ana kategorinin yanındaki kutucuk işaretlendikten sonra **Ekle** butonuna tıklanmalıdır._
 
-❗️ _Bir kategorinin yeri değiştirilmek isteniyorsa, bağlı kategori bilgisinin değiştirilmesi yeterli olacaktır. Yeri değişen kategorinin altındaki kategoriler de otomatik olarak taşınacaktır._
+>❗️ _Bir kategorinin yeri değiştirilmek isteniyorsa, bağlı kategori bilgisinin değiştirilmesi yeterli olacaktır. Yeri değişen kategorinin altındaki kategoriler de otomatik olarak taşınacaktır._

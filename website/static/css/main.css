@@ -414,7 +414,7 @@ article > :last-child {
 
 article p img,
 article iframe {
-  display: block;
+  display: inline;
   margin-left: 0;
   margin-right: auto;
   max-width: 100%;

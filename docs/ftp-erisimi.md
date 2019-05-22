@@ -37,12 +37,13 @@ languages klasörünün kullanımı;
 
 Bu klasörün altındaki .txt dosyaları kullanılarak sitenin ön yüzü farklı dillere çevirilebilmektedir.
 
-❗️ _Ayrıca **siteBilgileri.txt** dosyası kullanılarak sitenin **TITLE, META TAG, ICON** vb.. bilgiler her sayfaya eklenecek şekilde düzenlenebilmektedir._
-<br>
+>❗️ _Ayrıca **siteBilgileri.txt** dosyası kullanılarak sitenin **TITLE, META TAG, ICON** vb.. bilgiler her sayfaya eklenecek şekilde düzenlenebilmektedir._
+
 
 **SiteMap Oluşturma**
 SiteMap dosyaları **Google, Yahoo ve BING** gibi arama motorlarının, sitenin içeriğini daha doğru ve kolay indeksleyebilmesi için hazırlanır. Oluşturulan sitemap dosyaları "UPLOAD/sitemap" klasörü altına yerleştirilir.
 
-❗️ _Arama motorlarının bu dosyaları görebilmeleri için dosyaların ilgili arama motorlarına tanımlanmış olması gerekmektedir. **Örnek:** https://www.google.com/webmasters/tools/home?hl=en 
+>❗️ _Arama motorlarının bu dosyaları görebilmeleri için dosyaların ilgili arama motorlarına tanımlanmış olması gerekmektedir. 
+**Örnek:** https://www.google.com/webmasters/tools/home?hl=en 
 Örnekteki linkin çalışması için "Google Search Console"'a login olmanız gerekir._
 
