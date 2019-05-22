@@ -15,6 +15,7 @@ Sayfanın kullanımında gerekli temel bilgilere ulaşmak için [Tıklayınız](
 Bir ürüne tıklandığında aşağıdaki gibi ürün kartı ekranı açılır; 
 ![pdct.png](https://snag.gy/AyxwPz.jpg)
 
+<br>
 ## 1. Sekme (Genel Bilgiler) 
 
 |Alan Adı|Açıklama|Örnek|
@@ -71,15 +72,117 @@ Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  resim yükl
 > ❗️ _Herhangi bir ürün resimi eklendiğinde sistemde tasarım sırasında belirlenen diğer resim boyutlarını (sepetteki küçük resim, ürün listelerindeki resim, ürün detayındaki resim, vb) kendisi otomatik olarak oluşturacaktır. Otomatik resimler, resim/dosya seçme modülü tarafından ilgili klasöre girildiğinde yapılır._
 
 <br>
-### a. Dokümanlar
-Sisteme yüklenmiş olan veya yeni eklenecek dokümanların ürünlere atandığı bölümdür. Dokümanlar linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen doküman eklenilir. Sayfa açıldığında ürüne doküman seçebilmek için ![](https://snag.gy/1L3zat.jpg) butonuna tıklanır.
+### b. Dokümanlar
+Sisteme yüklenmiş olan veya yeni eklenecek dokümanların ürünlere atandığı bölümdür. Dokümanlar linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen dokümanlar eklenilir. Yeni doküman eklemek için **Ekle** butonuna tıklanır. Sayfa açıldığında ürüne doküman seçebilmek için ![](https://snag.gy/1L3zat.jpg) butonuna tıklanır.
 
 |Alan Adı|Açıkalam|
 |--|--|
 |Doküman Adı|Dokümanın isminin girildiği alandır. Buraya girilen bilgi sitede doküman adı olarak görüntülenecektir.|
 |Tipi|Dokümanların gruplanmasını sağlayan alandır. (Ör : Kullanım Klavuzu, Teknik Çizim, Ürün Sürücüleri vb.|
 |Doküman|Seçim butonu ile sisteme yüklü olan dokümanlardan birininin seçildiği alandır. Eğer seçilecek doküman kayıtlı değilse **Dosya Yükle** butonunu kullanarak sisteme yeni bir doküman yüklenebilir. Dosya Yükleme hakkında ayrıntılı bilgi almak için [Tıklayınız](resim-ve-dosya-yukleme.md).|
-|Ref.Doküman Seç||
-|Dosya Boyutu||
-|Dil||
-|Onay||
+|Dosya Boyutu|Dokümanın boyutu biliniyorsa bu alana girilir. Girilen bilgi sitede doküman boyutu olarak görüntülenecektir. (Örnek: 15 MB)|
+|Onay|Dokümanın geçerli olması için bu kutucuğun işaretli olması gerekir.|
+|Çoklu Doküman Yükleme Sekmesi|Birden fazla ürün dokümanının aynı ekrandan seçilebilmesini sağlayan sekmedir.|
+
+Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  doküman yükleme işlemi tamamlanır. Sayfadan çıkmadan yeni bir doküman yüklenmek isteniyorsa ![](https://snag.gy/W4qmna.jpg)butonuna tıklanır.
+
+<br>
+### c. Tavsiyeler
+Ürünler ile birlikte satışı tavsiye edilecek diğer ürünlerin belirlendiği bölümdür. Yeni bir ürün tavsiye edebilmek için **Tavsiyeler** butonuna tıklandıktan sonra **Ekle** butonu ile açılan sayfayı doldurmak yeterlidir.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Tavsiye Ürün|Ürünün yanında tavsiye edilecek ürünün seçildiği alandır. Tavsiye ürünü daha rahat seçebilmek için **Kategori, Ürün Kodu, Ürün adı ve Barkod** alanlarından arama yapılabilmektedir.|
+|Grup|Tavsiye ürünleri ayrı ayrı gruplara ayırmak için kullanılır. Aynı zamanda tavsiye ürünleri aynı tek bir grup içerisine dahil ederek isteğe bağlı sıralama yapılabilir.|
+|Sıra|Tavsiye edilen ürünlerin gösterildiği alanda ürünün görüntülenmesini istediğiniz sıra numarasını yazabilirsiniz.|
+|Onay|Onaylı olan satırlar sitede tavsiye ürün olarak gösterilecektir.|
+
+Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak tavsiye ürün tanımlama işlemini tamamlayabilirsiniz.
+
+**Toplu Tavsiye:** Toplu tavsiye linkine tıklayıp birden çok ürün tek seferde  tavsiye olarak belirlenebilir. Bunun için **Toplu Ürün Tavsiye** sekmesine tıklayarak açılan formu doldurmak yeterlidir.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Tavsiye Ürün|Tavsiye edilecek ürünlerin toplu olarak seçildiği alandır.|
+|Onay|Seçilen ürünlerin sitede gösterilip gösterilmeyeceğini belirleyen kutucuktur.|
+
+<br>
+### d. Promosyon Geçmişi
+Promosyon Geçmişi linkine tıklanıldığında açılan sayfada ürünle ilgili tanımlanmış tüm indirim ve promosyonlar görüntülenir. Açılan listedeki bir satırın üzerine tıklanıldığı zaman promosyon veya indirimin detay bilgilerine ulaşılır.
+
+<br>
+### e. Siparişler
+Siparişler linkine tıklanıldığı zaman ürünle ilgili verilmiş tüm siparişler görüntülenir. Açılan listedeki bir siparişin üzerine tıklayarak siparişin detay bilgilerine ulaşılır.
+
+<br>
+### f. Bundle
+Ana ürünlerle birlikte sunulması istenen yan ürünlerin belirlendiği bölümdür. e-MOS'ta bundle ürünler aynı zamnda birer ürün olarak tanımlanır, bundle ürün tek başına da bir ürün olarak satılabilir. Bundle yapısında bundle ürünü ana ürün ile birlikte satın alındığında normal fiyatından indirimli olarak satılabılır. **Örnek:** X cep telefonuyla birlikte bundle olarak cep telefonu kılıfı satın alındığında 20TL yerine 15TL.
+
+Ürüne yeni bir bundle ürün bağlamak için için **Bundle** butonuna tıklandıktan sonra **Ekle** butonu ile açılan sayfayı doldurmak yeterlidir.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Bağlı Ürün|Bağlamak istenen bundle ürün bu alanı kullanarak seçilir.|
+|Fiyat Tipi|Bu alanı kullanarak sadece belli bir fiyat tipine bağlı olan kullanıcıların bundle ürünleri görmesi sağlanabilir.|
+|Adet|Seçilen bundle ürün adedinin belirlendiği alandır.|
+|Satış Fiyatı (KDV'siz)|Bu alana girilen fiyat bundle ürününün satış fiyatı haline gelir. Bundle ürünün kendi fiyatından daha indirimli bir fiyat belirlenmek istendiğinde bu alan kullanılır.|Başlangıç Tarihi|Bundle ürününün devreye gireceği tarihin belirlendiği alandır.|
+|Bitiş Tarihi|Bundle ürününün devreden çıkacağı tarihin belirlendiği alandır.|
+|Grup|Bundle ürünleri ayrı ayrı gruplara ayırmak için kullanılır. Aynı zamanda bundle ürünleri aynı tek bir grup içerisine dahil ederek isteğe bağlı sıralama yapılabilir.|
+|Sıra|Bundle ürünlerin gösterildiği alanda ürünün görüntülenmesini istediğiniz sıra numarasının belirlendiği alandır.|
+|Ent.Kodu|Bundle ürünler bir ERP sisteminden besleniyorsa ilgili entegrasyon kodunun girildiği alandır.|
+|Class|Front-end ekibi tarafından bundle ürünler arasında tasarımsal farklılık oluşturulması için kullanılan sitil bilgisi bu alana girilir.|
+|Öndeğer Şekil|**Seçimli:** Bu seçenek kullanıldığında bundle ürünler checkbox yapısı gibi seçmeli olarak sunulur.<br>**Öndeğer:** Bu seçenek kullanıldığında öndeğer olarak ilgili bundle ürün seçili olarak gelir.<br>**Takım:** Bu alan, zorunlu olarak birlikte alınacak ana ürün ve bundle ürün yapısı için kullanılır. Bundle ürünün fiyatı ana ürünün fiyatına eklenir ve toplu olarka tek fiyat gösterilir.|
+|Onay|Bundle ürününün aktif olması (önyüzde görünmesi) için bu alanın seçili olması gerekir.|
+|Ana Ürün Tek Alınabilir|Bu alan seçili olduğunda bundle ürün zorunluluğu ortadan kalkar ve ilgili ana ürün tek olarak satın alınabilir hale gelir.|
+
+Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ürün tanımlama işlemini tamamlayabilirsiniz.
+
+<br>
+## 2. Sekme (Ürün Yönetim)
+Ürünle ilgili yönetimsel düzenlemelerin yapıldığı ekrandır. Bu ekranının içeriği, **Tanımlar > Ürün Tanımı > Ürün Yönetimi** güncelleme ekranı ile aynıdır.
+
+|Alan Adı|Açıklama|Örnek|
+|--|--|--|
+|Ürün|||
+|Stok Durumu|||
+|Ana Tedarikçi|||
+|Satış Vergi Tipi|||
+|Alış Vergi Oranı|||
+|Min Adet|||
+|Max Adet|||
+|Para Birimi|||
+|Özellikli Ürün|||
+|Maliyet|||
+|Ürün Tipi|||
+|Adres Tipi|||
+|Platform|||
+|Onay|||
+|Stoklu|||
+|Yeni Ürün|||
+|Öne Çıkan Ürün|||
+|Ürün Listede Gösterilmesin|||
+|Site İçi Arama Sonuçlarında Gösterilmesin|||
+|Max. Taksit Sayısı|||
+|Mağazadan Teslim Ürünü|||
+|Ana Sayfada Gösterilsin|||
+|Kritik Seviyede Uyar|||
+|Ürün Detaya Gidilmesin|||
+|Ürün Tek Satılmaz|||
+|API'den Stok ve Fiyat Güncellenebilir|||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
