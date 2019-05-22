@@ -163,26 +163,11 @@ Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ür�
 |Ürün Listede Gösterilmesin|Bu alan, kategori sayfalarında (ürün liste sayfalarında) herhangi bir ürünün görünmemesini sağlamak için kullanılır.||
 |Site İçi Arama Sonuçlarında Gösterilmesin|Bu kutucuk işaretli olduğu zaman ilgli ürün site içi yapılan aramalarda çıkmayacaktır.||
 |Max. Taksit Sayısı|Bu alanı kullanarak ilgili ürünün dahil olabileceği maksimum taksit sayısı belirlenebilir.||
-|Mağazadan Teslim Ürünü|||
-|Ana Sayfada Gösterilsin|||
-|Kritik Seviyede Uyar|||
-|Ürün Detaya Gidilmesin|||
-|Ürün Tek Satılmaz|||
-|API'den Stok ve Fiyat Güncellenebilir|||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|Mağazadan Teslim Ürünü|Bu alan, mağazalardan teslimat sürecinin bulunduğu firmalarda kullanılır. Bu kutucuğun işaretli olduğu ürünler mağazadan teslim sürecine dahil edilir.||
+|Ana Sayfada Gösterilsin|Bu alan, belli bir ürün grubunu ana sayfada göstermek için kullanılır. Front-end ekibi bu gösterimi sağlamak için bu alanı kullanır. Bu alanın seçili olduğu ürünler önyüzde ilgili alanda gösterilir.||
+|Kritik Seviyede Uyar|Ürünün stok miktarı minimum adet kutusunda girilen değerin altına düştüğü anda admine uyarı maili atılması için bu alanın işaretlenmesi gerekir.||
+|Ürün Detaya Gidilmesin|Eğer bu ürün sadece liste sayfalarında görünsün, detay bilgileri görünmesin isteniyorsa bu kutucuk işaretlenir.||
+|Ürün Tek Satılmaz|Bir ürünün tek başına sepete atılması istenmiyorsa, bu durumu önlemek için bu alanın işaretlenmesi gerekir. Bu seçenek işaretlendiğide, eğer ürün herhangi bir kampanya kapsamında değil ise sepette tutulmaz.||
+|API'den Stok ve Fiyat Güncellenebilir|Bu alan, API servisi üzerinden e-MOS'ta bulunan ürünlerin stok ve fiyat bilgisini güncellemek için kullanılır. Bu kutucuğun seçili olduğu ürünlerin stoğu ve fiyatı API üzerinden değiştirilebilir hale gelir.||
+
+> ❗️ _Çoklu fiyat girişli olarak kurulmuş sitelerde ürünlere satış fiyatı girebilmek için öncelikle ürün kartı kaydedilmelidir. Daha sonra Ürün Yönetim sekmesindeki ürün fiyatları kısmında ![](https://snag.gy/1L3zat.jpg) butonuna basarak seçilecek fiyat tiplerindeki fiyatlar belirlenir._
