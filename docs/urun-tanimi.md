@@ -143,26 +143,26 @@ Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ür�
 
 |Alan Adı|Açıklama|Örnek|
 |--|--|--|
-|Ürün|||
-|Stok Durumu|||
-|Ana Tedarikçi|||
-|Satış Vergi Tipi|||
-|Alış Vergi Oranı|||
-|Min Adet|||
-|Max Adet|||
-|Para Birimi|||
-|Özellikli Ürün|||
-|Maliyet|||
-|Ürün Tipi|||
-|Adres Tipi|||
-|Platform|||
-|Onay|||
-|Stoklu|||
-|Yeni Ürün|||
-|Öne Çıkan Ürün|||
-|Ürün Listede Gösterilmesin|||
-|Site İçi Arama Sonuçlarında Gösterilmesin|||
-|Max. Taksit Sayısı|||
+|Ürün|Ürünün ilk sekmede girilen adının bilgi olarak gösterildiği alandır.||
+|Stok Durumu|Ürünün stoktaki durumunun belirlendiği alandır. Sitede ürün stok durumu ile ilgili ikon bilgisi gösterilecektir. Temin edilebiliyor ve Temin edilemiyor durumlarının bir ikon karşılığı yoktur. Temin edilemiyor olarak belirlenen bir ürün için **Sepete Ekle** yerine **Gelince Haber Ver** seçeneği oluşacaktır.|Temin Edilebiliyor, Aynı Gün Kargo, Stoklarla Sınırlı, Sipariş Üzerine Temin vb.|
+|Ana Tedarikçi|Ürünün tedarikçi bilgisinin belirlendiği alandır.||
+|Satış Vergi Tipi|Satış vergi oranlarının bazı ülkelerde ülke, il ve posta kodları bazında farklılık gösterebilmesinden dolayı ürün kartında satış vergi tipi tanımlanmaktadır. Tanımlanan tipe ait vergi oranları Tanımlar menüsü altındaki vergi tanımları ekranından belirlenebilir.||
+|Alış Vergi Oranı|Ürün alışındaki vergi oranının tanımlamasının yapıldığı alandır.||
+|Min Adet|Ürünlerin minimum stoklama miktarı, temel ölçü birimi cinsinden girilebilir. Satınalma siparişi açılması sırasında, sistem öngörü olarak minimum sipariş adetlerini de göz önünde bulundurarak tavisyede bulunacaktır.||
+|Max Adet|Ürünlerin maksimum stoklama miktarı, temel ölçü birimi cinsinden girilebilir. Satınalma siparişi açılması sırasında, sistem öngörü olarak maksimum miktara tamamlayacak şekilde göz önünde bulundurarak tavisyede bulunacaktır.||
+|Para Birimi|Ürünlerin listelendiği kısımlarda ve ürün detay bölümünde bilgi olarak gösterilecek para birimidir. Ürün detay kısmında ve sepet sonrası tüm ekranlarda ürün fiyatları sitenin resmi para birimine dönecektir.||
+|Özellikli Ürün|Bu alanda bulunan seçenekler **Tanımlar > Diğer > Diğer Tanımlar** ekranından tanımlanır. Ürünlerle ilgili varsa özel bir durum bu alanı kullanarak belirlenir.||
+|Maliyet|Bu alan Pazaryeri modülüne özel olup ürünün pazaryerinde minimum satış fiyatını belirler.|Bu alana 100 girildiğinde ürün fiyatı pazaryerinde herhangi bir indirimden dolayı 100TL'nin altına düştüğünde ilgili ürün pazaryerinde satışa kapatılır.|
+|Ürün Tipi|Bu alanda bulunana seçenekler **Tanımlar > Diğer > Diğer Tanımlar** ekranından tanımlanır. Ürün tipini kullanarak ürünleri gruplayabilir ve farklı yapılarda kullanılabilir.|Belli bir ürün tipine bağlı ürün grubunu bir kampanyaya bağlayabilir veya önyüzde ayrı bir sayfa haline getirerek ilgili ürün tipine bağlı ürünler listelenebilir. **Örnek:** Anneler Gününe Özel sayfası.|
+|Adres Tipi|Öndeğer olarak bu alan **Bireysel** olarak çalışır. **Kurumsal** seçeneği ise adres seçerken ikinci bir adres tipi olarak son kullanıcıya sunulur. ||
+|Platform|Bu alanı kullanarak ilgili ürünün satışı istenen platforma göre kısıtlanabilir. Herhangi bir seçim yapılmadığında ilgili ürün tüm platformlarda satışa sunulur.||
+|Onay|Ürünün aktif olması için (önyüzde görünmesi) için bu alanın seçili olması gerekir.<br><br>❗️ _Onay'ı olmayan herhangi bir ürün önyüzde görünmez._||
+|Stoklu|Ürünün stoklu veya stoksuz olarak satılabilme durumunun belirlendiği alandır.<br><br> Bu seçenek işaretlenmiş olan ürünler stokta yoksa sistem ürünün satışına izin vermez. Stoklu olarak işaretlenmemiş olan ürünlerde stokta olsun veya olmasın satışa izin verilir.<br><br> Stoklu olarak işaretlenmiş bir ürün için ancak stoktaki miktar kadar sipariş alınmasına izin verilir. Örneğin stokta 5 adet varsa ve önyüzde müşteri 6 adet sipariş vermek isterse sepette uyarı verilerek ancak 5 adet sipariş verilebileceği belirtilir.<br><br> ❗️ _Ürünün stok durumu "Temin Edilemiyor" olarak seçildiğinde stokta varsa bile satışına izin verilmez._||
+|Yeni Ürün|Ürünün sitede "yeni ürünler" kısmında görünmesi için bu kutucuğun işaretlenmesi gereklidir. Aynı zamanda bu alan ürünler üzerinde Yeni ikonunun görünmesini sağlamak için kullanılır.||
+|Öne Çıkan Ürün|Bu alan, belli bir ürün grubunu ana sayfada göstermek için kullanılır. Front-end ekibi bu gösterimi sağlamak için bu alanı kullanır. Bu alanın seçili olduğu ürünler önyüzde ilgili alanda gösterilir.||
+|Ürün Listede Gösterilmesin|Bu alan, kategori sayfalarında (ürün liste sayfalarında) herhangi bir ürünün görünmemesini sağlamak için kullanılır.||
+|Site İçi Arama Sonuçlarında Gösterilmesin|Bu kutucuk işaretli olduğu zaman ilgli ürün site içi yapılan aramalarda çıkmayacaktır.||
+|Max. Taksit Sayısı|Bu alanı kullanarak ilgili ürünün dahil olabileceği maksimum taksit sayısı belirlenebilir.||
 |Mağazadan Teslim Ürünü|||
 |Ana Sayfada Gösterilsin|||
 |Kritik Seviyede Uyar|||
