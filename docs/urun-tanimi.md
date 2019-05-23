@@ -171,3 +171,65 @@ Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ür�
 |API'den Stok ve Fiyat Güncellenebilir|Bu alan, API servisi üzerinden e-MOS'ta bulunan ürünlerin stok ve fiyat bilgisini güncellemek için kullanılır. Bu kutucuğun seçili olduğu ürünlerin stoğu ve fiyatı API üzerinden değiştirilebilir hale gelir.||
 
 > ❗️ _Çoklu fiyat girişli olarak kurulmuş sitelerde ürünlere satış fiyatı girebilmek için öncelikle ürün kartı kaydedilmelidir. Daha sonra Ürün Yönetim sekmesindeki ürün fiyatları kısmında ![](https://snag.gy/1L3zat.jpg) butonuna basarak seçilecek fiyat tiplerindeki fiyatlar belirlenir._
+
+<br>
+Sistem çoklu fiyat tipinde çalışıyor ise aşağıda açıklaması verilen ürün fiyatları kısmı aktif olur ve birden çok fiyat tipinde ayrı ayrı KDV'siz satış fiyatı girilmesi sağlanır.
+
+|Alan Adı|Açıklama|Örnek|
+|--|--|--|
+|Fiyat Tipi|Satış fiyatının hangi fiyat tipi için girileceğini belirleyen alandır.|Perakende Satış|
+|Satış Fiyatı|Ürünün satış fiyatının girildiği alandır.|13,90|
+|İndirim Oranı|Bu alan, ürüne uygulanan indirim oranını gösterir.||
+|Para Birimi|Ürünün para biriminin gösterildiği alandır.|USD|
+|Başlangıç Tarihi|İndirim oranının geçerli olacağı başlangıç tarihine karşılık gelir.||
+|Bitiş Tarihi|İndirim oranının geçersiz olacağı bitiş tarihine karşılık gelir.||
+|Depo|Ürünün satış yapılacağı depoyu gösterir. Depolar aynı zamanda firmanın mağazaları olabilir.||
+|Ödeme Tipi|Ürünün satışını belli bir ödeme tipine sınırlamak için bu alan kullanılır. Boş bırakıldığında sitede aktif olan tüm ödeme tipleriyle sipariş verilebilir.||
+|Teslimat Tipi|Farklı teslimat tiplerinin seçildiği alandır.|Adrese teslim, mağazadan teslimat vb.|
+|Platform|Bu alan, Ürünün hangi platformdan (Dekstop, Mobil, Mobil API) satışa açılacağını belirtir.||
+
+<br>
+## 3. Sekme (Stok Bilgileri / Diğer)
+Stok takibi ile ilişkili tanımlamaların yapıldığı sayfadır.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Barkod|Ürünün genel barkodunun girildiği alandır.|
+|Seçenek Türleri|Sistemde ürün bazında maksimum iki adet seçenek takibi yapılabilmektedir. Önceden tanımlanan seçenek türlerinden bir veya ikisi seçildikten sonra ürün tanımı kaydedilmelidir. Bu aşamadan sonra seçilen seçenek türlerine ait olan kriterlerden istenilenler ürüne bağlanmalıdır.|
+|Diğer Barkodlar|Ürüne ait birden fazla barkod varsa bu alanda görünür.|
+|Gümrük Tipi|Yurtdışı satışı için ürünle ilgili varsa gümrük tipi bu alanda belirtilir.|
+|Toplu Seçenek|Bu buton ürünlere seçenek türü bağlandıktan sonra bu türlere ait olan seçeneklerin hızlı bir şekilde tanımlanmasını sağlamaktadır. Açılan pencereden seçim kriterlerine göre bir veya iki seçenek türüne ait seçenekler toplu olarak seçilebilir. Kaydetme işlemi sonrasında seçilen ürün seçenekleri ürüne bağlanarak kullanıma hazır hale gelir. İki seçenek belirlendiyse (Örnek: renk + beden) seçilen seçeneklere göre bütün ihtimaller otomatik olarak oluşturulur.|
+|Ürün Sınıfı|Ürünlerin diğer tanımlar altında tanımlanmış olan ürün sınıflarından bir tanesi seçilebilir. Zorunlu değildir. Amaç bir ürün birden fazla kategoriye girebildiği halde yanlız bir sınıfa dahil olabileceğinden, raporlarda tekil sonuçlar elde edebilmektir. Satış raporunda iki ayrı kategoride satış rakamının mükerrer çıkması gibi.|
+|Ürün Alt Sınıfı|Ürünlerin diğer tanımlar altında tanımlanmış olan ürün alt sınıflarından bir tanesi seçilebilir. Seçilen alt sınıf, sınıf ile ilişkili olanlardan biri olabilir.|
+|Özel Alan|Ürünlerin siteden siteye değişkenlik gösteren ek özellik bilgisidir. Bu özelliklere göre sitede kategorizasyon yapılabilmektedir.|
+|Not|Ürün ile ilgili genel notların tanımlandığı alandır. Ürün yönetim tarafından girilen not, merkezi ürün tanımlandığında her şube için farklı farklı tanımlanabilir. Ancak ürün ile ilgili genel not merkez tarafından ve tek noktadan düzenlenebilir.|
+|Garanti Süresi (Ay)|Ürünün satış sonrası verilen garanti süresinin girildiği alandır.|
+|Ürün Eklenme Tarihi|Ürünün siteye eklendiği tarihin gösterildiği alandır.|
+|En Son Ürün Güncelleme Tarihi|ÜÜrünün en son güncelleme tarihinin gösterildiği alandır.|
+
+
+> ❗️ _Ürünlere seçenek girişi ekleyebilmek için ürün kartını kaydetmeniz gerekmektedir. Bilgileri kaydettikten sonra butonu aktifleşecektir. Bu butona tıklanarak aşağıdaki alanlar doldurulabilir._
+
+<br>
+
+**Ürün Seçenekleri** Ürüne ait varyasyonların seçildiği kısımdır.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Barkod|Ürünün barkodunun girildiği alandır.|
+|Beden|Ürünün bedeninin ![](https://snag.gy/1L3zat.jpg) butonuna tıklayarak seçildiği alandır.	|
+|Kullanılabilir Stok|Ürünün kullanılabilir stok sayısının gösterildiği alandır.|
+|Entegrasyon Kodu|Bu veri 3rd party bir firmadan geliyorsa iki platform arasındaki iletişimi sağlayan kod'a karşılık gelir.|
+|Diğer Barkodlar|Ürüne ait birden fazla barkod varsa bu alanda görünür.|
+|Onay|Bu tanımın aktif edilmesi için bu kutucuğun seçili olması gerekir. Seçili değilse ilgili tanım devreye girmez.|
+
+**Kaydet** butonuna tıklayarak Ürün Seçenekleri bilgileri kaydedilir.
+
+<br>
+## 4. Sekme (Özellikler)
+**Genel Bilgiler** sekmesinde bir özellik seti seçilmiş ise özellik seti için tanımlanmış parametrelerin doldurulacağı bir sekme açılır.  Özellik seti tanımı hakkında bilgi almak için [Tıklayınız](ozellik-seti.md)
+
+<br>
+## 5. Sekme (Pazar Yeri)
+Ürünün dahil edildiği pazaryerlerini gösteren ekrandır. Pazar Yeri modülü hakkında detaylı bilgi almak için [Tıklayınız](pazaryeri-tanimi.md).
+
