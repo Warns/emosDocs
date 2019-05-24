@@ -40,7 +40,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: 'giris', label: 'Giriş' },
-    // { doc: 'doc2', label: 'Patch Release Notes' }
+    { doc: 'doc2', label: 'Patch Release Notes' },
+    { search: true }
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
   ],
@@ -103,7 +104,12 @@ const siteConfig = {
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
   docsSideNavCollapsible: true,
-  docsUrl: ''
+  docsUrl: '',
+  algolia: {
+    apiKey: '49aa344324582e13fb52472b73969032',
+    indexName: 'e-mos',
+    algoliaOptions: {} // Optional, if provided by Algolia
+  },
 };
 
 module.exports = siteConfig;

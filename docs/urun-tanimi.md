@@ -130,7 +130,8 @@ Ana ürünlerle birlikte sunulması istenen yan ürünlerin belirlendiği bölü
 |Bağlı Ürün|Bağlamak istenen bundle ürün bu alanı kullanarak seçilir.|
 |Fiyat Tipi|Bu alanı kullanarak sadece belli bir fiyat tipine bağlı olan kullanıcıların bundle ürünleri görmesi sağlanabilir.|
 |Adet|Seçilen bundle ürün adedinin belirlendiği alandır.|
-|Satış Fiyatı (KDV'siz)|Bu alana girilen fiyat bundle ürününün satış fiyatı haline gelir. Bundle ürünün kendi fiyatından daha indirimli bir fiyat belirlenmek istendiğinde bu alan kullanılır.|Başlangıç Tarihi|Bundle ürününün devreye gireceği tarihin belirlendiği alandır.|
+|Satış Fiyatı (KDV'siz)|Bu alana girilen fiyat bundle ürününün satış fiyatı haline gelir. Bundle ürünün kendi fiyatından daha indirimli bir fiyat belirlenmek istendiğinde bu alan kullanılır.|
+|Başlangıç Tarihi|Bundle ürününün devreye gireceği tarihin belirlendiği alandır.|
 |Bitiş Tarihi|Bundle ürününün devreden çıkacağı tarihin belirlendiği alandır.|
 |Grup|Bundle ürünleri ayrı ayrı gruplara ayırmak için kullanılır. Aynı zamanda bundle ürünleri aynı tek bir grup içerisine dahil ederek isteğe bağlı sıralama yapılabilir.|
 |Sıra|Bundle ürünlerin gösterildiği alanda ürünün görüntülenmesini istediğiniz sıra numarasının belirlendiği alandır.|
