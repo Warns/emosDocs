@@ -19,7 +19,9 @@
         "ids": [
           "urun-tanimi",
           "urun-yonetimi",
-          "kategori-tanimi"
+          "kategori-tanimi",
+          "urun-grubu-tanimi",
+          "urun-dokuman-tanimi"
         ]
       },
       {

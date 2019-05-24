@@ -16,7 +16,10 @@ Bir ürüne tıklandığında aşağıdaki gibi ürün kartı ekranı açılır;
 ![pdct.png](https://snag.gy/AyxwPz.jpg)
 
 <br>
-## 1. Sekme (Genel Bilgiler) 
+Açılan sayfada bulunan sekmelerle ilgili detaylar aşağıdadır;
+
+<br>
+## 1. Genel Bilgiler 
 
 |Alan Adı|Açıklama|Örnek|
 |--|--|--|
@@ -140,7 +143,7 @@ Ana ürünlerle birlikte sunulması istenen yan ürünlerin belirlendiği bölü
 Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ürün tanımlama işlemini tamamlayabilirsiniz.
 
 <br>
-## 2. Sekme (Ürün Yönetim)
+## 2. Ürün Yönetim
 Ürünle ilgili yönetimsel düzenlemelerin yapıldığı ekrandır. Bu ekranının içeriği, **Tanımlar > Ürün Tanımı > Ürün Yönetimi** güncelleme ekranı ile aynıdır.
 
 |Alan Adı|Açıklama|Örnek|
@@ -191,7 +194,7 @@ Sistem çoklu fiyat tipinde çalışıyor ise aşağıda açıklaması verilen �
 |Platform|Bu alan, Ürünün hangi platformdan (Dekstop, Mobil, Mobil API) satışa açılacağını belirtir.||
 
 <br>
-## 3. Sekme (Stok Bilgileri / Diğer)
+## 3. Stok Bilgileri / Diğer
 Stok takibi ile ilişkili tanımlamaların yapıldığı sayfadır.
 
 |Alan Adı|Açıklama|
@@ -228,10 +231,10 @@ Stok takibi ile ilişkili tanımlamaların yapıldığı sayfadır.
 **Kaydet** butonuna tıklayarak Ürün Seçenekleri bilgileri kaydedilir.
 
 <br>
-## 4. Sekme (Özellikler)
+## 4. Özellikler
 **Genel Bilgiler** sekmesinde bir özellik seti seçilmiş ise özellik seti için tanımlanmış parametrelerin doldurulacağı bir sekme açılır.  Özellik seti tanımı hakkında bilgi almak için [Tıklayınız](ozellik-seti.md)
 
 <br>
-## 5. Sekme (Pazar Yeri)
+## 5. Pazar Yeri
 Ürünün dahil edildiği pazaryerlerini gösteren ekrandır. Pazar Yeri modülü hakkında detaylı bilgi almak için [Tıklayınız](pazaryeri-tanimi.md).
 
