@@ -26,9 +26,9 @@ Bir ürün tipi seçtikten sonra aşağıdaki gibi yeni opsiyonlar açılır
 |--|--|--|
 |Kategori|Seçilen ürün tipine bağlı ürünlerin geçtiği kategoriler. Çıkan ürün sonucunu filtrelemek için kullanılır.||
 |Marka|Seçilen ürün tipine bağlı ürünlerin geçtiği markalar. Çıkan ürün sonucunu filtrelemek için kullanılır.||
-|Ürün Sınıfı|Ürün sınıfının seçildiği alandır. Ürün sınıfı bulunanan websitelerde ||
-|Ürün Alt Sınıfı|||
-|Açıklama|||
+|Ürün Sınıfı|Ürün sınıfının seçildiği alandır. Ürün sınıfı bulunan sitelerde çıkan ürün sonucunu filtrelemek için kullanılır.<br><br>Ürün Sınıfı tanımı hakkında bilgi almak için [Tıklayın](#)|Sonbahar2019<br>Yaz2020<br>Yeni Sezon|
+|Ürün Alt Sınıfı|Ürünün alt sınıfının seçildiği alandır. Ürün sınıfı kullanılan sitelerde ayrıca ürünlrin alt sınıfı bulunuyorsa bu alanda çıkan ürün sonucunu filtrelemek için kullanılır. Ürün Alt Sınıfı hakkında bilgi almak için [Tıklayın](#) ||
+|Açıklama|Bu alan ürün açıklamasına karşılık gelmektedir. Ürün açıklaması ile çıkan ürün sonucunu filtrelemek için kullanılır.||
 |Öndeğer Ürün|||
 |İndirimli Ürün|||
 |Stok Sırala|||
