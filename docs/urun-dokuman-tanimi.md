@@ -27,8 +27,8 @@ Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve doküman tan
 > ❗️ _Burada girilen bilgiler "Admin Panel > Tanımlar > Ürün Tanımı" ekranında yer alan "Dokümalar" sekmesi ile ilişkilendirilmelidir._
 
 
-Çoklu Doküman Yükleme Sekmesi|Birden fazla ürün dokümanının aynı ekrandan seçilebilmesini sağlayan sekmedir.|
-<br>
 ## 2. Çoklu Doküman Ekleme
+Çoklu Doküman Yükleme Sekmesi, Birden fazla ürün dokümanının aynı ekrandan seçilebilmesini sağlayan sekmedir.
+
 **Doküman Adı**, **Tipi**, **Doküman** bilgilerini girerek birden fazla doküman yükleme işlemi tamamlanır.
 

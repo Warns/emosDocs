@@ -21,7 +21,9 @@
           "urun-yonetimi",
           "kategori-tanimi",
           "urun-grubu-tanimi",
-          "urun-dokuman-tanimi"
+          "urun-dokuman-tanimi",
+          "urun-parametre-tipi",
+          "urun-siralama"
         ]
       },
       {

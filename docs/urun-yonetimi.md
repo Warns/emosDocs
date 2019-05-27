@@ -24,6 +24,5 @@ Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklam
 > ❗️ _Ürün Yönetimi ekranından bir ürüne tıklandığında ürün tanımındaki Ürün Yönetim sekmesi açılır._
 
 <br>
-
 Ürün Yönetim ekranıyla ilgili detaylar için [Tıklayınız](urun-tanimi.md#2-sekme-urun-yonetim).
 
