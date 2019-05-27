@@ -34,3 +34,4 @@ Bir ürün tipi seçtikten sonra aşağıdaki gibi yeni opsiyonlar açılır
 |Stok Sırala|||
 ||||
 ||||
+||||
