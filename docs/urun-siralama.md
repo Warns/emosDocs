@@ -26,7 +26,7 @@ Bir ürün tipi seçtikten sonra aşağıdaki gibi yeni opsiyonlar açılır
 |--|--|--|
 |Kategori|Seçilen ürün tipine bağlı ürünlerin geçtiği kategoriler. Çıkan ürün sonucunu filtrelemek için kullanılır.||
 |Marka|Seçilen ürün tipine bağlı ürünlerin geçtiği markalar. Çıkan ürün sonucunu filtrelemek için kullanılır.||
-|Ürün Sınıfı|||
+|Ürün Sınıfı|Ürün sınıfının seçildiği alandır. Ürün sınıfı bulunanan websitelerde ||
 |Ürün Alt Sınıfı|||
 |Açıklama|||
 |Öndeğer Ürün|||
