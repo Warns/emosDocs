@@ -1,6 +1,6 @@
 ---
 id: urun-parametre-tipi
-title: Ürün Parametre Tipi???
+title: Ürün Parametre Tipi+
 ---
 
 ???
