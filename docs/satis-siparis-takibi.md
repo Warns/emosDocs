@@ -16,3 +16,5 @@ Ekran standartları için
 |||
 
 ***Burada screen shot vardı***
+
+gygg
