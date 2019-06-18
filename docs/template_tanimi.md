@@ -1,0 +1,1 @@
+Template Yönetimi sayfasında "Ekle" butonuna tıklayarak açılan "Template Güncelle" sayfasında Template Adı, Onay bilgisi girilerek, Template Parametreleri sayfası aktif hale getirilir.
