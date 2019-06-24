@@ -19,12 +19,18 @@ Bu sıralama seçeneği ile ürün tipine bağlı olan ürünlerin sırasını d
 
 Bir ürün tipi seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
+![](https://snag.gy/GWpahF.jpg)
 
 
-![](https://snag.gy/1douUe.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
-<br>
+
+
+Ürünleri filtreledikten sonra ilgili ürün tipi sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
+
+![](https://snag.gy/9nVBp1.jpg)
+
+> ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
 
 
