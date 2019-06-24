@@ -54,32 +54,59 @@ Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer �
 
 <br>
 ## 3. Marka Sırası
-Bu sıralama seçeneği, kategoriye bağlı olan ürünlerin sırasını değiştirmek için kullanılır. 
+Bu sıralama seçeneği, markaya bağlı olan ürünlerin sırasını değiştirmek için kullanılır. 
 
-**Sıralama Tipi** alanından **Kategori Sırası** seçeneği seçildiğinde **Kategori** adında yeni bir alan açılır. Bu alanı kullanarak sisteme önceden tanımlanmış kategoriler görülebilir.
+**Sıralama Tipi** alanından **Marka Sırası** seçeneği seçildiğinde **Marka** adında yeni bir alan açılır. Bu alanı kullanarak sisteme önceden tanımlanmış markalar görülebilir.
 
-Kategori Tanımı hakkında bilgi almak için lütfen [Tıklayınız](kategori-tanimi.md).
+***Marka Tanımı hakkında bilgi almak için lütfen [Tıklayınız](#).***
 
-Bir kategori seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
+Bir marka seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/s5vtG9.jpg)
+![](https://snag.gy/UZpl4h.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
 
-Ürünleri filtreledikten sonra önyüzde ilgili kategori sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
+Ürünleri filtreledikten sonra önyüzde ilgili marka sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/TMAC1V.jpg)
+![](https://snag.gy/qWEZU7.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
+<br>
+## 4. Vitrin Sırası
+Bu sıralama seçeneği, vitrin ürünlere bağlı olan ürünlerin sırasını değiştirmek için kullanılır. 
 
-|Marka|Seçilen ürün tipine bağlı ürünlerin geçtiği markalar. Çıkan ürün sonucunu filtrelemek için kullanılır.||
-|Ürün Sınıfı|Ürün sınıfının seçildiği alandır. Ürün sınıfı bulunan sitelerde çıkan ürün sonucunu filtrelemek için kullanılır.<br><br>Ürün Sınıfı tanımı hakkında bilgi almak için [Tıklayın](#)|Sonbahar2019<br>Yaz2020<br>Yeni Sezon|
-|Ürün Alt Sınıfı|Ürünün alt sınıfının seçildiği alandır. Ürün sınıfı kullanılan sitelerde ayrıca ürünlrin alt sınıfı bulunuyorsa bu alanda çıkan ürün sonucunu filtrelemek için kullanılır. Ürün Alt Sınıfı hakkında bilgi almak için [Tıklayın](#) ||
-|Açıklama|Bu alan ürün açıklamasına karşılık gelmektedir. Ürün açıklaması ile çıkan ürün sonucunu filtrelemek için kullanılır.||
-|Öndeğer Ürün|||
-|İndirimli Ürün|||
-|Stok Sırala|||
-||||
-||||
-||||
+**Sıralama Tipi** alanından **Vitrin Sırası** seçeneği ile, sistemde vitrin ürün olarak işaretlenen ürünler listelenir.
+
+***Ürün Yönetimi sayfasında bulunan Anasayfada Göster/Gösterme yapısı vitrin ürün için kullanılır. Ürün Yönetimi hakkında bilgi almak için lütfen [Tıklayınız](urun-yonetimi.md).***
+
+**Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
+
+![](https://snag.gy/QIyqEP.jpg)
+
+Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
+
+Ürünleri filtreledikten sonra önyüzde anasayfada en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
+
+![](https://snag.gy/xPMtK5.jpg)
+
+> ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
+
+<br>
+## 5. Ürün Sırası
+Bu sıralama seçeneği, ürün liste (/urun_liste.aspx) sayfasında bulunan ürünlerin sırasını değiştirmek için kullanılır. 
+
+**Sıralama Tipi** alanından **Ürün Sırası** seçeneği ile, sistemde bulunan tüm ürünlerin olduğu ürün liste sayfasındaki ürünler listelenir. 
+
+**Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
+
+![](https://snag.gy/QIyqEP.jpg)
+
+Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
+
+Ürünleri filtreledikten sonra önyüzde anasayfada en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
+
+![](https://snag.gy/pNhFCo.jpg)
+
+> ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
+
