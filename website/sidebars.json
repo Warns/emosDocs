@@ -22,8 +22,12 @@
           "kategori-tanimi",
           "urun-grubu-tanimi",
           "urun-dokuman-tanimi",
-          "urun-parametre-tipi",
-          "urun-siralama"
+          "urun-siralama",
+          "ozellik-seti",
+          "ozellik-parametre",
+          "urun-secenek-tanimi",
+          "marka-tanimi",
+          "es-anlamli-kelime"
         ]
       },
       {
