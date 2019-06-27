@@ -236,6 +236,6 @@ Stok takibi ile ilişkili tanımlamaların yapıldığı sayfadır.
 **Genel Bilgiler** sekmesinde bir özellik seti seçilmiş ise özellik seti için tanımlanmış parametrelerin doldurulacağı bir sekme açılır.  Özellik seti tanımı hakkında bilgi almak için [Tıklayınız](ozellik-seti.md)
 
 <br>
-## 5. Pazar Yeri
+## 5. Pazaryeri
 Ürünün dahil edildiği pazaryerlerini gösteren ekrandır. Pazar Yeri modülü hakkında detaylı bilgi almak için [Tıklayınız](pazaryeri-tanimi.md).
 

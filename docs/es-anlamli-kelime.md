@@ -12,7 +12,7 @@ Yeni bir eş anlamlı kelime kaydı oluşturmak için **Ekle** butonuna tıklan�
 |Alan Adı|Açıklama|
 |--|--|
 |Kelime|**Eş Anlamlı Kelimeler:** Bu seçeneği kullanarak birbirine benzer kelimeler eş anlamlı olarak belirtilebilir.<br><br>**Çıkarılacak Kelimeler:** Bu seçeneği kullanarak Kelimeler bölümünde belirtilen kelimeler arama sonucundan çıkarılabilir|
-|Kelimeler||
+|Kelimeler|Eş anlamlı kelimelerin girildiği alandır.|
 
 Gerekli bilgiler girildikten sonra **Kaydet** butonuna tıklayarak marka tanım işlemi tamamlanır.
 
