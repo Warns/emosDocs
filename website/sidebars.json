@@ -34,7 +34,9 @@
         "type": "subcategory",
         "label": "Pazaryeri",
         "ids": [
-          "pazaryeri-tanimi"
+          "pazaryeri-tanimi",
+          "pazaryeri-log",
+          "pazaryeri-urunleri"
         ]
       },
       {
