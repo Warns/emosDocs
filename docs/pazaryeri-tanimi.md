@@ -28,12 +28,12 @@ Pazaryeri için kullanılacak fiyat tipi, ödeme tipi, nakliye şekli, entegrasy
 |API Secret|Pazaryeri tarafından, pazaryerine entegre olacak firmaya verilen api secret bilgisinin girildiği alandır. Bu alan her pazarı yeri için doldurulmak zorun değildir.|
 |Şablon Adı|Pazaryerinde öncelikle bir şablon oluşturup ürünleri bu şablon altında aktarılması gerekebiliyor. Bu şablon bilgisinin girildiği alanı temsil etmektedir.|
 |Öndeğer Tes.Süresi|Pazaryerine gönderilen ürünün teslimat süresinin belirtildiği alandır.|
-|Marketplace ID||
-|Authorization Token||
+|Marketplace ID|Amazonda mevcut pazar (Örneğin: amazon.com.tr)|
+|Authorization Token|Belirli bir Amazon satıcısının belirli bir uygulama geliştiricisine ait yetkiyi temsil eder. Sadece web uygulamaları ve 3rd party geliştirici yetkilendirmelerinde kullanılır.|
 |Onay|Pazaryeri tanımının durumunu gösteren alandır. Aktif etmek için işaretlenmesi gerekir.|
-|Yalnız Ana Resim Ver||
-|Barkod Kırılımlı Çalışsın||
-|HepsiExpress Aktif Mi||
+|Yalnız Ana Resim Ver|Pazaryerine ürün görselini bildirirken sadece ana görseli bildirmek için kullanılır.|
+|Barkod Kırılımlı Çalışsın|Barkod bazında bildirim yapılabilen pazaryerlerinde bedenli/seçenekli ürün bildirimi yapılırsa kullanılır.  (Hepsiburada, Morhipo, Trendyol)|
+|HepsiExpress Aktif Mi|Sadece Hepsiburada pazaryeri için geçerlidir. Kargo olarak HepsiExpress'i aktif etmek için kullanılır.|
 
 <br>
 ### 1.2. Ürün
@@ -43,9 +43,9 @@ Pazaryerine belli başlı markalara ait ürünlerin, kategorilere ait ürünler 
 |--|--|
 |Markalar (Dahil/Hariç)|Pazaryerine gönderilmesi veya gönderilmemesi istenen markaların seçildiği alandır. Sistem seçilen markaların gönderip göndermeme kararını markalar seçimin hemen sağ tarafında yer alan “Dahil/Hariç” seçimine göre karar vermektedir.|
 |Kategoriler (Dahil/Hariç)|Pazaryerine gönderilmesi veya gönderilmemesi istenen kategorilerin seçildiği alandır. Sistem seçilen kategorilerin gönderip göndermeme kararını kategoriler seçimin hemen sağ tarafında yer alan “Dahil/Hariç” seçimine göre karar vermektedir.|
-|Min. Stok Miktarı|Ürünün mevcut stoğundan ne kadar düşülerek pazaryerine gönderileceği bilgisinin girildiği alandır.<br><br>**Örnek:** X ürünün 5 adet stoğu olsun. Bu alana da 2 değeri girilmiş olsun. Pazar yeri görevi çalıştığında X ürünü için 3 adet stok bilgisi gönderilecektir.|
-|Max. Stok Miktarı||
-|Stok Dağıtım Oranı||
+|Min. Stok Miktarı|Ürünün mevcut stoğundan ne kadar düşülerek pazaryerine gönderileceği bilgisinin girildiği alandır.<br><br>**Örnek:** X ürünün 5 adet stoğu mevcut. Bu alana da 2 değeri girildi. Pazaryeri görevi çalıştığında X ürünü için 3 adet stok bilgisi gönderilecektir.|
+|Max. Stok Miktarı|Ürünün mevcut stoğundan pazaryerine maksimum gönderilecek stoğunu belirler.<br><br>**Örnek:**X ürünün 10 stoğu mevcut ve maximum stok alanına 5 girildi. Eğer stok 5'ten büyükse 5 gönderir değilse o anki stoğu gönderecek şeklinde kontrol işlemi yapılır.|
+|Stok Dağıtım Oranı|Toplam stoğun pazaryerine gönderilecek stok oranının bilgisini belirler.|
 
 <br>
 ### 1.3. Marka Eşleme
@@ -75,7 +75,7 @@ Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** but
 |--|--|
 |Kategori|e-MOS sisteminde yer alan kategorilerin seçildiği alandır.|
 |Karşılık Kategori|Pazaryerinden çekilen kategorilerin seçildiği alandır.|
-|Kategori Tipi||
+|Kategori Tipi|Amazon kategori tipi yapısına özel bir alandır.|
 |Onay|Kategori eşlemesinin durumunun belirtildiği alandır.|
 
 <br>

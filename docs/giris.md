@@ -3,7 +3,7 @@ id: giris
 title: e-MOS'a Giriş
 ---
 
-### **Bu döküman e-MOS Sanal Mağaza uygulamasını kullanmaya başlamanızda size yardımcı olmak amacıyla hazırlanmıştır.**
+### Bu döküman e-MOS Sanal Mağaza uygulamasını kullanmaya başlamanızda size yardımcı olmak amacıyla hazırlanmıştır.
 
 e-MOS Sanal Mağaza uygulaması web tabanlı çalışan bir e-ticaret sistemidir. Bu dökümanda e-MOS Sanal Mağaza uygulamasının menü komutlarıyla nasıl kullanılacağı açıklanmıştır. Ancak yaygın olarak kullanılan çoğu görevi ekran standartları sayfasında veya kullanıcı arabirimindeki linkler yardımıyla da gerçekleştirebilirsiniz.
 

@@ -1,4 +1,9 @@
-**Arama :** Satış Fiyat Listesi girişinin yapıldığı bu ekranda yeralan arama bloğu ile **Liste No, Ürün,Fiyat Tipi , Para Birimi, Açıklama** kriterleri üzerinden **ARA**  butonuna tıklanarak arama işlemi gerçekleştirilebilir.
+---
+id: satis-fiyat-listesi-giris
+title: Satış Fiyat Listesi Giriş
+---
+
+**Arama:** Satış Fiyat Listesi girişinin yapıldığı bu ekranda yeralan arama bloğu ile **Liste No, Ürün, Fiyat Tipi, Para Birimi, Açıklama** kriterleri üzerinden **ARA**  butonuna tıklanarak arama işlemi gerçekleştirilebilir.
 
 Yeni bir satış fiyat listesi girişi oluşturmak için  **Ekle** butonuna tıklanılır açılan sayfadaki form doldurulur.
 
@@ -23,4 +28,4 @@ Yukarıdaki form doldurulup kaydettikten sonra  **Hızlı Liste Oluştur** buton
 |Ürün|Ürün isminin seçilmesi gerekli olan alandır.|
 |Birim Fiyat|Ürünün birim fiyatının girilmesi gerekli olan alandır.|
 
-- **Hızlı Liste Oluştur** butonuna tıkladığınızda ise **Liste No,Tüm Ürünler,Kategori,Oran,İşlem** kriterlerinden oluşan blok açılır.Bu alanları doldurup **KAYDET** butonuna tıklamanız gererkir.
+- **Hızlı Liste Oluştur** butonuna tıkladığınızda ise **Liste No, Tüm Ürünler, Kategori, Oran,İşlem** kriterlerinden oluşan blok açılır.Bu alanları doldurup **KAYDET** butonuna tıklamanız gererkir.

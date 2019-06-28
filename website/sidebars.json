@@ -32,6 +32,25 @@
       },
       {
         "type": "subcategory",
+        "label": "Fiyat Güncelleme",
+        "ids": [
+          "satis-fiyat-listesi-giris",
+          "toplu-fiyat-guncelleme",
+          "tekli-fiyat-guncelle"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Nakliye",
+        "ids": [
+          "nakliye-tanimi",
+          "nakliye-kural-tanimi",
+          "nakliye-bolge-tanimi",
+          "tasiyici-tanimi"
+        ]
+      },
+      {
+        "type": "subcategory",
         "label": "Pazaryeri",
         "ids": [
           "pazaryeri-tanimi",
