@@ -5,7 +5,7 @@ title: Ürün Tanımı
 
 Sistemde kullanılacak olan ürünlerin tanımlandığı sayfadır.
 
-Sayfanın kullanımında gerekli temel bilgilere ulaşmak için [Tıklayınız](ekran-standartlari.md).
+Sayfanın kullanımında gerekli temel bilgilere ulaşmak için [Tıklayın](ekran-standartlari.md).
 
 ![image.png](https://snag.gy/WZqncJ.jpg)
 

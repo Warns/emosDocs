@@ -59,6 +59,20 @@
         ]
       },
       {
+        "type": "subcategory",
+        "label": "Diğer",
+        "ids": [
+          "diger-tanimlar",
+          "veri-aktarimi",
+          "ozellik-karsilik",
+          "hizmet-tanimi",
+          "servis-tanimi",
+          "hediye-paketi-tanimi",
+          "urun-ozellik-tanimi",
+          "abonelik-tanimi"
+        ]
+      },
+      {
         "type": [
           {
             "type": "subcategory",
