@@ -2120,7 +2120,7 @@ input::placeholder {
       padding: 10px 0 2px 15px;
     }
     /*added to change the font-weight of the right side nav bar*/
-    .toc-headings strong{font-weight: 300;} 
+    .toc-headings strong{font-weight: 400;} 
     .tocToggler {
       display: none;
     }

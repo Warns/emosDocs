@@ -68,22 +68,20 @@ Entegrasyonda kullanılacak olan örnek excel'i bir önceki maddede belirtilen i
 |EUR_SAYFABASLIK|Ürünün adının yazılacağı alana karşılık gelir. Aynı zamanda internet tarayıcısı üzerinde de bu başlık görünür.|
 |EUR_SAYFAISMI|Ürün URL'ine karşılık gelir. <br><br>❗ _Ürün URL'leri "/" veya ".html" ile bitmesi gerekir._|
 |EUR_URUNTIPI|Ürün tipine karşılık gelir.<br><br>❗ _Ürün Tipi hakkında ayrıntılı bilgi almak için [Tıklayın](diger-tanimlar.md#urun-tipi) |
-|EUR_SERVIS_FL||
-|EUR_STYLE||
-|EUR_KISAKOD||
-|EUR_GUMRUKTIPI||
-|EUR_ACIKLAMA2||
-|EUR_YENIURUN_FL||
-|EUR_TEKSATILAMAZ_FL||
-|EUR_MAXTAKSITSAYISI||
-|EUR_LISTEGOSTERILMESIN_FL||
-|EUR_MINADET||
-|EUR_MAXADET||
-|EUR_AGIRLIK||
-|EUR_OZS_KOD||
-|EUR_TESLIMSURESI||
-|EUR_KEYWORD||
-|EUR_KEYWORD_RANK||
+|EUR_SERVIS_FL|Servis (Kurulum, monte vs) gerektiren ürüne karşılık gelir.|
+|EUR_STYLE|Frontend ekibi tarafından önyüzü özelleştirmek için kullanılan Class alanına karşılık gelir.|
+|EUR_KISAKOD|Ürünün kısa koduna karşılık gelir. Kısa kod ürün kodundan farklı olabilir. Ön yüzde farklı bir gösterim için de kullanılabilir.|
+|EUR_GUMRUKTIPI|Gümrük tipine karşılık gelir. |
+|EUR_ACIKLAMA2|Ürünün detaylı açıklama alanına karşılık gelir. Bu alana HTML kod da eklenebilir.|
+|EUR_YENIURUN_FL|Ürünün yeni olup olmadığını belirtir. Entegrasyonda bu gibi bir ayar eklendiyse her yeni ürün geldiğinde bu alanın otomatik olarak seçilmesi ayarlanabilir.|
+|EUR_TEKSATILAMAZ_FL|Ürün tek satılamaz. Birlikte satılan veya birden çok parçaya sahip ürünler için geçerlidir.|
+|EUR_MAXTAKSITSAYISI|Alışveriş yaparken ilgili üründen maksimum yaralanabilecek taksit sayısına karşılık gelir.|
+|EUR_LISTEGOSTERILMESIN_FL|Herhangi bir ürünü ürün listede görünmemesini sağlamak için kullanılır.|
+|EUR_MINADET|Üründen tek seferde satın alınabilecek minimum ürün adedi.|
+|EUR_MAXADET|Üründen tek seferde satın alınabilecek maksimum ürün adedi.|
+|EUR_AGIRLIK|Ürünün ağırlık bilgisnin belirtildiği alandır.
+|EUR_OZS_KOD|Ürüne ait Özellik Setinin belirtildiği alandır.|
+|EUR_TESLIMSURESI|Ürünün teslim süresine karşılık gelir. Gün olarak çalışan bu alan, Pazaryeri modülü için de kullanılabilir.<br><br>❗ _Sağlıklı çalışması için bu alan kargo firmasıyla anlaşmalı olarak belirtilmeli_|
 
 
 Bu alanları doldurup dosyayı seçtikten sonra, Ürün Listele sol menüsü üzerindeki yükle butonu ile ürünleri ara tabloya yükleyebilirsiniz.

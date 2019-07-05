@@ -1,3 +1,8 @@
+---
+id: satis-faturalari
+title: Satış Faturaları
+---
+
 Faturaların detaylı bir şekilde listelendiği sayfadır.
 
 Siparişleri filtrelemek için aşağıda bulunan seçenekler açıklamaları ile belirtilmiştir. Bu seçenekler kullanılarak filtreleme işlemleri gerçekleştirilebilir.
@@ -30,4 +35,4 @@ Sipariş Fatura ekranına, fatura aktarımlarının entegrasyonla yapıldığı 
 Eğer aktarımda bir hata varsa panele eklenen **"Akt.Hata"** butonu aktif olacak ve bu butona tıklandığında hata bilgisi alert şekilde kullanıcıya gösterilecektir.
 
 
-***Buraya screenshot gelicek***
+***Buraya screenshot gelecek***

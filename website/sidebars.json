@@ -88,6 +88,19 @@
           }
         ]
       }
+    ],
+    "Satış": [
+      {
+        "type": "subcategory",
+        "label": "Sipariş Takibi",
+        "ids": [
+          "satis-siparis-takibi",
+          "sevk-planlama",
+          "satis-sevk-yonetimi",
+          "satis-faturalari",
+          "iade-faturasi-girisi"
+        ]
+      }
     ]
   }
 }

@@ -1,3 +1,8 @@
+---
+id: satis-siparis-takibi
+title: Satış Sipariş Takibi
+---
+
 Önyüzden gelen siparişlerin sevkiyat sürecine kadar yönetildiği ekranlardır. Ayrıca bu modül telefonla veya başka yollarla gelen siparişlerin (önyüzden verilmeyen siparişler) sisteme girilmesini sağlamak amacıyla da kullanılmaktadır.
 
 Ekran standartları için Tıklayınız.

@@ -1,3 +1,8 @@
+---
+id: iade-faturasi-girisi
+title: İade Faturası Girişi
+---
+
 Müşterilerin herhangi bir nedenden dolayı iade ettikleri ürünlerin faturalarının belirli kriterlerde raporlayan sayfadır.
 
 Ekran standartları için Tıklayınız.

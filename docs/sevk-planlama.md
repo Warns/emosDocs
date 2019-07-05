@@ -1,3 +1,8 @@
+---
+id: sevk-planlama
+title: Sevk Planlama
+---
+
 Yeni bir sevk planlama bilgisi eklemek için  **Ekle**   butonuna tıklanarak açılan aşağıdaki formun doldurulması gerekir.
 
 **1.Sekme (Genel Bilgiler )**
