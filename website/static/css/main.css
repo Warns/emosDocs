@@ -130,7 +130,7 @@ body {
 
 strong,
 b {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 em,
@@ -144,12 +144,14 @@ i {
 }
 
 a {
-  color: $primaryColor;
+  color: rgb(92, 92, 255);
+  font-weight: 500;
   text-decoration: none;
 }
 
 a:hover {
-  color: $primaryColor;
+  color: blue;
+  font-weight: 500;
   text-decoration: none;
 }
 
@@ -274,7 +276,7 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-  background-color: #f6f8fa;
+  background-color: rgba(0, 0, 0, 0.051);
 }
 
 table th,
@@ -285,8 +287,9 @@ table td {
 
 table th {
   background-color: inherit;
-  color: inherit;
-  font-weight: 600;
+  color: inhererit;
+  font-weight: bold;
+  text-align: -webkit-center;
 }
 
 table td {
@@ -446,9 +449,9 @@ article iframe {
 
 /* Buttons */
 .button {
-  border: 1px solid $primaryColor;
+  border: 1px solid #515151
   border-radius: 3px;
-  color: $primaryColor;
+  color: #515151;
   display: inline-block;
   font-size: 14px;
   font-weight: 400;
@@ -460,8 +463,8 @@ article iframe {
 }
 
 .button:hover {
-  background: $primaryColor;
-  color: #fff;
+  background: white;
+  color: black;
 }
 
 /* Headers */
@@ -734,9 +737,10 @@ blockquote {
 
 /* Navbar */
 .fixedHeaderContainer {
-  background: #b8b8b8;
-  color: #fff;
+  background: white;
+  color: black;
   min-height: 50px;
+  border-bottom: 1px solid #e4e4e4;
   padding: 8px 0;
   position: fixed;
   width: 100%;
@@ -864,7 +868,7 @@ input[type='search'] {
 }
 
 .navSearchWrapper:before {
-  border: 3px solid #e5e5e5;
+  border: 3px solid #515151;
   border-radius: 50%;
   content: ' ';
   display: block;
@@ -878,7 +882,7 @@ input[type='search'] {
 }
 
 .navSearchWrapper:after {
-  background: #e5e5e5;
+  background: #515151;
   content: ' ';
   height: 7px;
   left: 24px;
@@ -902,8 +906,8 @@ input[type='search'] {
 .navSearchWrapper
   .aa-dropdown-menu
   .algolia-docsearch-suggestion--category-header {
-  background: $primaryColor;
-  color: white;
+  background: rgb(29, 29, 29);
+  color: rgb(255, 255, 255);
   font-size: 14px;
   font-weight: 400;
 }
@@ -912,8 +916,8 @@ input[type='search'] {
   .aa-dropdown-menu
   .algolia-docsearch-suggestion--category-header
   .algolia-docsearch-suggestion--highlight {
-  background-color: $primaryColor;
-  color: #fff;
+  background-color: white;
+  color: black;
 }
 
 .navSearchWrapper
@@ -924,21 +928,21 @@ input[type='search'] {
   .aa-dropdown-menu
   .algolia-docsearch-suggestion--subcategory-column
   .algolia-docsearch-suggestion--highlight {
-  color: $primaryColor;
+  color: red;
 }
 
 .navSearchWrapper .aa-dropdown-menu .algolia-docsearch-suggestion__secondary,
 .navSearchWrapper
   .aa-dropdown-menu
   .algolia-docsearch-suggestion--subcategory-column {
-  border-color: rgba(57, 57, 57, 0.3);
+  border-color: #e4e4e4;
 }
 
 input#search_input_react {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
   border: none;
   border-radius: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 14px;
   font-weight: 300;
   line-height: 20px;
@@ -962,7 +966,7 @@ input#search_input_react {
 
 input#search_input_react:focus,
 input#search_input_react:active {
-  color: #fff;
+  color: black;
   width: 220px;
 }
 .navigationSlider .slidingNav .navSearchWrapper .algolia-docsearch-footer a {
@@ -983,7 +987,7 @@ input::-moz-placeholder {
 }
 
 input::placeholder {
-  color: #e5e5e5;
+  color: #7c7c7c; /*placeholdercolor*/
 }
 
 .hljs {
@@ -1259,7 +1263,7 @@ input::placeholder {
 }
 
 .navigationSlider .slidingNav ul {
-  background: $secondaryColor;
+  background: white;
   box-sizing: border-box;
   color: #fff;
   display: flex;
@@ -1268,6 +1272,7 @@ input::placeholder {
   margin-top: 50px;
   padding: 0;
   width: 100%;
+  
 }
 
 .navigationSlider .slidingNav.slidingNavActive ul {
@@ -1279,13 +1284,13 @@ input::placeholder {
   margin: 0;
   text-align: center;
   white-space: nowrap;
+  
 }
 
 .navigationSlider .slidingNav ul li a {
   align-items: center;
   box-sizing: border-box;
-  color: $primaryColor;
-  color: inherit;
+  color: #717171;
   display: flex;
   font-size: 0.9em;
   height: auto;
@@ -1300,7 +1305,8 @@ input::placeholder {
 .navigationSlider .slidingNav ul li > a:hover,
 .navigationSlider .slidingNav ul li.siteNavItemActive > a,
 .navigationSlider .slidingNav ul li.siteNavGroupActive > a {
-  background-color: "#b8b8b8";
+  background-color: rgb(255, 255, 255); /*giriscolor */
+  color: black;
 }
 /* End of Navigation Slider */
 
@@ -1386,7 +1392,7 @@ input::placeholder {
 
 @media only screen and (max-width: 1024px) {
   .reactNavSearchWrapper input#search_input_react {
-    background-color: rgba(242, 196, 178, 0.25);
+    background-color: rgba(255, 255, 255, 0.25);
     border: none;
     border-radius: 20px;
     box-sizing: border-box;
@@ -1403,8 +1409,8 @@ input::placeholder {
 
   .reactNavSearchWrapper input#search_input_react:focus,
   .reactNavSearchWrapper input#search_input_react:active {
-    background-color: $primaryColor;
-    color: #fff;
+    background-color: white;
+    color: rgb(0, 0, 0);
   }
 
   .reactNavSearchWrapper .algolia-docsearch-suggestion--subcategory-inline {
@@ -1493,11 +1499,11 @@ input::placeholder {
 
   .navigationSlider .slidingNav ul li a {
     border: 0;
-    color: rgba(255, 255, 255, 0.8);
+    color: #717171;
     display: flex;
     font-size: 16px;
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 400;
     height: 32px;
     line-height: 1.2em;
     margin: 0;
@@ -1508,7 +1514,8 @@ input::placeholder {
   .navigationSlider .slidingNav ul li a:hover,
   .navigationSlider .slidingNav ul li.siteNavItemActive a,
   .navigationSlider .slidingNav ul li.siteNavGroupActive a {
-    color: #fff;
+    color: rgb(0, 0, 0); /*girisfontcolor*/
+    
   }
 }
 
@@ -1881,11 +1888,11 @@ input::placeholder {
 
 .toc .toggleNav ul li a:hover,
 .toc .toggleNav ul li a:focus {
-  color: $primaryColor;
+  color: black;
 }
 
 .toc .toggleNav ul li.navListItemActive a {
-  color: $primaryColor;
+  color: black;
 }
 
 .docsSliderActive .toc .navBreadcrumb,
@@ -2004,7 +2011,7 @@ input::placeholder {
 }
 
 .onPageNav::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #c2c2c2;
   border-radius: 10px;
 }
 
@@ -2012,8 +2019,13 @@ input::placeholder {
   background: #555;
 }
 
-.onPageNav a {
-  color: #717171;
+.onPageNav b {
+  color: #b9b9b9;
+}
+
+/*onpagenavtext*/
+.onPageNav a:hover {
+  color: black;
 }
 
 .onPageNav ul {
@@ -2107,7 +2119,8 @@ input::placeholder {
       border-left: 1px solid #e0e0e0;
       padding: 10px 0 2px 15px;
     }
-
+    /*added to change the font-weight of the right side nav bar*/
+    .toc-headings strong{font-weight: 300;} 
     .tocToggler {
       display: none;
     }
@@ -2295,16 +2308,18 @@ input::placeholder {
 
 /* Start of Footer */
 .nav-footer {
-  background: #20232a;
-  border: none;
+  background: #ffffff;
+  border-top: 1px solid #e4e4e4;
   color: #202020;
   font-size: 15px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
   line-height: 24px;
+  min-height: 50px;
+  max-height: 50px;
   padding-bottom: 2em;
-  padding-top: 2em;
+  padding-top: 1em;
   position: relative;
 }
 
@@ -2405,7 +2420,7 @@ input::placeholder {
 }
 
 .nav-footer .copyright {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(0, 0, 0, 0.4);
   text-align: center;
 }
 

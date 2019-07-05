@@ -43,31 +43,48 @@ Entegrasyonda kullanılacak olan örnek excel'i bir önceki maddede belirtilen i
 ### 2.1. Ürün Yükle 
 Ürün aktarımı yapmak için Product sheetinin üzerine tıklayarak aşağıdaki alanları doldurmanız gerekmektedir.
 
-EUR_URUN_KODU (Ürün Kodu), EUR_AD (Ürün Adı), EUR_MARKA (Marka), EUR_VERGI (Vergi), EUR_RESIMLER (Resim), EUR_OZELLIK (Özellik), EUR_KAT_KODLAR (Bağlı Kategoriler), EUR_URUN_KODU_UST (Bağlı Ürün kodu), EUR_GRUP_FL (Ürün Gurubu varmı), EUR_AD_KISA (Ürün Kısa Ad), EUR_KISAACIKLAMA (Ürün Kısa Açıklama), EUR_URUN_ONYUZKODU (Önyüz Ürün Kodu), EUR_DESI (Desi), EUR_SATISKATI (Satış Katı), EUR_IMAGEZOOM_FL (Zoom), EUR_ONAY_FL (Onay), LNG_CULTURENAME (Language), EUR_OZA_AD1 (Özel Alan 1), EUR_OZA_AD2 (Özel Alan 2), EUR_METADESCRIPTION (Meta Description), EUR_SAYFABASLIK (Sayfa Başlık), EUR_SAYFAISMI (Sayfa İsmi), EUR_KISAACIKLAMA2 (Ürün Kısa Açıklama 2), EUR_URUNTIPI (Ürün Tipi), EUR_SERVIS_FL (Servis Gerektiren Ürün), EUR_STYLE (Class), EUR_KISAKOD (Kısa Kod), EUR_GUMRUKTIPI (Gümrük Tipi), EUR_ACIKLAMA2 (Açıklama 2), EUR_YENIURUN_FL (Yeni Ürün), EUR_TEKSATILAMAZ_FL (Tek Satılmaz), EUR_MAXTAKSITSAYISI (Max. Taksit Sayısı), EUR_LISTEGOSTERILMESIN_FL (Ürün Liste Gösterilmesin), EUR_MINADET (Min Adet), EUR_MAXADET (Max Adet), EUR_AGIRLIK (Net Ağırlık), EUR_OZS_KOD (Özellik Seti), EUR_TESLIMSURESI (Teslim Süresi), EUR_KEYWORD (Anahtar Kelimeler), EUR_KEYWORD_RANK (Keyword Rank)
-
-
 |Alan Adı|Açıklama|
 |--|--|
 |EUR_URUN_KODU|Aktarılacak ürüne ait Ürün kodu bu alana girilmelidir.|
 |EUR_AD|Aktarılacak ürüne ait Ürün adı bilgisi bu alana girilmelidir.|
 |EUR_MARKA|Aktarılacak ürünü bağlamak istediğiniz marka entegrasyon kodunu bu alana yazmalısınız.<br><br>❗ _Eğer Daha önce oluşturulmamış bir entegrasyon kodu yazarsanız. Buraya yazacağınız bilgi ile yeni bir marka oluşturulacaktır. Marka Tanımları hakkında bilgi almak için [Tıklayın](marka-tanimi.md)._|
-|EUR_VERGI||
-|EUR_RESIMLER||
-|EUR_OZELLIK||
-|EUR_KAT_KODU||
-|EUR_KODU_UST||
-|EUR_GRUP_FL||
-|EUR_AD_KISA||
-|EUR_KISAACIKLAMA||
-|EUR_URUN_ONYUZKODU||
-|EUR_DESI||
-|EUR_SATISKATI||
-|EUR_IMAGEZOOM|
-|EUR_ONAY_FL||
-|LNG_CULTURENAME||
-|TEDARIKCI_KOD||
-|EUR_OZEL_AD1||
-|EUR_OZEL_AD2||
+|EUR_VERGI|Aktarılacak ürüne bağlamak istediğiniz Vergi Tipi adını bu alana yazmalısınız.|
+|EUR_RESIMLER|Aktarılacak ürüne bağlamak istediğiniz görsellerin FTP deki yollarını bu alana yazmalsınız. Birden fazla görsel yolunu virgül ile ayırmalısınız.|
+|EUR_OZELLIK|Aktarılacak ürüne ait Açıklama metnini bu alana girmelisiniz. Bu alanda html kullanabilirsiniz.|
+|EUR_KAT_KODU|Aktarılan ürüne bağlamak istediğiniz kategori ent. kodunu bu alana girebilirsiniz. Birden fazla kategori için virgül kullanmalısınız.|
+|EUR_KODU_UST|Eğer aktarılacak ürün, Bir Grup Ürünü ise EUR_GRUP_FL alanı TRUE olan bir grup ürün kodunu bu alana girmeliyiz. Değilse Boş bırakabiliriz.	|
+|EUR_GRUP_FL|Eğer tanımlanan ürün bir Ürün Grubu ise Bu alanın TRUE olması gerekiyor aksi durumda FALSE girilmelidir.<br><br>Ürün Grubu Tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](urun-grubu-tanimi.md)|
+|EUR_AD_KISA|Grup ürün kurgusundaki ürünleri birbirinden ayıran alt isimlerdir. Eğer grup ürün aktarmıyorsanız boş geçebilirsiniz.|
+|EUR_KISAACIKLAMA|Bu alan Ürün Tanımındaki Kısa Açıklamaya denk gelmektedir.<br><br>Ürün Tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](urun-tanimi.md)||
+|EUR_URUN_ONYUZKODU|Ürüne ait ürün kodu bu alana girilir.|
+|EUR_DESI|Ürüne ait desi miktarı buraya yazılmalıdır.<br><br>Nakliye Tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](nakliye-tanimi.md)||
+|EUR_SATISKATI|Ürüne ait satış katları bu alana girilmelidir.|
+|EUR_IMAGEZOOM|Ürün Görsellerinde imagezoom özelliği aktif edilecekse bu alana TRUE aksi durum için FALSE girilmelidir.|
+|EUR_ONAY_FL|Ürünün Onayı için TRUE/FALSE değer girilmelidir.<br><br>❗ _Excel aktarımı tamamlanıp, entegrasyon çalıştırıldığında eğer ürünün Onayı varsa direk önyüze yansıyacaktır.<br>İlk olarak onaysız bir şekilde aktarılmasını öneriyoruz. Ara bir kontrolden sonra toplu olarak Ürün Yönetimi sayfasından onaylarını verebilirisiniz._|
+|LNG_CULTURENAME|Aktarılan ürünün hangi dilde aktarıldığını bu alan belirleyecektir.<br><br>❗ _Eğer bir ürünü birden fazla dilde tanımlamak istiyorsanız bu işlemi yeni bir satırda gerçekleştirebilirsiniz. Virgülle ayrım burada işe yaramayacaktır._|
+|TEDARIKCI_KOD|Eğer Ürüne ait tedarikçi aktarımı olacaks Tedarikçiye ait Tedarikçi id bilgisini bu alana girmelisiniz.<br><br>Tedarikçi tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](tedarikci-tanimi.md)|
+|EUR_OZEL_AD1|Sistem işleyişinde ürün için özel bir kurgu ile bu alanlar kullanılıyorsa, bu alana ilgili metni girmelisiniz. Örn. daha önce çalıştığımız bir firmada ürünlere Yayın Evi ve Yazarlar bağlamak için Özel Alan 1 ve 2 kullanılmıştık. Eğer bu şekilde özel bir durum söz konusu değilse bu alanları boş bırakabilirsiniz.|
+|EUR_METADESCRIPTION|SEO (Search Engine Optimization) arama motorları için kullanılan meta description alanına karşılık gelir.|
+|EUR_SAYFABASLIK|Ürünün adının yazılacağı alana karşılık gelir. Aynı zamanda internet tarayıcısı üzerinde de bu başlık görünür.|
+|EUR_SAYFAISMI|Ürün URL'ine karşılık gelir. <br><br>❗ _Ürün URL'leri "/" veya ".html" ile bitmesi gerekir._|
+|EUR_URUNTIPI|Ürün tipine karşılık gelir.<br><br>❗ _Ürün Tipi hakkında ayrıntılı bilgi almak için [Tıklayın](diger-tanimlar.md#urun-tipi) |
+|EUR_SERVIS_FL||
+|EUR_STYLE||
+|EUR_KISAKOD||
+|EUR_GUMRUKTIPI||
+|EUR_ACIKLAMA2||
+|EUR_YENIURUN_FL||
+|EUR_TEKSATILAMAZ_FL||
+|EUR_MAXTAKSITSAYISI||
+|EUR_LISTEGOSTERILMESIN_FL||
+|EUR_MINADET||
+|EUR_MAXADET||
+|EUR_AGIRLIK||
+|EUR_OZS_KOD||
+|EUR_TESLIMSURESI||
+|EUR_KEYWORD||
+|EUR_KEYWORD_RANK||
+
 
 Bu alanları doldurup dosyayı seçtikten sonra, Ürün Listele sol menüsü üzerindeki yükle butonu ile ürünleri ara tabloya yükleyebilirsiniz.
 
