@@ -1,9 +1,11 @@
-**Arama :Hizmet Adı,Hizmet Sınıfı,Hizmet Alt Sınıfı** kriterleri üzerinden **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
+---
+id: hizmet-tanimi
+title: Hizmet Tanımı
+---
 
-Ekran Standartları için Tıklayınız.
+Ekranın en üst kısmında bulunan arama ve filtre seçenekleriyle aradığınız hizmet tanımına ulaşabilirsiniz.
 
-- Yeni bir hizmet adı tanımlamak için Hizmet Adı Tanımı sayfası açıldığında **Ekle** butonuna tıklanılır.
-- Açılan sayfadaki form doldurulur.
+Yeni bir hizmet tanımı oluşturmak için **Ekle** butonuna tıklanır. Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 
 |Alan adı|Açıklama|
 |--|--|
@@ -14,4 +16,4 @@ Ekran Standartları için Tıklayınız.
 |Alış Vergi%|Alış vergi oranının girildiği alandır.|
 |Onay|Hizmet tanımının geçerli olması için bu kutucuğun işaretli olması gerekir.|
 
-Son olarak **Kaydet** butonuna tıklanır ve  kayıt işlemini tamamlanır.
+Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklayarak hizmet tanım işlemi tamamlanır.

@@ -5,7 +5,7 @@ title: Vergi Tanımı
 
 Sitede satılacak ürünlerin vergilerinin tanımlandığı ekrandır.
 
-Ekranın en üst kısmında bulunan arama ve filtre seçenekleriyle aradığınız vergi vergi tanımına ulaşabilirsiniz.
+Ekranın en üst kısmında bulunan arama ve filtre seçenekleriyle aradığınız vergi tanımına ulaşabilirsiniz.
 
 Yeni bir vergi tipi tanımlama için **Ekle** butonuna tıklanır. Açılan sayfada bulunan alanlarla ilgili detayları aşağıdaki gibidir;
 
