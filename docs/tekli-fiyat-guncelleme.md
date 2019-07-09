@@ -3,7 +3,7 @@ id: tekli-fiyat-guncelle
 title: Tekli Fiyat Güncelleme
 ---
 
-Tekli fiyat güncelleme sayfasında seçilen kriterlerle süzülecek olan ürünlerin alış fiyatı, satış fiyatı veya iskonto değerlerinin belirli bir oran dahilinde güncellenmesi sağlanır. Fiyatı Güncellerken Fiyat Tipininin belirlenmesi gerekir.
+Tekli fiyat güncelleme ekranında seçilen kriterlerle süzülecek olan ürünlerin alış fiyatı, satış fiyatı veya iskonto değerlerinin belirli bir oran dahilinde güncellenmesi sağlanır. Fiyatı Güncellerken Fiyat Tipininin belirlenmesi gerekir.
 
 Sayfanın üst kısmında bulunan kriterler ile arama işlemi gerçekleştirilebilir. Arama yapıldıktan sonra fiyat güncelleme işlemi sadece filtrelemede kriterlere uyan ürünler için yapılır. 
 

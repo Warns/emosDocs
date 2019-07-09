@@ -1,46 +1,37 @@
-Ürünlerin yurt içinde veya yurt dışında satışı için ödeme tiplerinin tanımlanacağı sayfadır.
+---
+id: fiyat-tipi-tanimi
+title: Fiyat Tipi Tanımı
+---
 
-**Arama :** Ödeme Tipi Adı kriteri üzerinden **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
+Fiyat tipi tanımı ile e-MOS üzerinde kullanıcı segmenti bazlı bir çok özelleştirme işlemi yapılabilmektedir. Aynı zamanda hediye kuponu ve kampanya tanımı da önceden belirlenen bir fiyat tipini göre çalışabilmektedir. Çeşitli kullanıcı gruplarına farklı farklı tipteki kampanyalardan yararlanma olanağını sunar.
 
-Ekran standartları için Tıklayınız.
-
-- Yeni bir ödeme tipi tanımlamak için **Ekle** butonuna tıklanılır.
-- Açılan sayfadaki form doldurulur.
-
-|Alan Adı|Açıklama|
-|--|--|
-|Ödeme Tip Adı|Eklenmek istenen ödeme tipi adının girildiği alandır.|
-|Ödeme Tipi|Sistemde tanıtılan ödeme tiplerinden birinin seçildiği alandır.|
-|Entegrasyon Kodu|Kampanyanın ticari sistemdeki karşılığıdır. Sipariş ve fatura entegrasyonu sırasında ihtiyaca göre kampanyaya giren siparişlerde bu kodun entegrasyon ile gönderilmesini sağlar.|
-|Tek Ödeme||
-|Onay|Ödeme tipinin geçerli olması için bu kutucuğun işaretli olması gerekir.|
-|Açıklama||
-
-**Vade Bilgileri :** Yukarıda belirtilen formu doldurduktan sonra **Ekle** butonuna tıkladığınızda açılan form vade bilgilerinin tanımlanması için doldurulur
+Yeni bir fiyat tipi tanımı oluşturma için **Ekle** butonu kullanılır. Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 
 |Alan Adı|Açıklama|
 |--|--|
-|Ödeme Gün|Ödenecek gün sayının girildiği alandır.|
-|Ödeme Oranı%|Ödeme oranının % cinsinden yazıldığı alandır.|
+|Fiyat Tipi|Tanımlamak istediğiniz fiyat tipinin adının girildiği alandır.|
+|Ref Fiyat Tipi|Yeni oluşturulacak olan fiyat tipinin referans olarak çalıştığı fiyat tipinin seçildiği alandır.<br>❗️ _Genel kullanım olarak sistem üzerinde default olarak bulunan Perakende fiyat tipi bu alanda kullanılır._|
+|ESI KOD|Aynı sistem üzerinde çalışan 2 farklı site için kullanılan bir tanımlayıcıdır "Unique Identifier". |
+|İndirim|Bu fiyat tipiyle yapılan alışverişlerde direkt olarak uygulanacak indirim oranı.|
+|Üye Bonus kazandırma Oranı (Peşin Ödeme)|Bu fiyat tipiyle yapılan alışverişlerde peşin ödemelerde kazanılacak bonus oranı.|
+|Tavsiye Bonus Kazanma Oranı|Arkadaş tavsiyesinde kazanılacak bonus oranı|
+|Havale İndirim Oranı|Havale ödemelerde uygulanacak indirim oranı.|
+|Kapıda Ödm. İndirim Oranı|Kapıda ödemelerde uygulanacak indirim oranı.|
+|Ent. Kodu|Bu fiyat tipi bir entegrasyona bağlı olarak çalıştığı durumlarda kullanılacak olan entegrasyon ID'sinin girildiği alandır.|
+|Min. 
+|Artış||
+|Üye Bonus kazandırma Oranı (Taksitli Ödeme)||
+|Tavsiye Bonus Kazanma Süresi||
+|Üye Bonus kazandırma Oranı (Banka Bonus)||
+|Kdv Gösterim Şekli||
+|Ürün PB Gösterimi||
+|Fiyatsız Ürün Gösterimi||
+|Varsayılan Üye Fiyat Tipi?||
+|Sipariş Oluşturma Anında Kimlik Doğrulama Zorunludur||
+|Onay||
+|Yurt dışı satışında kullanılsın||
+|Not||
 
-Gerekli bilgileri doldurulduktan sonra  **Kaydet** butonuna tıklanarak fiyat tipi tanım işlemi tamamlanır.
+> ❗️ _Fiyat tipi tanımı doğrudan sipariş sürecini etkilediği için dikkatli ve test sitesine test ederek kullanılmalı._
 
-####PayPal Nedir?
-
-PayPal, internet üzerinden çalışan online bir ödeme sistemidir. 
-PayPal, hassas finansal bilgilerinizi online alışveriş siteleri ile paylaşmadan hızlı ve çok daha güvenli ödeme yapma şeklidir. PayPal’da, kredi kartı ve banka hesap bilgileri, kritik finansal bilgilerinizin güvenliğine çok önem verilmektedir.
-e-MOS sisteminde iki şekilde paypal ödemesi alınabilmektedir. Bunlar “Express Checkout” ve “Referance Transaction”.
-
-####Express Checkout
-
-Üye e-MOS sisteminde ödeme şekli olarak PayPal’ı seçtikten sonra, sipariş onayı ile birlikte otomatik olarak PayPal sistemine yönlendirme yapılır. Bu sayfada kişi kendi PayPal kullanıcısı ile PayPal’a giriş yaparak, istediği ödeme şeklini belirler ve ödemeyi tamamlar. Sonrasında üye tekrar e-MOS tarafına yönlendirilir. Ödemenin başarılı ya da başarısız olmasına göre sipariş süreci olumlu / olumsuz olarak sonuçlanır.
-
-####Referance Transaction
-
-Temelde Express Checkout yapısı kullanılmaktadır. Farkı, müşteri PayPal ile ilgili sitede başarılı bir sipariş verdikten sonra referans bilgisi e-MOS da kaydedilir. Ve aynı müşterinin sonraki alışverişlerinde e-MOS daki ödeme adımında bir önceki ödeme şekli ile aynen ödeme alma işlemi yapılmak istenip istenmediği sorulacak, bu checkbox işaretli bırakılırsa sipariş onayından sonra PayPal sitesine yönlendirme yapılmadan ödeme alınacak ve sipariş sonuçlandırılacaktır. Checkbox işaretli olmadığı durumda ise üye Siparişi onayladığında Express Checkout süreci aynen çalışacaktır.
-
-####Paypal Ödeme Tipi Tanımlama
-
-“Tanımlar > Ödeme Tipi Tanımı”  kısmından  ‘PayPal’   adında bir Ödeme Tipi tanımlanması gerekmektedir. 
-Site ayarları > Entegrasyon Ayarları > PayPal Account kısmı (PayPal için kullanılacak olan “APIUsername, APIPassword  ve APISignature”)  bilgileri virgül ile ayırarak müşteri tarafından doldurulması gereken kısımdır.
-
+> ❗️ _Fiyat tipi tanımı [İndirim Kuponu](indirim-kuponu.md) ve [Kampanya Tanımı](kampanya-tanimi.md)nda da kullanılır. Özel bir fiyat tipini indirim kuponu ve kampanya tanımıyla ilişkilendirerek özel bir müşteri segmentine veya sayılı indirim kuponuna özel bir kampanya uygulanabilecektir._

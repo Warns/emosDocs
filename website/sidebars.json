@@ -53,6 +53,18 @@
       },
       {
         "type": "subcategory",
+        "label": "Fiyat & Ödeme",
+        "ids": [
+          "fiyat-tipi-tanimi",
+          "odeme-tipi-tanimi",
+          "banka-tanimi",
+          "vergi-tanimi",
+          "vergi-dairesi-tanimi",
+          "kur-girisi"
+        ]
+      },
+      {
+        "type": "subcategory",
         "label": "Pazaryeri",
         "ids": [
           "pazaryeri-tanimi",
