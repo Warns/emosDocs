@@ -6,9 +6,11 @@
         "type": "subcategory",
         "ids": [
           "giris",
+          "emos-dashboard",
           "ekran-standartlari",
           "ftp-erisimi",
-          "resim-ve-dosya-yukleme"
+          "resim-ve-dosya-yukleme",
+          "cache-recycle"
         ]
       }
     ],
