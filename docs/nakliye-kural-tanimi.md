@@ -22,7 +22,7 @@ Bu ekranda bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 |Nakliye Adı|Nakliye kural tanımının geçerli olacağı kargo firmasının seçildiği alandır.<br>Nakliye Tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](nakliye-tanimi.md)|
 |Fiyat Tipi|Nakliye kural tanımın geçerli olacağı fiyat tipinin seçildiği alandır. Bu alan çoklu seçim olarak çalışmakta olup birden fazla fiyat tipi seçilebilecektir.<br>Fiyat Tipi hakkında ayrıntılı bilgi almak için [Tıklayın](fiyat-tipi-tanimi.md)|
 |Üye Kategori|Nakliye kural tanımının varsa, geçerli olacağı üye kategorsinin belirlendiği alandır.|
-|Not|Nakliye kural tanımıyla ilgili kullanılabilecek not alanıdır.|
+|Not|e-MOS panel kullanıcısı tarafından kullanılabilir not alanıdır. Bu alana yazılan yazı önyüzde görünmeyecektir.|
 |Önyüz, kargo kampanya uyarı metni|Önyüzde nakliye kural tanımı uygulandığı durumda gösterilecek açıklama yazısına karşılık gelir.|
 |Ürün Detay kargo kampanya uyarı metni|Önyüzde nakliye kural tanımıyla ilgili ürün detayda gösterilecek açıklama yazısına karşılık gelir.|
 |Başlangıç/Bitiş Tarihi|Nakliye kural tanımının başlangıç ve bitiş tarihinin belirlendiği alandır.|
