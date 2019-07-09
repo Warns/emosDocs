@@ -12,7 +12,7 @@ Bu ekranda bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 |Alan Adı|Açıklama|
 |--|--|
 |Seçim Tipi|**Dahil Seçimler**<br>Bu bölümden kurgulanacak olan nakliye kural tanımının geçerli olacağı seçimler yapılır.<br>Kullanılabilir seçimler; **Tüm Mümkün Ürünler İçin, Ürün, Marka, Kategori, Tedarikçi, Ürün Sınıfı**<br><br>**Hariç Seçimler**<br>Bu bölümden kurgulanacak olan nakliye kural tanımının geçerli olmayacağı seçimler yapılır.<br>Kullanılabilir seçimler; **Ürün, Marka, Kategori, Tedarikçi, Ürün Sınıfı**<br><br>**Örnek:** Dahil seçimlerden Bayan Giyim kategorisi seçildi, hariç seçimlerden ise Bayan Giyim kategorsinin altında bulunan Aksesuar kategorisi seçildi. Bu kural, aksesuar kategorisi hariç Bayan Giyim kategorisinin diğer tüm alt kategorilerinde geçerli olur.|
-|||
+|Kural Seçim/Kural Seçim 2|Seçim Tipi bölümünden seçim yaptıktan sonra ilgili seçime göre kullanılır. Seçim Tipi bölümünde yapılan seçime göre bu alan değişir.<br><br>**Örnek:** Seçim tipi olarak Ürün seçildiğinde bu alandan sadece ürün seçilebilir.|
 |||
 |||
 |||
