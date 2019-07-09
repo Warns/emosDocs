@@ -1,5 +1,5 @@
 ---
-id: tekli-fiyat-guncelleme
+id: tekli-fiyat-guncelle
 title: Tekli Fiyat Güncelleme
 ---
 

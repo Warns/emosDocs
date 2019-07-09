@@ -4,6 +4,7 @@ title: Dashboard
 ---
 
 e-MOS’un giriş sayfasında ilgili siteye ait canlı veri kontröllerinin yapılableceği bir dashboard yapısıdır. 
+
 ![image.png](https://snag.gy/eR0hTI.jpg)
 
 Dashboard'un üst kısmında bulunan kısayol ikonları e-MOS'ta en sık kullanılan mödüllere daha hızlı erişebilmek için kullanılır.
