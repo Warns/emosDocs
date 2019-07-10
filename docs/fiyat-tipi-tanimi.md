@@ -18,19 +18,20 @@ Yeni bir fiyat tipi tanımı oluşturma için **Ekle** butonu kullanılır. Aç�
 |Havale İndirim Oranı|Havale ödemelerde uygulanacak indirim oranı.|
 |Kapıda Ödm. İndirim Oranı|Kapıda ödemelerde uygulanacak indirim oranı.|
 |Ent. Kodu|Bu fiyat tipi bir entegrasyona bağlı olarak çalıştığı durumlarda kullanılacak olan entegrasyon ID'sinin girildiği alandır.|
-|Min. 
+|Min. Teklif Limiti|| 
 |Artış||
 |Üye Bonus kazandırma Oranı (Taksitli Ödeme)||
 |Tavsiye Bonus Kazanma Süresi||
 |Üye Bonus kazandırma Oranı (Banka Bonus)||
-|Kdv Gösterim Şekli||
-|Ürün PB Gösterimi||
-|Fiyatsız Ürün Gösterimi||
-|Varsayılan Üye Fiyat Tipi?||
-|Sipariş Oluşturma Anında Kimlik Doğrulama Zorunludur||
-|Onay||
-|Yurt dışı satışında kullanılsın||
-|Not||
+|Kdv Gösterim Şekli|İlgili fiyat tipine bağlı ürünlerin KDV dahil veya KDV hariç olarak gösterilmesi için kullanılır.|
+|Ürün PB Gösterimi|Para birimi olarak resmi para birimi veya diğer döviz para biriminin gösterilmesini belirleyen alandır.|
+|Fiyatsız Ürün Gösterimi|Fiyatsız ürünlerin önyüzde gösterilip gösterilmemesi ve satınalmaya izin verilip verilmemesiyle ilgili kullanılan alandır.|
+|Varsayılan Üye Fiyat Tipi?|Sistemde default olarak kullanılacak fiyat tipine karşılık gelir.<br>❗️ _Bu kutucuk seçili olduğunda seçili olduğu andan itibaren her yeni üyelik oluşturan kullanıcının fiyat tipi bu fiyat tipi olarak seçilir. Seçilmeden önce planlı bir şekilde dikkat edilmesi gereken bir alandır._|
+|Sipariş Oluşturma Anında Kimlik Doğrulama Zorunludur|Bu fiyat tipine bağlı olan kullanıcılar sipariş oluşturacağı zaman kimlik doğrulama işlemine zorlanacaktır.|
+|Yurt dışı satışında kullanılsın|İlgili fiyat tipinin yurt dışı satışında kullanılıp kullanılmamasını belirleyen alandır.|
+|Not|e-MOS panel kullanıcısı tarafından kullanılabilir not alanıdır. Bu alana yazılan yazı önyüzde görünmeyecektir.|
+|Onay|Fiyat tipinin durumunu belirleyen alandır. İlgili fiyat tipinin aktif olması için bu kutucuğun işaretli olması gerekir.|
+
 
 > ❗️ _Fiyat tipi tanımı doğrudan sipariş sürecini etkilediği için dikkatli ve test sitesine test ederek kullanılmalı._
 
