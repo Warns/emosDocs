@@ -9,7 +9,8 @@ Bu ekranı depodan sevkiyat yapacak birimler kullanır. Sadece kendi depolarınd
 
 >❗️ _Fatura kesim tarihi eğer günün tarihinden eski ise "Eski tarihli faturayı kesmek üzeresiniz. Devam etmek istiyor musunuz?" şeklinde Pop-Up çıkarak kullanıcıyı bilgilendirir. Satış Sevk Yönetimi sayfasında XXX numaralı fatura içerisine girdiğinizde günün tarihinden farklı bir tarih olduğunda "Fatura Kes" butonuna basıldığında aynı şekilde Pop-Up çıkarır._
 
-
+![](https://snag.gy/85Z3Js.jpg)
+                                      
 **Faturayı Kesildi Duruma Getirmek için;**
 - İlgili sipariş kaydına tıklanır.
 - Açılan sayfada **Fatura Bilgileri** sekmesine tıklanır.
