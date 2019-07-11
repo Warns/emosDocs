@@ -1,3 +1,8 @@
+---
+id: satis-kontrol-tanimi
+title: Satış Kontrol Tanımı
+---
+
 Ekran standartları için Tıklayınız.
 
 - Satış Kontrol Tanımı için;

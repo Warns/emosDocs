@@ -1,3 +1,8 @@
+---
+id: depo-tanimi
+title: Depo Tanımı
+---
+
 Ekran Standartları için Tıklayınız.
 
 - Yeni bir depo adı tanımlamak için Depo Tanımı sayfası açıldığında **Ekle** butonuna tıklanılır.

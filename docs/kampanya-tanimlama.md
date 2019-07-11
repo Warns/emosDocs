@@ -1,3 +1,8 @@
+---
+id: kampanya-tanimlama
+title: Kampanya Tanımlama
+---
+
 Ürünlere uygulanacak kampanyaların tanımlandığı sayfadır.
 
 **Yeni bir kayıt oluşturmak için;**

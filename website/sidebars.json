@@ -66,11 +66,7 @@
       {
         "type": "subcategory",
         "label": "Pazaryeri",
-        "ids": [
-          "pazaryeri-tanimi",
-          "pazaryeri-log",
-          "pazaryeri-urunleri"
-        ]
+        "ids": ["pazaryeri-tanimi", "pazaryeri-log", "pazaryeri-urunleri"]
       },
       {
         "type": "subcategory",
@@ -90,15 +86,11 @@
         "type": [
           {
             "type": "subcategory",
-            "ids": [
-              ""
-            ]
+            "ids": [""]
           },
           {
             "type": "subcategory",
-            "ids": [
-              ""
-            ]
+            "ids": [""]
           }
         ]
       }
@@ -114,7 +106,25 @@
           "satis-faturalari",
           "iade-faturasi-girisi"
         ]
-      }
-    ]
+      },
+      "satis-kontrol-tanimi",
+      {
+        "type": "subcategory",
+        "label": "Kampanya",
+        "ids": ["kampanya-tanimlama", "ciro-kampanyalari"]
+      },
+      {
+        "type": "subcategory",
+        "label": "Çek & Kupon",
+        "ids": [
+          "hediye-ceki",
+          "indirim-kuponu",
+          "otomatik-kupon-tanimi",
+          "kupon-kural-tanimi"
+        ]
+      },
+      "stok-limiti-tanimi"
+    ],
+    "Stok Yönetimi": ["depo-tanimi", "toplu-stok-guncelle"]
   }
 }
