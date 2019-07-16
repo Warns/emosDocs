@@ -33,58 +33,58 @@ Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklayarak tanım işlemi
 
 |Tanım Adı|
 |--|
-|API Versiyon Durum||
-|Ayakkabı Numarası||
-|Bayi Tipi||
-|Ceket Bedeni||
-|Çalışma Alanı||
-|Direktörlük||
-|Döküman Tipi||
-|Extra_1||
-|Extra_2||
-|Extra_3||
-|Hizmet Alt Sınıfı||
-|Hizmet Sınıfı||
-|IK Başvuru Pozisyonları||
-|İçerik Kategori Tipi||
-|İşletim Sistemi||
-|Kampanya Grup Tanımı||
-|Kart Saklama Yöntemi||
-|Kolon Tipi||
-|Maillist Kategori||
-|Mesaj Kriteri||
-|Misafir Soru Türleri||
-|Modül İsimleri||
-|Önyüz Kayıt Sayısı||
-|Özellikli Ürün||
-|Pantolon Bedeni||
-|Pazar Yeri||
-|Rap.Parametre Tipi||
-|Recycle İşlem Türleri||
-|Referans Kaynağı||
-|Seçenek Grubu||
-|Sepet Grup Tipi||
-|Servis Türleri||
-|Sip. Det Durumları||
-|Sipariş İptal Durumları||
-|Test Tipleri||
-|T-Shirt Bedeni||
-|Ürün Alt Sınıfı||
-|Ürün Grubu||
-|Ürün İade Sebepleri||
-|Ürün Parametre Değer||
-|Ürün Parametre Tip||
-|Ürün Sınıfı||
-|Ürün Soru Türleri||
-|Ürün Tipi||
-|Üye Alt Sınıfı||
-|Üye Bilgi Kayıt Tipi||
-|Üye Kategori||
-|Üye Mesaj Cevapları||
-|Üye Sınıfı||
-|Üye Soru Grup İçerik||
-|Üye Soru Grupları||
-|Vergi Grubu||
-|Yorum Kriteri||
-|Yöneticilik||
+|API Versiyon Durum|
+|Ayakkabı Numarası|
+|Bayi Tipi|
+|Ceket Bedeni|
+|Çalışma Alanı|
+|Direktörlük|
+|Döküman Tipi|
+|Extra_1|
+|Extra_2|
+|Extra_3|
+|Hizmet Alt Sınıfı|
+|Hizmet Sınıfı|
+|IK Başvuru Pozisyonları|
+|İçerik Kategori Tipi|
+|İşletim Sistemi|
+|Kampanya Grup Tanımı|
+|Kart Saklama Yöntemi|
+|Kolon Tipi|
+|Maillist Kategori|
+|Mesaj Kriteri|
+|Misafir Soru Türleri|
+|Modül İsimleri|
+|Önyüz Kayıt Sayısı|
+|Özellikli Ürün|
+|Pantolon Bedeni|
+|Pazar Yeri|
+|Rap.Parametre Tipi|
+|Recycle İşlem Türleri|
+|Referans Kaynağı|
+|Seçenek Grubu|
+|Sepet Grup Tipi|
+|Servis Türleri|
+|Sip. Det Durumları|
+|Sipariş İptal Durumları|
+|Test Tipleri|
+|T-Shirt Bedeni|
+|Ürün Alt Sınıfı|
+|Ürün Grubu|
+|Ürün İade Sebepleri|
+|Ürün Parametre Değer|
+|Ürün Parametre Tip|
+|Ürün Sınıfı|
+|Ürün Soru Türleri|
+|Ürün Tipi|
+|Üye Alt Sınıfı|
+|Üye Bilgi Kayıt Tipi|
+|Üye Kategori|
+|Üye Mesaj Cevapları|
+|Üye Sınıfı|
+|Üye Soru Grup İçerik|
+|Üye Soru Grupları|
+|Vergi Grubu|
+|Yorum Kriteri|
+|Yöneticilik|
 
