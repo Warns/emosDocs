@@ -14,7 +14,7 @@ Yeni bir hizmet tanımı oluşturmak için **Ekle** butonuna tıklanır. Açıla
 |Hizmet Alt Sınıfı|Hizmet verilecek alt sınıfın tanımlandığı alandır.|
 |Satış Vergi Grup|Vergi tipinin tanımlandığı alandır.|
 |Alış Vergi %|Alış vergi oranının girildiği alandır.|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Onay|Hizmet tanımının geçerli olması için bu kutucuğun işaretli olması gerekir.|
 
 Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklayarak hizmet tanım işlemi tamamlanır.

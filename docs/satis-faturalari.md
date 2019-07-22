@@ -7,17 +7,6 @@ Faturaların detaylı bir şekilde listelendiği sayfadır.
 
 Sayfanin en üst kısmında bulunan filtrelerle aradığınız fatura veya faturalara hızlıca ulaşabilirsiniz. İstenilen fatura veya faturaları bulduktan sonra tekil veya toplu olarak işlem yapılabilir. 
 
-Toplu veya tekil olarak manuel işlem yapılabilecek aksiyon butonları ve detayları aşağıdaki gibidir;
-
-|Buton Adı|Açıklama|
-|--|--|
-|Toplu Kargo Barkod|Topluca seçilen|
-|Kargoya Hazırla||
-|Teslim Edildi||
-|Teslim Edilemedi||
-
-
-
 Herhangi bir fatura kaydına tıklayarak ilgili faturanın detay sayfası açılır.
 
 Fatura detay sayfasında bulunan alanlarla ilgili açıklamalar aşağıdaki gibidir;

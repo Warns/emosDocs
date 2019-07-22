@@ -21,7 +21,7 @@ Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 |Extra|Bu alan seçilen tanıma göre değişiklik göstermektedir. Standart tanımlarda boş bırakılır.|
 |Icon|Bu tanımla ilgili tasarıma bağlı olarak önyüzde bir ikon gösterimi varsa bu alan kullanılır.|
 |Bağlı Seçim|Eğer bir tanım diğer bir tanımın alt tanımı ise hangi parametreye bağlı olduğu seçilir.<br>Ör : Ülke, Şehir, Üye Soru Grubu, Üye Soru Grup İçeriği|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Ent. Kodu|Bu tanım bir entegrasyon sürecine bağlı olarak çalışacağı durumlarda kullanılacak alandır.|
 |Sıra|Parametrenin görünmesi istenilen sıra numarasının yazıldığı alandır.|
 |Not|e-MOS panel kullanıcısı tarafından kullanılabilir not alanıdır. Bu alana yazılan yazı önyüzde görünmeyecektir.|

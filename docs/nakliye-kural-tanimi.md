@@ -27,7 +27,7 @@ Bu ekranda bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 |Ürün Detay kargo kampanya uyarı metni|Önyüzde nakliye kural tanımıyla ilgili ürün detayda gösterilecek açıklama yazısına karşılık gelir.|
 |Başlangıç/Bitiş Tarihi|Nakliye kural tanımının başlangıç ve bitiş tarihinin belirlendiği alandır.|
 |Platform|Nakliye kural tanımının çalışacağı platforma karşılık gelir.  Masaüstü, mobil taryıcı, mobil uygulama (API). Bu alan çoklu seçim olarak çalışmakta olup birden fazla platform seçilebilecektir.|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Sıra|Nakliye kural tanımının sırasını belirleyen alandır.|
 |Para Birimi|Nakliye kural tanımının geçerli olacağı para birimine karşılık gelir.|
 |Onay|Nakliye kural tanımının durumunu belirleyen alandır. Aktif olması için bu kutucuğun seçili olması gerekir.|

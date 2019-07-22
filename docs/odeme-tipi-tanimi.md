@@ -20,7 +20,7 @@ Yeni bir ödeme tipi tanımlamak için **Ekle**  butonuna tıklanır. Açılan s
 |Ülke|Ülke bazlı çalışan bir ödeme tipi olacaksa bu alandan ilgili ülke seçilir.|
 |Platform|Platform bazlı çalışan bir ödeme tipi olacaksa bu alandan ilgili platform seçilir.|
 |Resim|Tasarıma bağlı olarak önyüzde bu ödeme tipiyle ilgili bir görsel/ikon gösterilecekse bu alanda ilgili görsel seçilir.|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Sıra|Ödeme tipinin sırasını belirleyen alandır.|
 |Ent. Kodu|Kampanyanın ticari sistemdeki karşılığıdır. Sipariş ve fatura entegrasyonu sırasında ihtiyaca göre kampanyaya giren siparişlerde bu kodun entegrasyon ile gönderilmesini sağlar.|
 |Yeni Üyelikte Varsayılan Olsun|Yeni üyelik oluşturulduğunda bu ödeme tipinin otomatik olarak geçerli olmasını sağlamak için bu kutucuk kullanılır.<br>❗️ _Bu kutucuk seçili olduğu durumda seçildiği andan itibaren her yeni üyelikte bu ödeme tipi geçerli olacaktır._|

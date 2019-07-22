@@ -34,10 +34,10 @@ Satış fatura listesinin yer aldığı ekranda fatura bazında dökülebilen İ
 
 |Sütun Adı |Açıklama|
 |--|--|
-|Ürün|İade edilen ürünün belirtilmesi gerekli alandır.|
+|Ürün|İade edilen ürünün belirtilmesi gereken alandır.|
 |Fatura No|İade edilen ürünün faturasında belirtilen numaranın ekrana otomatik olarak geldiği alandır.|
-|Adet|İade edilen ürünün adetinin belirtilmesi gerekli alandır.|
-|Brm. Fiyat|İade edilen ürünün birim fiyatının belirtilmesi gerekli alandır.|
+|Adet|İade edilen ürünün adetinin belirtilmesi gereken alandır.|
+|Brm. Fiyat|İade edilen ürünün birim fiyatının belirtilmesi gereken alandır.|
 |İndirim|İade edilen ürüne uygulanmış olan indirim varsa, ekranda otomatik olarak bu alanda gösterilir.|
 |Vergi|İade edilen ürününden alınan verginin otomatik olarak geldiği alandır.|
 |Toplam|İade edilen ürünün toplamının ekrana otomatik olarak geldiği alandır.|

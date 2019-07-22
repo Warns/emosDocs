@@ -12,7 +12,7 @@ Yeni bir vergi dairesi tanımlama için **Ekle** butonuna tıklanır. Açılan s
 |Alan Adı|Açıklama|
 |--|--|
 |Vergi Dairesi Adı|Vergi dairesinin sistemde kaydedilecek isminin girildiği alandır.|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Ülke|Vergi dairesinin bulunduğu ülkenin seçildiği alandır.|
 |Şehir/Bölge|Bir önceki adımda seçilen ülkeye göre vergi dairesinin bulunduğu şehrin seçildiği alandır.|
 |Vergi Dairesi Kodu|Vergi dairesine özel kodun girildiği alandır.|

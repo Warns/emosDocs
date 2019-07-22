@@ -3,10 +3,9 @@ id: depo-tanimi
 title: Depo Tanımı
 ---
 
-Ekran Standartları için Tıklayınız.
+- Yeni bir depo adı tanımlamak için **Ekle** butonu kullanılır. Var olan bir depo kaydı üzerinde değişiklik yapmak için kaydın üzerine tıklamanız yeterli.
 
-- Yeni bir depo adı tanımlamak için Depo Tanımı sayfası açıldığında **Ekle** butonuna tıklanılır.
-- Açılan sayfadaki form doldurulur.
+Açılan sayfada bulunan alanlarla ilgili açıklamalar aşağıdaki gibidir;
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -15,10 +14,12 @@ Ekran Standartları için Tıklayınız.
 |Öndeğer|Bu kutucuk işaretlendiğinde öndeğer olarak ilk sırada bu depo gelir.|
 |Onay|Deponun geçerli olması için bu kutucuğun işaretli olması gerekmektedir.|
 |Ent. Kodu|Entegrasyon kod bilgisinin yazıldığı alandır.|
-|Depo Sor.||
-|Sıra||
+|Depo Sor.|Depo Sorumlusu|
+|Sıra|Deponun sırasını belirleyen alandır.|
 
-- Yukarıda doldurmuş olduğunuz formu kaydettikten sonra Depo Bölgeleri kısmı aktif olur.Bu kısımda aldığınız ürünün depo bilgisini **Hurda,İade,Red,Stok** seçenekleri arasından belirtmeniz gerekir.Seçmiş olduğunuz depo adının üstüne tıkladığınızda açılan formu girmeniz gerekir.
+Yukarıda doldurmuş olduğunuz formu kaydettikten sonra Depo Bölgeleri kısmı aktif hale gelir. Bu kısımda aldığınız ürünün depo bilgisini **Hurda, İade, Red, Stok** seçenekleri arasından belirtmeniz gerekir. Herhangi bir kayıt üzerine tıkladığınızda yeni bir sayfa açılır.
+
+Açılan sayfada bulunan alanlarla ilgili açıklamalar aşağıdaki gibidir;
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -26,4 +27,4 @@ Ekran Standartları için Tıklayınız.
 |Bölge Tipi|Deponun bölge tipinin tanımlandığı alandır.|
 |Onay|Tanımlanan depodaki bölgenişn geçerli olması için bu kutucuğun işaretli olması gerekmektedir.|
 
-Son olarak **Kaydet** butonuna tıklanır ve  kayıt işlemini tamamlanır.
+Alanları doldurduktan sonra kaydetmek için **Kaydet** butonu kullanılır ve kayıt işlemi tamamlanır.

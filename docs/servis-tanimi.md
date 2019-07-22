@@ -16,7 +16,7 @@ Yeni bir servis tanımı oluşturmak için **Ekle** butonuna tıklanır. Açıla
 |Alan Adı|Açıklama|
 |--|--|
 |Firma Adı|Firma adı bilgisi.|
-|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi olmak için [Tıklayın](coklu-dil.md)|
+|Dil|Sitenin öndeğer dili otomatik olarak bu alanda seçili olarak gelecektir.<br>Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 |Yetkili Kişi|Servis biriminde bulunan yetkili kişi.|
 |E-Mail|Yetkili kişiye ait mail adresi.|
 |Servis Türü|Servis biriminde bulunan servis türü. **Örnek:** Mağaza, bayi, servis hizmeti vb.|
