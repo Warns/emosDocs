@@ -3,8 +3,6 @@ id: alis-raporlari
 title: Alış Raporları
 ---
 
-Alış Raporları üç bölümden oluşmaktadır:
-
 ## 1. Satın Alma Sipariş Raporu
 Satınalma Sipariş Raporu ekranına girdiğinizde aşağıdaki kırılımlar bölümü yer alır. Arama işleminizi gerçekleştirebilmek için en az bir kırılım seçmeniz gerekir. Kırılımlar **Depo, SAS No, Termin Tarihi, Stok Üst Sınıf, Stok Alt Sınıf, Marka, Tedarikçi, Yıl, Ay, Gün, Ödeme Şekli, Para Birimi** seçeneklerinden oluşur. Yapılan arama seçilmiş olan kırılımlara göre listelenir. Detaylı Kırılım seçeneğini seçmiş olmanız halinde aramanızı **Ürün, Ürün-Seçenek, Detaylı** kriterlerine göre listeler.
 

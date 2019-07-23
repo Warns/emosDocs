@@ -5,8 +5,6 @@ title: Stok Raporları
 
 Sitede stokları tutulan ürünlerin stok durumları rapor olarak alınabilen sayfadır.
 
-Stok Raporları iki bölümden oluşmaktadır:
-
 ## 1. Stok Raporu
 Stok Raporu ekranında bulunan kırılım seçenekleri ve filtrelerle arama işleminizi gerçekleştirebilirsiniz. Arama yapabilmek için en az bir kırılım seçmeniz gerekir. Yapılan arama seçilmiş olan kırılımlara göre listelenir. Detaylı Kırılım seçeneğini seçmiş olmanız halinde aramanızı Ürün, Ürün-Seçenek kriterlerine göre listeler.
 

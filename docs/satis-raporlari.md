@@ -3,8 +3,6 @@ id: satis-raporlari
 title: Satış Raporları
 ---
 
-Satış Raporları dört bölümden oluşmaktadır:
-
 ## 1. Satış Sipariş Raporu
 Satış Sipariş Raporu ekranına girdiğinizde aşağıdaki kırılımlar bölümü yer alır. Arama işleminizi gerçekleştirebilmek için en az bir kırılım seçmeniz gerekir. Kırılımlar **Depo, Stok Üst Sınıf, Stok Alt Sınıf, Sipariş Tipi, Sipariş No, Sistem No, Marka,Müşteri, Müşteri Üst Sınıfı, Müşteri Alt Sınıfı, Yıl, Ay, Gün, Saat, Ödeme Şekli, Para Birimi, Ülke Şehir, Teklif No, Sipariş Durumu, Banka, Sipariş İptal Durumları, Fiyat Tipi, Sipariş Referrer Site, Üye Referrer Site, Banka Taksit Entegrasyon Kodu, Kampanya,Kategori, Kupon Kodu, Entegrasyon Kodu, Sipariş IP, Nakliyeci, Platform, Site URL, Oluşturan Kullanıcı, Kredi Kartı Çekim Şekli, Cinsiyet, Kart Fonksiyon Tipi, Banka Puan, K.Kartı Numarası, K.Kartı Üzerindeki İsim, K.Kartı Türü, Abonelik** seçeneklerinden oluşur. Yapılan arama seçilmiş olan kırılımlara göre listelenir. Detaylı Kırılım seçeneğini seçmiş olmanız halinde aramanızı **Ürün, Ürün-Seçenek, Detaylı** kriterlerine göre listeler.
 

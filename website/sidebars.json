@@ -150,6 +150,25 @@
       "satis-raporlari",
       "alis-raporlari",
       "diger-rapor"
+    ],
+    "Üyeler": [
+      "uye-listesi",
+      {
+        "type": "subcategory",
+        "label": "Mesajlar",
+        "ids": [
+          "uye-mesajlari",
+          "uye-mesaj-arsivi",
+          "bilgi-kayit-raporu"
+        ]
+      },
+      "tedarikci-tanimi",
+      "urun-yorumlari",
+      "urun-tavsiyeleri",
+      "arkadas-tavsiyeleri",
+      "bulten-mail-listesi",
+      "abonelikler",
+      "guvenli-domain-tanimi"
     ]
   }
 }
