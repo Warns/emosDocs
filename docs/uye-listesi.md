@@ -49,3 +49,32 @@ Açılan üye kartı sayfasında bulunan sekmelerle ilgili detaylar aşağıdaki
 
 <br>
 ## 2. Bonus Bilgileri
+Üyelerin bonus bilgilerinin görüntülendiği ve değiştirilebildiği sekmedir.
+
+Bu sekmede üyenin **Siparişlerden Kazandığı Bonus Para, Bizim Verdiğimiz Bonus Para, Ödeme Yapılan Bonus Para, Harcadığı Bonus, Net Bonus Para, Peşin Bonus Yüzdesi, Taksit Bonus Yüzdesi, Tavsiye Bonus Yüzdesi, Tavsiye Bonus Süresi** bilgileri görüntülenir.
+
+- **Ekle** butonunu kullanarak üyeye bonus tanımlanabilir.
+- Açılan sayfadan tanımlanacak bonus miktarı girildikten sonra **Kaydet** butonuna tıklanır.
+
+> ❗ _Bonus verilecek üyenin üyelik bilgileri girildikten sonra **Kaydet** butonuna tıklanılır. Eğer bu butona tıklanılmazsa **Ekle** butonu aktif olmayacaktır._
+
+<br>
+## 3. Kişisel & Genel Bilgiler
+Üyelerin kişisel bilgilerinin girildiği sekmedir.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Ülke||
+|Öğrenim Durumu||
+|Doğum Tarihi||
+|Evlilik Tarihi||
+|Çocuk Sayısı||
+|Çocuklar (Doğum Tarihi)||
+|Bülten||
+|SMS||
+|Telefon||
+|KVKK||
+|Extra Alanlar||
+|Üye Kategori||
+|Medeni Durum||
+|Cinsiyet||
