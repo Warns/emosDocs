@@ -3,9 +3,9 @@ id: site-ayarlari
 title: Site Ayarları
 ---
 
-Parametrik bir altyapıya sahip olan e-MOS' u kullanmaya başlamadan önce, sistemin çalışma şeklini belirleyecek olan tanımlamaların yapılması gerekmektedir.
+Parametrik bir altyapıya sahip olan e-MOS'un çalışma şeklini belirleyecek olan tanımlamaların yapıldığı sayfadır.
 
-- #### Sipariş Ayarları
+- ## 1.  Sipariş Ayarları
 Sipariş işlemlerinde öndeğer olarak kullanılacak olan tanımların girildiği bölümdür.
 
 |Alan Adı|Açıklama|Örnek|
