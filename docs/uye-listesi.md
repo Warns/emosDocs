@@ -60,21 +60,113 @@ Bu sekmede üyenin **Siparişlerden Kazandığı Bonus Para, Bizim Verdiğimiz B
 
 <br>
 ## 3. Kişisel & Genel Bilgiler
-Üyelerin kişisel bilgilerinin girildiği sekmedir.
+Üyeyle ilgili kişisel bilgilerin yer aldığı sekmedir.
 
 |Alan Adı|Açıklama|
 |--|--|
-|Ülke||
-|Öğrenim Durumu||
-|Doğum Tarihi||
-|Evlilik Tarihi||
-|Çocuk Sayısı||
-|Çocuklar (Doğum Tarihi)||
-|Bülten||
-|SMS||
-|Telefon||
-|KVKK||
-|Extra Alanlar||
-|Üye Kategori||
-|Medeni Durum||
-|Cinsiyet||
+|Ülke|Üyeye ait ülke bilgisini gösteren alandır.|
+|Öğrenim Durumu|Üyenin öğrenim durumunu gösteren alandır.|
+|Doğum Tarihi|Üyenin doğum tarihini gösteren alandır.|
+|Evlilik Tarihi|Üyenin evlilik tarihini gösteren alandır.|
+|Çocuk Sayısı|Üyenin çocuk sayısını gösteren alandır.|
+|Çocuklar (Doğum Tarihi)|Üyeye ait çocukların doğum tarihlerini gösteren alandır.|
+|Bülten|Üyenin bültene kayıt olup olmadığını gösteren alandır.|
+|SMS|Üyenin SMS aktivasyonu yapıp yapmadığını gösteren alandır.|
+|Telefon|Üyenin telefon bilgisini gösteren alandır.|
+|KVKK|Üyenin KVKK sözleşmesini onaylayıp onaylamadığını gösteren alandır.|
+|Extra Alanlar|Proje özelinde üyelik kayıt sırasında ekstra istenecek bilgiler için kullanılan alandır.|
+|Üye Kategori|e-MOS üzerinde üyenin varsa bağlı olduğu üye kategorisini gösteren alandır.|
+|Medeni Durum|Üyenin medeni durumunu gösteren alandır.|
+|Cinsiyet|Üyenin cinsiyetini gösteren alandır.|
+
+> ❗ _Üyeyle ilgili kişisel bilgiler, üye kayıt formunda üyeden istenen bilgilere bağlı olarak doldurulmaktadır._
+
+<br>
+## 4. Adres Bilgileri
+Üyenin adres bilgilerinin yer aldığı sekmedir. Bir üyeye birden fazla adres tanımlanabilir.
+
+|Alan Adı|Açıklama|
+|--|--|
+|Adres Adı|Üyeye tanımlanacak adresin adının girildiği alandır.|
+|Adres Tipi|Üyeye tanımlayacağınız adresin tipini seçeceğiniz alandır. Örn. Ev, İş.|
+|Ad Soyad|Üyenin ad soyad bilgisinin girildiği alandır.|
+|Firma Adı|Üyenin çalıştığı firma adı girilir. Adres tipi bireysel olarak seçilirse firma adı girilemez.|
+|Adres|Üyenin adres bilgisinin girildiği alandır.|
+|Ülke|Adresin bulunduğu ülkenin seçildiği alandır.|
+|Şehir|Adresin bulunduğu şehrin seçildiği alandır.|
+|Şehir Diğer|Üyeye ait ikinci bir şehir bilgisinin girildiği alandır.|
+|İlçe|Adresin bulunduğu ilçenin seçildiği alandır.|
+|Semt|Adresin bulunduğu semtin seçildiği alandır.|
+|Mahalle|Adresin bulunduğu mahallenin seçildiği alandır.|
+|Cadde (B. No, D. No)|Adresin bulunduğu caddenin girildiği alandır.|
+|Telefon|Üyenin telefon numarasının girildiği alandır.	|
+|Cep Telefonu|Üyenin cep telefonu numarasının girildiği alandır.	|
+|Vergi Dairesi|Üyenin bağlı olduğu vergi dairesinin girildiği alandır.	|
+|Vergi No|Üyeye ait vergi numarasının girildiği alandır.|
+|Posta Kodu|Üyenin adres bilgisinin bağlı olduğu posta kodunun girildiği alandır.|
+|TC Kimlik No|Üyeye ait TC kimlik numarasının girildiği alandır.|
+|Ent. Kodu|Adres bilgisinin bir entegrasyon sürecine bağlı olduğu durumlarda kullanılacak alandır.|
+|Email|Üyenin adres bilgisine bağlı olan Email adresinin girildiği alandır.s|
+|Eklenme Tarihi|Adres kaydının eklenme tarihini gösteren alandır.|
+|Teslimat'da Kullan|Adresin kargo teslimatında kullanılıp kullanılmayacağını belirleyen alandır.|
+|Fatura'da Kullan|Adresin fatura teslimatında kullnılıp kullanılmayacağını belirleyen alandır.|
+|TC Vatandaşı Değilim|Türk vatandaşı olmayan kullanıcıları için TC no zorunluluğunu kaldırmak için kullanılan alandır.|
+|Delete Flag|Adres kaydının silinmesi durumunda işaretlenecek olan alandır.|
+|Üyeliksiz Adres|Girilen adres üyeliksiz alışveriş üzerinden yapılıp yapılmadığını gösteren alandır.|
+|Montajlı Ürünlerde Adres Görünmesin|Montajlı ürün satın alımlarında adresin görünüp görünmemesini sağlayan alandır.|
+
+> ❗ _Üyeyle ilgili adres bilgileri, adres kayıt formunda istenen bilgilere bağlı olarak doldurulmaktadır._
+
+<br>
+## 5. Diğer Bilgiler
+
+Üyeyle ilgili kayıt, son giriş, cihaz gibi diğer bilgilerin yer aldığı sekmedir.
+
+### 5.1. Kayıt
+
+|Alan Adı|Açıklama|
+|--|--|
+|Kayıt Tarih|Kullanıcının siteye üye kayıt olma tarihi|
+|Üyelik IP|Üyelik oluşturma anındaki IP adresinin gösterildiği alandır.|
+|Platform|Üyelik oluşturma anındaki platform bilgisinin gösterildiği alandır.|
+|Aktivasyon Tarihi|Üyelik aktivasyon tarihinin gösterildiği alandır.|
+
+<br>
+### 5.2. Son Giriş
+
+|Alan Adı|Açıklama|
+|--|--|
+|Son Giriş Tarihi|Üyenin, hesabına son giriş yaptığı tarihin gösterildiği alandır.|
+|Son İşlem Tarihi|Üyenin son işlem yaptığı tarihin gösterildiği alandır.|
+|Son Giriş IP|Üyenin son giriş yaptığı IP adresinin gösterildiği alandır.|
+|Son Giriş IP Ülke|Üyenin son giriş yaptığı IP adresinin bulunduğu ülkeyi gösteren alandır.|
+|Son Giriş IP Ülke|Üyenin son giriş yaptığı IP adresinin bulunduğu şehri gösteren alandır.|
+
+
+<br>
+### 5.3. Mobil
+
+|Alan Adı|Açıklama|
+|--|--|
+|Mobil Üyelik IP|Üyelik mobil cihazı üzerinden yapılmış ise mobil ci|
+|Mobil Son Giriş IP|Mobil cihaz üzerinden üyelik oluşturulmuş ise mobil cihazın IP adresinin gösterildiği alandır.|
+|Mobil Üyelik UDID|Mobil cihaz üzerinden üyelik oluşturulmuş ise UDID bilgisinin gösterildiği alandır.|
+|Mobil Son Giriş UDID|Mobil cihaz üzerinden siteye giriş yapılmış ise son girişin UDID bilgisinin gösterildiği alandır.|
+|Mobil Üyelik Cihaz|Mobil cihaz üzerinden üyelik oluşturulduğunda kullanılan cihazın gösterildiği alandır.|
+|Mobil Son Giriş Cihaz|Mobil cihaz üzerinden siteye giriş yapıldığında son girişte kullanılan cihazın bilgisinin gösterildiği alandır.|
+|Mobil Üyelik OS Versiyon|Mobil cihaz üzerinden üyelik oluşturulduğunda mobil üzerinde bulunan OS versiyonunun gösterildiği alandır.|
+|Mobil Son Giriş OS Versiyon|Mobil cihaz üzerinden siteye giriş yapıldığında son girişte kullanılan OS versiyonunun gösterildiği alandır.|
+
+<br>
+### 5.4. Diğer
+
+|Alan Adı|Açıklama|
+|--|--|
+|SMS İşlem IP/Tarih/Seçim|SMS aktivasyon işlemlerde işlemin yapıldığı IP adresi, tarih ve aktivasyon yapılıp yapılmadığının bilgisini gösteren alandır. |
+|Bülten İşlem IP/Tarih/Seçim|Bülten kayıt işlemlerinde işlemin yapıldığı IP adresi, tarih ve kayıt yapılıp yapılmadığının bilgisini gösteren alandır.|
+|Cep Telefonu Doğrulandı mı?|Cep telefonu doğrulaması olan sitelerde doğrulamanın yapılıp yapılmadığını gösteren alandır.|
+|Üyelik Yok|Üyeliksiz olarak alışveriş yapan kullanıcılar için bu alan seçili olacaktır.|
+|SMS Onay Kodu|SMS onay kodunun gösterildiği alandır.|
+|Anonimleştir|Üyeye ait email, telefon ve cep telefonu numarası gibi bilgilerin tanınmaz hale getirilmesi için kullanılır.<br>❗ _Bir kullanıcı anonimleştirildiği zaman ilgili hesabına bağlı mail adresi silinir ve siteye giriş yapamaz aynı zamanda yeni bir sipariş de oluşturamaz._|
+
+

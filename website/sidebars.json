@@ -153,15 +153,7 @@
     ],
     "Üyeler": [
       "uye-listesi",
-      {
-        "type": "subcategory",
-        "label": "Mesajlar",
-        "ids": [
-          "uye-mesajlari",
-          "uye-mesaj-arsivi",
-          "bilgi-kayit-raporu"
-        ]
-      },
+      "mesajlar",
       "tedarikci-tanimi",
       "urun-yorumlari",
       "urun-tavsiyeleri",
