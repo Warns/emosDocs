@@ -1,3 +1,8 @@
+---
+id: site-ayarlari
+title: Site Ayarları
+---
+
 Parametrik bir altyapıya sahip olan e-MOS' u kullanmaya başlamadan önce, sistemin çalışma şeklini belirleyecek olan tanımlamaların yapılması gerekmektedir.
 
 - #### Sipariş Ayarları

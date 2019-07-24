@@ -161,6 +161,40 @@
       "bulten-mail-listesi",
       "abonelikler",
       "guvenli-domain-tanimi"
+    ],
+    "Site Yönetimi": [
+      {
+        "type": "subcategory",
+        "label": "Temel Ayarlar",
+        "ids": [
+          "site-ayarlari",
+          "kullanici-tanimi",
+          "profil-tanimi",
+          "dil-tanimlama",
+          "user-controls",
+          "dil-dosya-yonetimi",
+          "mail-icerik-yonetimi",
+          "sms-icerik-yonetimi",
+          "api-versiyon-tanimi"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "CMS",
+        "ids": [
+          "sayfa-yerlesim-duzenleme",
+          "template-tanimi",
+          "sayfa-grup-tanimi",
+          "sayfa-grup-tipi-tanimi",
+          "snippet-banner",
+          "banner-tanimi",
+          "sayfa-hiyerarsi",
+          "icerik-tanimi",
+          "icerik-kategorileri",
+          "icerik-etiketleri",
+          "icerik-yorumlari"
+        ]
+      }
     ]
   }
 }
