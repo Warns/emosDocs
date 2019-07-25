@@ -39,7 +39,7 @@ Sistem tarafından üyelere gönderilen site arama içeriklerini inceleyerek gö
 
 Sayfanın en üst kısmında yer alan filtreler ile **Kategori, Başarılı Arama, Başarısız Arama, Hepsi, Aranan Metin, Tarih-ile, Dil** kriterleri üzerinden **Ara** butonuna tıklayarak arama işlemi gerçekleştirebilirsiniz.
 
-Site Arama Raporları sonlarındaki flag (işaret - bayrak); kırmızı  renkteyse rapor ulaşmamıştır, yeşil renkteyse rapor aktif durumdadır.
+Site Arama Raporları sonlarındaki flag (tik işareti); kırmızı  renkteyse rapor ulaşmamıştır, yeşil renkteyse rapor aktif durumdadır.
 
 Ekranda bulunan sütunlarla ilgili detaylar aşağıdaki gibidir;
 

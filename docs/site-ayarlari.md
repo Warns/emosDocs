@@ -5,33 +5,34 @@ title: Site Ayarları
 
 Parametrik bir altyapıya sahip olan e-MOS'un çalışma şeklini belirleyecek olan tanımlamaların yapıldığı sayfadır.
 
-- ## 1.  Sipariş Ayarları
+## 1.  Sipariş Ayarları
 Sipariş işlemlerinde öndeğer olarak kullanılacak olan tanımların girildiği bölümdür.
 
 |Alan Adı|Açıklama|Örnek|
 |--|--|--|
-|Satış Sözleşmesini mail ile gönder	||1: Evet, 0:Hayır|
-|Kapıda Ödeme Kontrol Aktif	||1 evet; 0 hayır|
-|Adtriplex entegrasyonu aktif mi?	|Adtriplex entegrasyonu aktif olduğu durumda aralarina noktali virgül koyarak yazılmaktadır.|(prog;currency)|
-|Neo Digital ent. aktif mi?	|Neo Digital ent. aktif olduğu durumda hesap numarasının girileceği alandır.	||
-|Google Tag Manager ent. aktif mi?	|||
-|PayPal Account	|PayPal entegrasyonunun kullanıldığı sitelerde APIUsername, APIPassword ve APISignature bilgilerini virgül ile ayırarak girilmelidir.	||
-|Havale Gün	|Üyelere giden havale maillerinde ve müşteri panelinden siparişlerin izlendiği kısımda görüntülenecek olan bu parametre, havale ile yapılan siparişlerde siparişin geçerli olacağı gün sayısının belirlendiği alandır.	|2|
-|Matbu Evrak Yazıcı Tipi	|||
-|Sanal Klavye Ayarları	|Kredi kartı girişi esnasında sanal klavye kullanılıp kullanılmayacağını veya kullanım şeklini belirler.	|0: Sanal klavye kapalı<br>1: Sanal Klavye açık fakat tuşların yerleri değişmez<br>2: Sanal klavye açık ve tuşların yerleri değişir|
-|Sevk Otomatik Toplama	|Sevk işlemleri sırasında otomatik toplama yapılıp yaplmayacağını belirler.|1 evet; 0 hayır|
-|Cep Telefonu Zorunlu mu?|Sipariş verebilmek için kullanıcıya ait cep telefonu bilgisinin zorunlu olup olmadığını belirler.|1 zorunlu; 0 zorunlu değil|
-|Sipariş Kodu Formatı|Sipariş kodunun özelleştirilmesi için kullanılır. Bu alana girilen karakterler sipariş kodunun başına eklenir.|SIP|
-|Yandex Izleme Kodu|||
-|Amerikan Express Aktif|||
-|Nano Interactive Kodu|Kullanıcının sipariş adımlarını ve site üzerinde gezdiği sayfaları izleyen bir sistemdir. (n,cus) terimleri NanoInteractive firması tarafından kullanıcıya gönderilen kodlardır.|Virgüllerle ayırarak giriniz. Örnek: 1234,123456 (n,cus)|
-|Metrics34 Kodu|Metrics34 site ayarı dolu ve sipariş başarılıysa gönderilen script sitede gösterilecektir.|Virgüllerle ayırarak giriniz. Örnek: 1234 (ia_cl)|
-|NetModa Entegrasyonu|NetModa entegrasyonu ile sipariş sonuç sayfasında satış kodu(siparişin E-mos sistem kodu) ve toplam fiyat entegre edilecektir.|Netmoda Entegrasyonu Aktif mi? (1: Aktif, 0: Pasif)|
-|Fatura Tarihi|||
-|İrsaliye Numarası Zorunlu||"1" Zorunlu, "0" Zorunlu Değil|
-|Navigasyonlu Title|||
-|Visilabs Aktif|||
-|Google İzleme Kodu|Google Analytics tarafından verilen izleme kodudur. kod bu alana girildiği zaman Google Analytics scripti siteye otomatik olarak eklenir ve bu sayede istatistikleri Google tarafından takip edilir. <br> ❗ _Yapılan değişikliğin görülebilmesi için sayfanın yenilenmesi yerine kapatılıp tekrar açılması gerekmektedir._||
+|Satış Sözleşmesini mail ile gönder||
+|Normal POS Görüntüleme Sınırı||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
 
 - #### Sistem 
 

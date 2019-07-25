@@ -12,7 +12,7 @@ Sistem tarafından üyelere gönderilen maillerin teslim bilgilerinin raporland�
 
 Sayfanin en üst kısmında bulunan filtrelerle arama işlemi gerçekleştirebilirsiniz.
 
-- Raporda listelenen maillerin sonlarındaki flag (işaret - bayrak); kırmızı renkteyse mail teslim edilmemiştir, yeşil renkteyse mail teslim edilmiştir.
+- Raporda listelenen maillerin sonlarındaki flag (tik işareti); kırmızı renkteyse mail teslim edilmemiştir, yeşil renkteyse mail teslim edilmiştir.
 
 <br>
 ## 2. Giden SMS Takibi
@@ -20,5 +20,5 @@ Sistem tarafından üyelere gönderilen sms'lerin gönderilen kişiye teslim bil
 
 Sayfanin en üst kısmında bulunan filtrelerle arama işlemi gerçekleştirebilirsiniz.
 
-Raporda listelenen maillerin sonlarındaki flag (işaret - bayrak); kırmızı renkteyse mail teslim edilmemiştir, yeşil renkteyse mail teslim edilmiştir.
+Raporda listelenen maillerin sonlarındaki flag (tik işareti); kırmızı renkteyse mail teslim edilmemiştir, yeşil renkteyse mail teslim edilmiştir.
 

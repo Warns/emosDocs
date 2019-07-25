@@ -8,7 +8,7 @@ Ekran standartları için Tıklayınız.
 
 - Gelen mesajları cevaplamak için listedeki mesajlara tıklanılır.
 - Mesajın içeriği görüntülendikten sonra **Yanıtla** butona tıklanarak mesajı gönderen üyeye geri cevap gönderilir.
-- Varolan mesajları silmek için listede görüntülenen mesajlardan silmek istenilenler seçildikten sonra **SİL**  butonuna tıklanılır.
+- Varolan mesajları silmek için listede görüntülenen mesajlardan silmek istenilenler seçildikten sonra **Sil**  butonuna tıklanılır.
 - Üyelere mesaj göndermek için Üye Mesajları sayfasından **Ekle** butonuna tıklanılır. Açılan sayfadaki form doldurulur.
 
 |Alan Adı|Açıklama|
@@ -20,12 +20,11 @@ Ekran standartları için Tıklayınız.
 |Çözüldü|Üyenin problemi çözülürse mesajı bir daha görmemek için Çözüldü kutucuğunu işaretlenilerek mesaj, mesaj arşivi bölümüne taşınır.|
 |Admin Notu |Sadece admin tarafından görüntülenebilen notlar buraya yazılır.|
 
-Gerekli bilgiler girildikten sonra **GÖNDER** tıklanılarak mesaj gönderme işlemini tamamlanır.
+Gerekli bilgiler girildikten sonra **Gönder** tıklanılarak mesaj gönderme işlemini tamamlanır.
 
 Gönderilen mesajlar sistem tarafından **" Admin Panel > Site Yönetimi > Mail İçerik Yönetimi"** sayfasında **Üyelere Giden Mesaj** formatına çevrilerek gönderilir. Mesajların ulaşıp ulaşmadığını **" Raporlar > Mail / SMS raporları > Giden Mail Takibi"** menüsünden kontrol edilebilir.
 
 Üye Mesajları sayfasına ve Üye Mesaj Arşivi sayfalarında listelenen kayıtların arasına eklenen **“Üye E-Mail”** adlı alan, ilgili sayfalarda kullanıcılara e-mail bilgisi sunmaktadır.
 
-***Buraya screenshot gelicek***
 
 
