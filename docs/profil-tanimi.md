@@ -39,7 +39,7 @@ Yönetim panelinde belirlenen sayfalarda sadece sayfayı görüntüleme olanağ�
 ### 2.2. Yazma Hakkı
 Admin panelinde belirlenen sayfalarda işlem yapma imkanı sağlar. 
 
->❗ _Her hangi bir yetki verilmediğinde kullanıcı ilgili modulü görüntüleyemeyecektir._
+>❗ _Her hangi bir yetki verilmediğinde kullanıcı ilgili modülü görüntüleyemeyecektir._
 
 Eğer bir sayfa için flag (tik işareti) yeşil ise ilgili sayfaya yetki verilmiştir, kırmızı ise yetki verilmemiştir.
 
@@ -74,7 +74,7 @@ Canlı siteye publish etme yetkisi. Bu yetkiye sahip olan kullanıcı ilgili iç
 
 >❗ _Yayınlama Hakkına sahip olmayan bir kullanıcı yaptığı değişikliği veya eklentiyi yetkili birinden onay isteme mekanizmasıyla sürdürebilecektir._
 
->❗ _Her hangi bir yetki verilmediğinde kullanıcı ilgili modulü görüntüleyemeyecektir._
+>❗ _Her hangi bir yetki verilmediğinde kullanıcı ilgili modülü görüntüleyemeyecektir._
 
 <br>
 ## 4. Mesaj Hakları
@@ -88,7 +88,7 @@ Kullanıcıya sistem ve grup hakları konusunda gönderilen mesajları okuyabilm
 
 <br>
 ## 6. Özel İşlem Hakları
-İlgili kullanıcı profiline sistem zerinde bulunan bazı özel modul ve işlemlerin yetkisinin verildiği sayfadır. 
+İlgili kullanıcı profiline sistem zerinde bulunan bazı özel modül ve işlemlerin yetkisinin verildiği sayfadır. 
 
 <br>
 ## 7. API Hakları

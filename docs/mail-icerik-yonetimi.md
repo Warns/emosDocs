@@ -1,26 +1,33 @@
+---
+id: mail-icerik-yonetimi
+title: Mail İçerik Yönetimi
+---
+
 Sistem tarafından gönderilen tüm otomatik maillerin görüntülendiği ve içeriklerinin düzenlebildiği sayfadır.
 
-Ekran Standartları için Tıklayınız.
+Herhangi bir mail kaydını güncellemek için mail listesinden güncellenmesi istenen kayda tıklanır. Açılan sayfada bulunan alanlar üzerinde değişiklik yapılır. Son olarak **Kaydet** butonuna tıklayarak değişikliklerin güncellenmesi sağlanır.
 
+>❗ _Maillerin içerikleri güncellenirken **$** karakteri arasında gösterilen mail parametrelerinin silinmemesine dikkat edilmelidir. Bu parametrelerin yerleri değiştirilebilir. Eğer silinirse o parametrenin karşılığı olan metin gönderilen maillerde görüntülenmeyecektir.
+Her mailin sağ üst köşesinde o mailde kullanılabilecek parametrelerin listelendiği **"Mail Parametreleri"** linki bulunmaktadır. Bu linke tıklayarak kullanılabilecek parametreler ve karşılık metin bilgileri öğrenilebilir._
 
-**Bir otomatik mailin içeriğini güncellemek için;**
+<br>
 
-Maillerin listesinden güncellenmek istenen kayda tıklanır.
-Açılan sayfada **Konu ve Metin** alanlarındaki metinler değiştirilir.
-Son olarak **Kaydet**  butonuna tıklanıp değişikliklerin güncellenmesi sağlanır.
+**Örnek mail parametreleri:**
 
+$strKimeAdSoyad$
+Üye Adı ve soyadı bilgisidir.
 
->❗ _Maillerin içerikleri güncellenirken **$** karakteri arasında gösterilen mail parametrelerinin silinmemesine dikkat edilmektedir. Bu parametrelerin yerleri değiştirilebilir. Eğer silinirse o parametrenin karşılığı olan metin gönderilen maillerde görüntülenmeyecektir.
-Her mailin sağ üst köşesinde o mailde kullanılabilecek parametrelerin listelendiği **"Mail Parametreleri"** linki bulunmaktadır. Bu linke tıklanıp kulanılabilecek parametreler ve karşılık metin bilgileri öğrenilebilir._
+$strClientIpAdres$
+Mailin gönderildiği ip adresidir.
 
-Örnek mail parametreleri :
+$strUyeSifre$
+Üyeye ait şifre bilgisidir.
 
-$strKimeAdSoyad$ = Üye Adı ve soyadı bilgisidir.
-$strClientIpAdres$ = Mailin gönderildiği ip adresidir.
-$strUyeSifre$ = Üyeye ait şifre bilgisidir.
-$strKimeEMail$ = Üyenin mail adresidir.
+$strKimeEMail$
+Üyenin mail adresidir.
 
-**Sistem Tarafından Otomatik Gönderilen Mailller :**
+<br>
+## Sistem Tarafından Otomatik Gönderilen Mail Örnekleri
 
 |Mail Adı|Açıklama|
 |--|--|
@@ -58,21 +65,32 @@ $strKimeEMail$ = Üyenin mail adresidir.
 |Admine İptal Talebi yapıldığında gidicek olan Mail|Kullanıcı Siparişini iptal ettiğinde sipariş yöneticisine ulaşan bildirim mailidir.|
 |Sipariş Bilgi Maili|Kullanıcı Sipariş verdiğinde, siparişine ilişkin bilgileri aldığı maildir.|
 
+<br>
 
 **Publish Mail İçeriği**
 
 Site üzerinde bulunan bir içerik sayfası değiştirildiği durumda yetkilendirmenin verildiği kişiye aşağıda bulunan bilgiler;
 
-$strKimeAdSoyad$ : Mailin gideceği kullanıcının “Ad Soyad” bilgisini tutar.
-$strKimeEMail$ : Mailin hangi mail adresine gideceği bilgisini tutar.
-$strPblDurum$ : İçerik üzerinde yapılan en son işlemi tutar.
-$strIcerikUrl$ : Düzenleme yapılan içeriğin url bilgisini tutar.
-$strIcerikAd$ : Düzenleme yapılan içeriğin adını tutar.
-$strDuzenleyenKln$ : İçeriği düzenleyen kullanıcının “Ad Soyad” bilgisini tutar.
-$strWebAdresi$ : İlgili müşterinin aktif domain bilgisini tutar.(Domain adını tutar)
- 
+$strKimeAdSoyad$
+Mailin gideceği kullanıcının “Ad Soyad” bilgisi.
 
-“E-mail” adresine gidecektir.
+$strKimeEMail$
+Mailin hangi mail adresine gideceğinin bilgisi.
 
-İçerik Sayfasında yapılan bu değişiklikler yetkilendirme yapılan kişi tarafından onaylandığı zaman, içeriği düzenleyen kişiye “İçeriğin düzenleme işlemi”ne onay verildiğine dair mail gidecektir.
+$strPblDurum$
+İçerik üzerinde yapılan en son işlem.
+
+$strIcerikUrl$
+Düzenleme yapılan içeriğin URL bilgisi.
+
+$strIcerikAd$
+Düzenleme yapılan içeriğin adı.
+
+$strDuzenleyenKln$
+İçeriği düzenleyen kullanıcının “Ad Soyad” bilgisi.
+
+$strWebAdresi$
+İlgili müşterinin aktif domain bilgisi (web adresi).
+
+>❗ _İçerik Sayfasında yapılan bu değişiklikler yetkilendirme yapılan kişi tarafından onaylandığı zaman, içeriği düzenleyen kişiye “İçeriğin düzenleme işlemi”ne onay verildiğine dair mail gidecektir._
 
