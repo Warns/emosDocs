@@ -1,3 +1,8 @@
+---
+id: matbu-evrak-tasarimi
+title: Matbu Evrak Tasarimi
+---
+
 Sistem üzerinden nokta vuruşlu yazıcılara matbu evrak çıktısı **(Satış Faturası, Satış İrsaliyesi, Gider Makbuzu, Alış İade Faturası,Depo Trs. İrsaliyesi)** yapılabilmektedir. Bunun için firmada kullanılan matbu evrakların tasarımsal yerleşimlerinin yazıcıya ve evrak'a göre düzenlenmesi gerekmektedir.
 
 Matbu evrakların nokta vuruşlu yazıcılardan dökülmesi ile ilgili tekni bilgi almak için Tıklayınız.
@@ -29,11 +34,7 @@ Ekran Standartları İçin Tıklayınız.
 
 Gerekli bilgiler doldurulup  **Kaydet** butonuna tıklanır.
 
-####Matbu Evrak Tasrımı Yapılırken Dikkat Edilecek Hususlar
-
-**Doküman Başlık**
-
-***-Buraya tablo gelicek-***
+#### Matbu Evrak Tasrımı Yapılırken Dikkat Edilecek Hususlar
 
 **Doküman Başlık**, **Doküman Gövde** ve **Doküman Taban** alanları doldurulurken aşağıdaki hususlara dikkat edilmelir.
 
@@ -41,8 +42,8 @@ Evrakta yer alan parametreler istenilen yerlere klavyede **Space** ve **BackSpac
 Bütün parametreler köşeli parantezler arasında bulunmalıdır.
 Köşeli parantez dışındaki alanlara istenilen kelimeler yazılabilir. Bu kelimeler çıktıda yazıldığı şekliyle görüntülenir.
 Her parametrenin uzunluğu köşeli parantezler arasındaki karakter sayısı kadardır. (Köşeli parantezler buna dahildir) 
-**[UY                            ]** = Üye Ad soyad bilgisi için 20 karakterlik alan ayırılmış.
+**[UY]** = Üye Ad soyad bilgisi için 20 karakterlik alan ayırılmış.
 12345678901234567890
 Bir parametre sola dayalı görünmesi için [ karaktedinin yanına, sağa dayalı görünmesi için ] karakterinin yanına yazılmalıdır.
-**[VN              ]**  = Vergi numarası sola dayalı olarak yazıcıya gönderilecektir.
-**[              VN]**  = Vergi numarası sağa dayalı olarak yazıcıya gönderilecektir.
+**[VN]**  = Vergi numarası sola dayalı olarak yazıcıya gönderilecektir.
+**[VN]**  = Vergi numarası sağa dayalı olarak yazıcıya gönderilecektir.

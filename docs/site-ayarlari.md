@@ -8,37 +8,11 @@ Parametrik bir altyapıya sahip olan e-MOS'un çalışma şeklini belirleyecek o
 ## 1.  Sipariş Ayarları
 Sipariş işlemlerinde öndeğer olarak kullanılacak olan tanımların girildiği bölümdür.
 
-|Alan Adı|Açıklama|Örnek|
-|--|--|--|
-|Satış Sözleşmesini mail ile gönder||
-|Normal POS Görüntüleme Sınırı||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-
-
 - #### Sistem 
 
-|Alan Adı|Açıklama|Örnek|
-|--|--|--|
-|Alışveriş Sepeti Temizleme Süresi|Ürünlerin sepete eklendiği fakat alışverişin tamamlanmadığı durumlarda kullanıcının sepetinde ürünlerin kaç gün kalacağını belirleyen parametredir.||
+|Alan Adı|Açıklama|
+|--|--|
+|Alışveriş Sepeti Temizleme Süresi|Ürünlerin sepete eklendiği fakat alışverişin tamamlanmadığı durumlarda kullanıcının sepetinde ürünlerin kaç gün kalacağını belirleyen parametredir.|
 |Content Sunucu Ayaları|Ürün resim ve dokümanları siteden farklı bir sunucuda konumlandırılıyorsa bu alan kullanılır. Directory ismi ve url olarak bilgi girilir.|DirectoryName,ContentServerDomain<br>örn: downloads, http://download.site.com|
 |Sunucu Cache Dakikası|Sayfaların sunucu cache'sinde kaç dakika kalacağını belirleyen parametredir.|10|
 |Tasarım Doc Type|Site tasarımı için gerekli bir parametredir.||
@@ -53,8 +27,8 @@ Sipariş işlemlerinde öndeğer olarak kullanılacak olan tanımların girildi�
 
 - #### Diğer
 
-|Alan Adı|Açıklama|Örnek|
-|--|--|--|
+|Alan Adı|Açıklama|
+|--|--|
 |İndirim Yüzdesi|Önyüzde indirimli ürünler menüsü altında görülmesini istediğiniz ürünler için minimum indirim oranı girilir. Bu değerin altında indirim oranı tanımlanmış ürünler, indirimli ürünler listesinde gözükmeyecektir.||
 |Promosyon Görünme Süresi|Ürünlerin önyüzde listelendiği kısımda promosyonların bitmesine belirli bir gün kaldığında uyarı çıkarılması sağlanabilir. ("Son 5 Gün!" gibi) Bu uyarının promosyonun bitiş tarihine kaç gün kaldığının çıkarılacağını Promosyon Görünme süresi parametresi belirlenir.<br>❗  _Promosyon bitiş tarihi girilmeyen promosyonlarda, bu parametre geçerli olmayacaktır._||
 |Session Timeout|Üyenin kullanıcı adı ve şifreyle giriş yaptıktan sonra hiçbir işlem yapmadan kalabileceği zaman sınırlandırmasının girildiği alandır. (dakika)||
@@ -84,8 +58,8 @@ Bonus kullanımı ve kazanma oranlarının tanımlanabilineceği yerdir.
 
 - #### Ürün Ayarları
 
-|Alan Adı|Açıklama|Örnek|
-|--|--|--|
+|Alan Adı|Açıklama|
+|--|--|
 |Küçük Sepet Ürün Adeti	|Sepet içeriğinin ürün detaylı olarak görüntülenebileceği max. ürün adedinin belirlendiği alandır. Bu değerin üzerine çıkıldığında ürün bilgisi gösterilmez, sepetteki toplam ürün adedi ve tutarı güncellenir.<br>❗ _Satın alma işlemine geçildiğinde görüntülenen sepet için bu parametre geçerli değildir, sepet içerisindeki tüm ürünler gösterilir._ ||
 |Paket Ürün Kodu Formatı	|Paket ürün koduna eklenmek istenilen ön ekin girildiği alandır.	|PKT --> PRI000023|
 |Ürün Kodu Formatı	|Yeni ürün tanımlarken oluşturulan ürün koduna eklemek istenen ürün kodu formatı girildiği alandır.|MYU girilirse ürün kodu MYU00001 şeklinde oluşur.|
@@ -104,8 +78,8 @@ Siteye eklenilen resimlerle ilgili genel ayarların yapılacağı sayfadır.
 Upload ile ürünün resmi eklendiğinde, düzenlenmesi gereken diğer boyutları thumb klasörü içerisinde anında oluşturulur. Burada dikkat edilmesi gereken nokta, resmin diğer boyutları için sistem otomatik isimler üretir. (mama_kabi.jpg için, mama_kabi_small.jpg gibi) Eğer ürünün thumb resimleri daha önceden oluşturulduysa örnekteki mama_kabi_small.jpg zaten var olduğundan sistem yeniden bu resmi oluşturmayacaktır. mama_kabi_small.jpg thumb klasöründen silinirse ve upload modülünde ana resmin eklendiği klasöre giriş yapılırsa sistem yeniden oluşturacaktır. 
 FTP ile resim gönderildiğinde de aynı şekilde thumbların oluşması için upload modülü ile resmin gönderildiği klasöre giriş yapılmalıdır._
 
-|Alan Adı|Açıklma|Örnek|
-|--|--|--|
+|Alan Adı|Açıklma|
+|--|--|
 |Resim Arka Plan Rengi |Resmin arka plan rengi olarak görüntülenmesi istenilen rengin RGB kodu yazılır. (beyaz için "#ffffff")	|#ffffff|
 |Zoom ImageSize |Ürünün detay resminde Zoom Image modülü kullanılıyor ise, resmin gerçek boyutları, aralarında virgül koyularak genişlik ve yükseklik şeklinde tanımlanır.|1772,1772|
 |Image Size	|Ürünün sitede görüntülenecek en büyük boyutu belirlenir. Bu boyutun üzerindeki değerlerde resim verildiğinde sistem bu boyuta küçültecektir. Aynı şekilde bu boyuttan daha küçük bir resim verildiğinde, "Resim Arka Plan Rengi" parametresi kullanılarak verilen resim maksimum boyutların ortasına oturtulacak ve arka plan rengi verilen parametreye göre düzenlenecektir.|400,400|

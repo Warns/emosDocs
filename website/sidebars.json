@@ -10,7 +10,8 @@
           "ekran-standartlari",
           "ftp-erisimi",
           "resim-ve-dosya-yukleme",
-          "cache-recycle"
+          "cache-recycle",
+          "coklu-dil"
         ]
       }
     ],
@@ -194,13 +195,48 @@
           "icerik-etiketleri",
           "icerik-yorumlari"
         ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Script",
+        "ids": [
+          "emos-script",
+          "script-yoneticisi",
+          "script-dosya-yonetimi",
+          "razor-script"
+        ]
+      },
+      "sabit-sayfa-tanimlari",
+      {
+        "type": "subcategory",
+        "label": "Görevler",
+        "ids": [
+          "Görevler",
+          "Aksiyonlar"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Form Yönetimi",
+        "ids": [
+          "form-yonetimi",
+          "xml-form-tanimi",
+          "xml-form-data-tanimi"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Diğer",
+        "ids": [
+          "haber-bulten-hazırlama",
+          "bulten-gonderme",
+          "filtre-tanimlama",
+          "footer-tanimlama",
+          "insan-kaynaklari",
+          "matbu-evrak-tasarimi",
+          "sistem-hatalari"
+        ]
       }
-    ],
-    "Script": [
-      "e-MOS Script",
-      "Script Yöneticisi",
-      "Script Dosya Yönetimi",
-      "Razor Script"
     ]
   }
 }

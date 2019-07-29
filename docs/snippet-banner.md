@@ -67,7 +67,7 @@ Sayfada bulunan alanlarla ilgili detaylar aşağıdak gibidir;
 |Yerleşim Yeri|Sayfa iskeletinde yerleşim yerinin seçildiği alandır.|
 |Markalar|Markalar bazında gösterim yapıldığı zaman kullanılan alandır.|
 |Ürünler|Ürün veya ürünlerin seçildiği alandır. Ürün bazında gösterim yapıldığı zaman kullanılır.|
-|ESI KOD|Birden fazla domain üzerinde çalışan sistemler için ayrıştırıcı olarak kullanılan kod'dur.|
+|ESI KOD|Aynı sistem üzerinde çalışan 2 farklı site için kullanılan bir tanımlayıcıdır "Unique Identifier". |
 |Ürün Tipi|Ürün tipip seçiminin yapıldığı alandır.|
 |Gösterim Tarihi|İlgili banner grubu için gösterim tarihinin girildiği alandır.|
 |Saat Aralığı|Gösterime girecek tarihte saat aralığının belirlendiği alandır.|
