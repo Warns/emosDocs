@@ -1,3 +1,8 @@
+---
+id: script-yoneticisi
+title: Script Yöneticisi
+---
+
 Script manager, müşterilerin script entegrasyonları için yapılan bir çalışmadır. Müşteriler tarafından talep edilen, sistemde olmayan yada varolan şekliyle uyumsuz olan script entegrasyonları için yazılım ekibi tarafından geliştirme/güncelleştirme işlemleri yapılmaktaydı. Yapılan bu geliştirme/güncelleştirme işlemlerinin canlı ortama taşıma işlevi her zaman yapılamadığından dolayı müşterilerin zaman kaybetmesine neden oluyordu. Bu yapı sayesinde sistemde ön tanımlı ya da özel script entegrasyonları sisteme doğrudan dinamik şekilde eklenebilecek.
 
 Ekran standartları için Tıklayınız.

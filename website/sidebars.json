@@ -195,6 +195,12 @@
           "icerik-yorumlari"
         ]
       }
+    ],
+    "Script": [
+      "e-MOS Script",
+      "Script Yöneticisi",
+      "Script Dosya Yönetimi",
+      "Razor Script"
     ]
   }
 }

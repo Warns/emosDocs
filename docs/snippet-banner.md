@@ -54,7 +54,22 @@ Gerekli bilgileri doldurduktan sonra **Kaydet**  butonuna tıklayarak banner kay
 
 <br>
 ## 2. Diğer Özellikler
+Banner'in gösterim yeri ve özel ayarlarının yapıldığı sayfadır.
 
+Sayfada bulunan alanlarla ilgili detaylar aşağıdak gibidir;
 
-
-
+|Alan Adı|Açıklama|
+|--|--|
+|Kategori|Kategori seçiminin yapıldığı alandır. Kategori bazında gösterim yapıldığı zamanlarda kullanılır.|
+|Alt. Kat.de Göster|Kategori alanında seçilen kategorinin alt seviyelerinde gösterilip gösterilmeyeceğini kontrol eden alandır.|
+|Fiyat Tipi|Fiyat tipi seçiminin yapıldığı alandır.|
+|Login Durumu|Kullanıcının login durumuna göre gösterim yapıldığı zaman kullanılır. |
+|Yerleşim Yeri|Sayfa iskeletinde yerleşim yerinin seçildiği alandır.|
+|Markalar|Markalar bazında gösterim yapıldığı zaman kullanılan alandır.|
+|Ürünler|Ürün veya ürünlerin seçildiği alandır. Ürün bazında gösterim yapıldığı zaman kullanılır.|
+|ESI KOD|Birden fazla domain üzerinde çalışan sistemler için ayrıştırıcı olarak kullanılan kod'dur.|
+|Ürün Tipi|Ürün tipip seçiminin yapıldığı alandır.|
+|Gösterim Tarihi|İlgili banner grubu için gösterim tarihinin girildiği alandır.|
+|Saat Aralığı|Gösterime girecek tarihte saat aralığının belirlendiği alandır.|
+|Url Filter|URL üzerinden filtreleme/ek uzantı işlemi yapıldığı durumlarda kullanılan alandır.|
+|Cihaz Seçimi|Bannerin gösterileceği platform seçiminin yapıldığı alandır.|
