@@ -106,8 +106,8 @@ const siteConfig = {
   docsSideNavCollapsible: true,
   docsUrl: '',
   algolia: {
-    // apiKey: '49aa344324582e13fb52472b73969032',
-    apiKey: '272efcdab391caf364a7fad3a16d1b53',
+    apiKey: '49aa344324582e13fb52472b73969032',
+    // apiKey: '272efcdab391caf364a7fad3a16d1b53',
     indexName: 'e-mos',
     algoliaOptions: {} // Optional, if provided by Algolia
   },
