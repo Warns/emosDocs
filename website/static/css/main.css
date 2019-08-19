@@ -1768,21 +1768,8 @@ input::placeholder {
   width: 18px;
 }
 
-.toc .toggleNav .navToggle:before,
-.toc .toggleNav .navToggle:after {
-  border: 5px solid #393939;
-  border-width: 5px 0;
-  content: '';
-  height: 6px;
-  left: 0;
-  left: 8px;
-  margin-top: -8px;
-  position: absolute;
-  top: 50%;
-  transform: rotate(45deg);
-  width: 3px;
-  z-index: 1;
-}
+
+.
 
 .toc .toggleNav .navToggle:after {
   transform: rotate(-45deg);
