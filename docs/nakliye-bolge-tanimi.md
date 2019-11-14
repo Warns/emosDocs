@@ -9,7 +9,7 @@ Türkiye içerisinde faaliyette bulunan websiteler için default olarak nakliye 
 
 Yeni bir nakliye bölgesi tanımlamak için için Nakliye Bölge Tanımı sayfası açıldığında **Ekle** butonuna tıklanılır. 
 
-![](https://snag.gy/f17wLe.jpg)
+![](https://snipboard.io/f17wLe.jpg)
 
 Bu ekranda bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 

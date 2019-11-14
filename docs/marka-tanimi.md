@@ -16,7 +16,7 @@ Ekran Standartları için Tıklayınız.
 |--|--|
 |Marka Adı|Tanımlanacak marka isminin girildiği alandır.|
 |Başlık|Markanın tarayıcı üzerinde yazacak başlığa karşılık gelir.|
-|Marka Resim|![](https://snag.gy/48R0Kc.jpg) butonuna tıklayarak seçtiğiniz markanın resmini ekleyebilirsiniz.|
+|Marka Resim|![](https://snipboard.io/48R0Kc.jpg) butonuna tıklayarak seçtiğiniz markanın resmini ekleyebilirsiniz.|
 |Sayfa İsmi|Markanın linkine karşılık gelir.|
 |Ent. Kodu|Kampanyanın ticari sistemdeki karşılığıdır. Sipariş ve fatura entegrasyonu sırasında ihtiyaca göre kampanyaya giren siparişlerde bu kodun entegrasyon ile gönderilmesini sağlar.|
 |Sıra|Markanın hangi sırada olacağının belirlendiği alandır.|

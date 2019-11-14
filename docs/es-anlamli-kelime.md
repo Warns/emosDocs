@@ -18,6 +18,6 @@ Gerekli bilgiler girildikten sonra **Kaydet** butonuna tıklayarak marka tanım 
 
 <br>
 
-![](https://snag.gy/c2xpU8.jpg)
+![](https://snipboard.io/c2xpU8.jpg)
 
 >❗️ _Yukarıdaki görselde olduğu gibi kelimeler virgül "," sembolleriyle ayrılmalıdır._ 

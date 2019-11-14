@@ -7,7 +7,7 @@ title: Ürün Sıralama
 
 Ürünlerin sırası, **Sıralama Tipi** alanında bulunan **Ürün Tipi, Kategori, Marka, Vitrin ve Ürün** sırasına göre değiştrilebilir. 
 
-![](https://snag.gy/NZzYib.jpg)
+![](https://snipboard.io/NZzYib.jpg)
 
 <br>
 ## 1. Ürün Tipi Sırası
@@ -19,7 +19,7 @@ Bu sıralama seçeneği, ürün tipine bağlı olan ürünlerin sırasını değ
 
 Bir ürün tipi seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/GWpahF.jpg)
+![](https://snipboard.io/GWpahF.jpg)
 
 
 
@@ -28,7 +28,7 @@ Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer �
 
 Ürünleri filtreledikten sonra önyüzde ilgili ürün tipi sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/9nVBp1.jpg)
+![](https://snipboard.io/9nVBp1.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
@@ -42,13 +42,13 @@ Kategori Tanımı hakkında bilgi almak için lütfen [Tıklayınız](kategori-t
 
 Bir kategori seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/s5vtG9.jpg)
+![](https://snipboard.io/s5vtG9.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
 
 Ürünleri filtreledikten sonra önyüzde ilgili kategori sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/TMAC1V.jpg)
+![](https://snipboard.io/TMAC1V.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
@@ -62,13 +62,13 @@ Bu sıralama seçeneği, markaya bağlı olan ürünlerin sırasını değiştir
 
 Bir marka seçtikten sonra ve **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/UZpl4h.jpg)
+![](https://snipboard.io/UZpl4h.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
 
 Ürünleri filtreledikten sonra önyüzde ilgili marka sayfasında en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/qWEZU7.jpg)
+![](https://snipboard.io/qWEZU7.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
@@ -82,13 +82,13 @@ Bu sıralama seçeneği, vitrin ürünlere bağlı olan ürünlerin sırasını 
 
 **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/QIyqEP.jpg)
+![](https://snipboard.io/QIyqEP.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
 
 Ürünleri filtreledikten sonra önyüzde anasayfada en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/xPMtK5.jpg)
+![](https://snipboard.io/xPMtK5.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 
@@ -100,13 +100,13 @@ Bu sıralama seçeneği, ürün liste (/urun_liste.aspx) sayfasında bulunan ür
 
 **Listele** butonuna tıkladıktan sonra aşağıdaki gibi yeni opsiyonlar açılır
 
-![](https://snag.gy/QIyqEP.jpg)
+![](https://snipboard.io/QIyqEP.jpg)
 
 Kategori, Marka, Ürün Sınıfı, Ürün Alt Sınıfı, Açıklama, Öndeğer Ürün, İndirimli Ürün, Stok Sırala opsiyonlarını kullanarak seçilen ürün tipine bağlı olan ürünleri filtreleyebilirsiniz.
 
 Ürünleri filtreledikten sonra önyüzde anasayfada en başta çıkmasını istediğiniz ürünleri sağ taraftaki bölüme sürükleyerek yeni bir düzen ile yerleştirebilirsiniz.
 
-![](https://snag.gy/pNhFCo.jpg)
+![](https://snipboard.io/pNhFCo.jpg)
 
 > ❗️ _Ürünleri sağ tarafta istenilen şekilde yerleştirdikten sonra kaydetmek için **Değişiklikleri Kaydet** butonu kullanılır. Değişiklikleri hemen önyüze yansıtmak için e-MOS anasayfasından **Cache Recycle** butonu kullanılır._
 

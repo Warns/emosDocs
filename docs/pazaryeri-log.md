@@ -12,6 +12,6 @@ Pazaryeri Log ekranında her bir pazaryeri için yapılan işlemler burada logla
 
 **Pazaryeri** alanından pazaryeri seçildikten sonra aşağıdaki gibi bir log listesi gelir;
 
-![](https://snag.gy/VnPeRk.jpg)
+![](https://snipboard.io/VnPeRk.jpg)
 
 > ❗️ _İlgili pazaryeri servisinin sağladığı log detayına göre bu ekrandaki log bilgileri değişiklik gösterebilir_.

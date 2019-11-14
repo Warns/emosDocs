@@ -10,13 +10,13 @@ FTP ile erişilebilecek klasörler aşağıda açıklanmıştır;
 |Klasör Adı|Açıklama|
 |--|--|
 |images|Sitenin önyüz grafik tasarımı için kullanılan resimlerin bulunduğu klasördür|
-|languages|Sitede bulunan sabit metinlerin .txt dosyaları halinde bulunduğu klasördür. Bütün sabit metinler bu **.txt** dosyaları içerisinden güncellenebilir. Eğer site çoklu dil destekli olarak açıldıysa başka dillere çevirilebilir. Örneğin tr-TR alt klasörü türkçe sabit metinleri, en-EN alt klasörü ingilizce metinleri belirler. Eğer bir sabit metin bilgisinin ID si, bu dosyalarda yer almıyor ise, yazılım tarafındaki öndeğer karşılığı gösterilir. Sabit metinlerin ID si  "lbf_" öneki ile başlamaktadır. Herhangibir sabit metnin ID sini bulmak için ilgili sayfa internet tarayıcısında açıldıktan sonra kaynak koduna bakarak bulunabilir|
-|printerFiles|Sistemden kesilen matbu evraklardan nokta vuruşlu olanların **.txt** dosyaları şeklinde biriktirildiği klasördür|
+|languages|Sitede bulunan sabit metinlerin <code>.txt</code> dosyaları halinde bulunduğu klasördür. Bütün sabit metinler bu .txt</code> dosyaları içerisinden güncellenebilir. Eğer site çoklu dil destekli olarak açıldıysa başka dillere çevirilebilir. Örneğin <code>tr-TR</code> alt klasörü türkçe sabit metinleri, <code>en-EN</code> alt klasörü ingilizce metinleri belirler. Eğer bir sabit metin bilgisinin <code>ID</code> si, bu dosyalarda yer almıyor ise, yazılım tarafındaki öndeğer karşılığı gösterilir. Sabit metinlerin <code>ID</code> si  <code>lbf_</code> öneki ile başlamaktadır. Herhangibir sabit metnin ID sini bulmak için ilgili sayfa internet tarayıcısında açıldıktan sonra kaynak koduna bakarak bulunabilir|
+|printerFiles|Sistemden kesilen matbu evraklardan nokta vuruşlu olanların <code>.txt</code> dosyaları şeklinde biriktirildiği klasördür|
 |styles|Sitenin ön yüz görüntüsünün düzenlenebildiği .css dosyalarını içeren klasördür|
 |upload|Sistemde sıkça kullanılacak olan **Resim / Dosya Yükleme** modülü sadece bu klasöre ve alt klasörlerine erişebilir.
 
 <br>
-Styles klasöründe **genel.css, icerik.css, kutu.css, popup.css, sayfa.css, urun.css, ajaxtabs.css, dhtmlwindow.css ve rating.css**  dosyları bulunmaktadır. Bu dosyalar yardımı ile sitenin görsel öğeleri tasarlanabilmektedir.
+Styles klasöründe <code>genel.css</code> <code>icerik.css</code> <code>kutu.css</code> <code>popup.css</code> <code>sayfa.css</code> <code>urun.css</code> <code>ajaxtabs.css</code> <code>dhtmlwindow.css</code> ve <code>rating.css</code>  dosyları bulunmaktadır. Bu dosyalar yardımı ile sitenin görsel öğeleri tasarlanabilmektedir.
 
 styles klasörünün kullanımı;
 
@@ -37,7 +37,7 @@ languages klasörünün kullanımı;
 
 Bu klasörün altındaki .txt dosyaları kullanılarak sitenin ön yüzü farklı dillere çevirilebilmektedir.
 
->❗️ _Ayrıca **siteBilgileri.txt** dosyası kullanılarak sitenin **TITLE, META TAG, ICON** vb.. bilgiler her sayfaya eklenecek şekilde düzenlenebilmektedir._
+>❗️ _Ayrıca **siteBilgileri.txt** dosyası kullanılarak sitenin <code>TITLE</code> <code>META TAG</code> <code>ICON</code>** vb.. bilgiler her sayfaya eklenecek şekilde düzenlenebilmektedir._
 
 
 **SiteMap Oluşturma**

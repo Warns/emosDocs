@@ -5,7 +5,7 @@ title: Resim Ve Dosya Yükleme
 
 FTP klasörlerine **dosya yüklemek ve var olan dosyaları sisteme iliştirmek** için kullanılan modüldür.
 
-![image.png](https://snag.gy/tKah9j.jpg)
+![image.png](https://snipboard.io/tKah9j.jpg)
 
 ### **Butonlar**
 
@@ -14,10 +14,10 @@ FTP klasörlerine **dosya yüklemek ve var olan dosyaları sisteme iliştirmek**
 | Dosya Yükleme                                  | FTP klasörlerine bir veya birden fazla yeni dosya eklemek için kullanılır                                                                                                     |
 | Klasör Oluştur                                 | FTP klasörlerine yeni bir alt klasör eklemek için kullanılır                                                                                                                  |
 | Üst Klasöre Çık                                | FTP klasörleri içinde gezinirken bir üst klasöre geçmesini sağlayan butondur                                                                                                  |
-| ![btn_tree.png](https://snag.gy/Fn78Xw.jpg)    | İlgili satırın klasör olduğu belli eden ikondur                                                                                                                               |
-| ![type_jpg.png](https://snag.gy/48R0Kc.jpg)    | İlgili satırın Resim Dosyası olduğunu belli eden ikondur. (Eğer dosya resim değil de excel, word vb.. formatta bir dosya ise o formata ait farklı bir ikon görüntülenecektir) |
-| ![btn_treedel.png](https://snag.gy/81ZU9v.jpg) | İlgili dosyayı veya klasörü silmek için kullanılan ikondur                                                                                                                    |
-| ![image.png](https://snag.gy/fhzwFp.jpg)       | Bu kısım şu an hangi klasörde bulunduğunuzu gösterir                                                                                                                          |
+| ![btn_tree.png](https://snipboard.io/Fn78Xw.jpg)    | İlgili satırın klasör olduğu belli eden ikondur                                                                                                                               |
+| ![type_jpg.png](https://snipboard.io/48R0Kc.jpg)    | İlgili satırın Resim Dosyası olduğunu belli eden ikondur. (Eğer dosya resim değil de excel, word vb.. formatta bir dosya ise o formata ait farklı bir ikon görüntülenecektir) |
+| ![btn_treedel.png](https://snipboard.io/81ZU9v.jpg) | İlgili dosyayı veya klasörü silmek için kullanılan ikondur                                                                                                                    |
+| ![image.png](https://snipboard.io/fhzwFp.jpg)       | Bu kısım şu an hangi klasörde bulunduğunuzu gösterir                                                                                                                          |
 
 <br>
 

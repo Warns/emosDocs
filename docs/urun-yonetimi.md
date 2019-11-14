@@ -5,7 +5,7 @@ title: Ürün Yönetimi
 
 Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklamaları yer alan butonlar aracılığı ile belirlenmesini sağlar.
 
-![](https://snag.gy/Dhe0MS.jpg)
+![](https://snipboard.io/Dhe0MS.jpg)
 
 |Buton|Açıklama|
 |--|--|
@@ -20,7 +20,7 @@ Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklam
 <br>
 Ürün listesinden herhangi bir ürüne tıklandığında aşağıdaki gibi bir ekran açılır;
 
-![](https://snag.gy/D8uM1F.jpg)
+![](https://snipboard.io/D8uM1F.jpg)
 > ❗️ _Ürün Yönetimi ekranından bir ürüne tıklandığında ürün tanımındaki Ürün Yönetim sekmesi açılır._
 
 <br>

@@ -55,7 +55,7 @@ Pazaryeri bazında markalar servisten çekilerek e-MOS sistemine işlenmektedir.
 
 Yeni bir marka ve pazaryerindeki karşılığını eklemek için **Ekle** butonu kullanılır. Ekle butonuna tıkladıktan sonra aşağıdaki gibi yeni bir sayfa açılır;
 
-![](https://snag.gy/2VScJP.jpg)
+![](https://snipboard.io/2VScJP.jpg)
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -69,7 +69,7 @@ Pazaryeri bazında kategoriler servisten çekilerek e-MOS sistemine işlenmekted
 
 Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** butonu kullanılır. Ekle butonuna tıkladıktan sonra aşağıdaki gibi yeni bir sayfa açılır;
 
-![](https://snag.gy/Lu4oBM.jpg)
+![](https://snipboard.io/Lu4oBM.jpg)
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -84,7 +84,7 @@ Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** but
 ### 2.1 Pazaryeri İçin Ürünün Aktif Edilmesi
 Pazaryeri modülü aktif edildiğinde ürün kartında “Pazaryeri” sekmesi aktif olacaktır. Oluştur butonuna basıldığında sistemde bulunan tüm pazaryerleri için pasif durumda kayıt atılır. Ürün için istenilen pazaryeri aktif edilir. Ürün bildirim görevi çalıştığında ilgili ürün pazaryerine gönderilecek ürünler listesine eklenecektir.
 
-![](https://snag.gy/ThnLSr.jpg)
+![](https://snipboard.io/ThnLSr.jpg)
 
 <br>
 ### 2.2 Pazaryeri İçin Ürün Özelliklerinin Girilmesi
@@ -93,19 +93,19 @@ N11 ve Gittigidiyor pazaryerleri için ürün bildirimi yapılmak istenildiğind
 #### 2.2.1 Özellik Seti Tanımı
 [Özellik Seti](ozellik-seti.md) sayfasından her bir pazaryeri için onaysız durumunda özellik grubu tanımlanır. 
 
-![](https://snag.gy/J06LSr.jpg)
+![](https://snipboard.io/J06LSr.jpg)
 
 #### 2.2.2 Özellik Parametre Tanımı
 [Özellik Parametre](ozellik-parametre.md) syfasından tanımlanan özellik gruplarına istenilen özellik parametrelerin tanımı yapılır. Kategori bazında zorunlu attribute bilgisi ilgili pazaryerine ait servis ve dokümantasyon üzerinden elde edilir.
 
-![](https://snag.gy/V1jvhm.jpg)
+![](https://snipboard.io/V1jvhm.jpg)
 
 #### 2.2.3 Ürün Kartında Parametre Seçimi
 Ürün kartında “Özellikler” sekmesinde parametre tanımlamaları görünür. İlgili ürünün, ilgili pazar yeri için hangi özelliklerinin seçilmesi gerektiği ürünün kategorisinin hangi pazaryeri kategorisiyle eşleştirmesine bağlıdır.
 
 **Örnek:** X ürünü A kategorisine bağlı, kategori eşleme ekranında da A kategorisi B kategorisiyle eşleştirildi. (A ⇔  B) ürün pazaryerine bildirilirken B kategorisi olarak bildirileceği için B kategorisinin sahip olduğu tüm zorunlu attribute alanlarının doldurulması gerekir.
 
-![](https://snag.gy/GWfbNi.jpg)
+![](https://snipboard.io/GWfbNi.jpg)
 
 > ❗️ _Ürün özelliklerinin eksik veya hatalı girildiği durumlarda ilgili ürünün pazaryerine aktarılmasına engel olacaktır. Pazaryerinin servisine bağlı olarak eğer bununla ilgil log tutuyorsa [Pazaryeri Log](pazaryeri-log.md) ekranında aktarılmadığının bilgisi ve nedeni görünecektir._
 
@@ -113,4 +113,4 @@ N11 ve Gittigidiyor pazaryerleri için ürün bildirimi yapılmak istenildiğind
 ### 2.3 Ürün Maliyet Kontrolü
 Pazaryerine gönderilecek ürün maliyetinin altında satılmasını engellemek için ürün kartında bulunan maliyet alanı kullanılır. Bu alan admin kullanıcısı tarafından manuel olarak doldurulmaktadır. Ürünün pazaryerine gönderilecek satış fiyatı, maliyet fiyatının altında olması durumunda sistem ürünü göndermeyecek ve pazaryeri log ekranında bu ürünle ilgili uyarı mesajı listeleyecektir.
 
-![](https://snag.gy/FHk6CW.jpg)
+![](https://snipboard.io/FHk6CW.jpg)

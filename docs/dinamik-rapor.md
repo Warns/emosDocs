@@ -9,7 +9,7 @@ SQL sorguyla hazırlanan bu yapı birden fazla istenilen tipteki raporlar için 
 
 Dinamik raporu çalıştırmak için **Çalıştır** butonu kullanılır.
 
-![](https://snag.gy/RmsnCQ.jpg)
+![](https://snipboard.io/RmsnCQ.jpg)
 <br>
 Çalıştır butonuna tıkladıktan sonra aşağıdaki gibi rapor detay ekranı açılır;
 
@@ -21,7 +21,7 @@ Dinamik raporu çalıştırmak için **Çalıştır** butonu kullanılır.
 |Excel|Rapor sonuçlarını excele aktarmak için kullanılır.|
 |Rapor|Rapor sonuçlarını görüntülemek için kullanılır.|
 
-![](https://snag.gy/YJcU68.jpg)
+![](https://snipboard.io/YJcU68.jpg)
 <br>
 Ekranda bulunan alanlarla ilgili açıklamalar aşağıdaki gibidir;
 

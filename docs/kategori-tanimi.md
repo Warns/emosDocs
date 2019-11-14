@@ -4,12 +4,12 @@ title: Kategori Tanımı
 ---
  
 
-![image.png](https://snag.gy/YnOfcA.jpg)
+![image.png](https://snipboard.io/YnOfcA.jpg)
 
 e-MOS her ürünün en az bir kategoriye bağlı olacağı kabulü ile hareket etmektedir. Bu yüzden herhangi bir ürün girişi yapılmadan önce ürüne bağlanacak kategorilerin tanımlanması gerekmektedir. Kategori tanımları sistem içerisinde sınırsız sayıda ve alt kategoride yapılabilmektedir.
 
 - Ekle, Sil, Onay, Onay Kaldır butonlarından ürünü ekleme, silme, onaylama, onay kaldırma işlemlerini yapabilirsiniz.
-![image.png](https://snag.gy/oAlvEg.jpg)
+![image.png](https://snipboard.io/oAlvEg.jpg)
 
 > ❗️ _Bir kategoriye onay verildiğinde sadece o kategori onaylanır, onay kaldırıldığında altındaki tüm kategorilerle beraber onayı kalkar._
 

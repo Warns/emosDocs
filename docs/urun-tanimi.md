@@ -7,33 +7,25 @@ Sistemde kullanılacak olan ürünlerin tanımlandığı sayfadır.
 
 Sayfanın kullanımında gerekli temel bilgilere ulaşmak için [Tıklayın](ekran-standartlari.md).
 
-![image.png](https://snag.gy/WZqncJ.jpg)
-
 Ürün tanımı sayfasının üst kısmında bulunan filtre alanları ürünlere hızlıca erişim sağlamak için kullanılır. Aynı zamanda Filtre alanlarının alt kısmında bulunan seçeneklerle ürünler üzerinde toplu işlem yapmak için kullanılır. **Örnek:** Filtrelenen ürünleri bir kategoriye eklemek, excel'e aktarmak veya bir ürün tipine bağlamak vs.
 
-
-Bir ürüne tıklandığında aşağıdaki gibi ürün kartı ekranı açılır; 
-![pdct.png](https://snag.gy/AyxwPz.jpg)
-
-<br>
-Açılan sayfada bulunan sekmelerle ilgili detaylar aşağıdadır;
-
+Bir ürüne tıklandığında ürün kartı ekranı açılır. Açılan sayfada bulunan sekmelerle ilgili detaylar aşağıdadır;
 <br>
 ## 1. Genel Bilgiler 
 
 |Alan Adı|Açıklama|Örnek|
 |--|--|--|
-|Kategori|Ürünün bağlanmak istendiği kategori, ![image.png](https://snag.gy/pnQ7qP.jpg) butonuna tıklanarak seçilir. Bir ürün birden fazla kategoriye bağlanabilir.||
+|Kategori|Ürünün bağlanmak istendiği kategori, ![image.png](https://snipboard.io/pnQ7qP.jpg) butonuna tıklayarak seçilir. Bir ürün birden fazla kategoriye bağlanabilir.||
 |Marka|Ürünün markasının markalar listesinden seçildiği alandır.||
 |Ürün Kodu|Ürün kodunun yazıldığı alandır. Yeni kayıt ekleme sırasında bir ürün kodu girilmezse sistem tarafından otomatik bir kod atanacaktır. Bu ürün kodunun ön ek karakterleri **Site Yönetimi > Temel Ayarlar > Site Ayarları > Ürün Ayarları** sayfasında bulunan **Ürün Kodu Formatı** alanından belirlenebilir.|HS000134 (Burada ön ek karakteri HS olarak belirlendi)|
 |Ürün|Ürün isminin girildiği alandır. Girilen isim site bazında tekil olmalıdır.||
-|Sayfa Başlık|Tarayıcı sekmesinde görünecek yazıya karşılık gelir.![](https://snag.gy/bm8KC6.jpg)||
-|Sayfa İsmi|Bu alana ürünle ilişkili kelimelerden oluşan bir link bilgisi girilebilir. Bu linkin amacı ürün sayfasının arama motorlarında girilen link kelimeleri ile ilgili olarak daha üst sıralarda yer almasını sağlamaktadır.<br><br> ❗️ _Sayfa ismi tanımlanırken karakterlerin arasında boşluk bırakılmamalı, dile özgü karakterler kullanılmamalıdır. Sayfa ismi sistem bazında tekil olmalıdır._ <br>_Eğer ürüne sayfa ismi girilmezse sistem tarafından ürün adını içerecek şekilde otomatik bir sayfa ismi oluşturulur._|[/adidas-performance-the-34-tight.html]()|
-|Kısa Açıklama|Bu alana girilen bilgi sitede yayınlanan ürünlerin listelendiği ekranda veya ürün detayda her ürüne ait kısa bir not olarak gösterilebilir.<br><br>![](https://snag.gy/Xhgdcs.jpg)|Kadın Tayt AA0617|
+|Sayfa Başlık|Tarayıcı sekmesinde görünecek yazıya karşılık gelir.![](https://snipboard.io/bm8KC6.jpg)||
+|Sayfa İsmi|Bu alana ürünle ilişkili kelimelerden oluşan bir link bilgisi girilebilir. Bu linkin amacı ürün sayfasının arama motorlarında girilen link kelimeleri ile ilgili olarak daha üst sıralarda yer almasını sağlamaktadır.<br><br> ❗️ _Sayfa ismi tanımlanırken karakterlerin arasında boşluk bırakılmamalı, dile özgü karakterler kullanılmamalıdır. Sayfa ismi sistem bazında tekil olmalıdır._ <br>_Eğer ürüne sayfa ismi girilmezse sistem tarafından ürün adını içerecek şekilde otomatik bir sayfa ismi oluşturulur._|[/adidas-performance-34-tight.html]()|
+|Kısa Açıklama|Bu alana girilen bilgi sitede yayınlanan ürünlerin listelendiği ekranda veya ürün detayda her ürüne ait kısa bir not olarak gösterilebilir.<br><br>![](https://snipboard.io/Xhgdcs.jpg)|Kadın Tayt AA0617|
 |Editor Notu|Kısa açıklama alanında da olduğu gibi bu alana da yazılan yazı ön yüzde ürün listede ve/veya ürün detayda kısa bir not olarak gösterilebilir.||
+|Meta Description|Bu alan SEO çalışamaları için kullanılmaktadır. Bu alana yazılan meta descrption arama motorları tarafından okunur ve önyüzde sayfa kaynağında görünür.||
 |Anahtar Kelimeler|Arama motorları ve site içi aramalarda kullanılmak üzere tanımlanan kelimelerdir.||
 |Keyword Rank|Anahtar Kelimeler kısmına girilen anahtar kelimelerin önem seviyesinin belirlendiği alandır||
-|Meta Description|Bu alan SEO çalışamaları için kullanılmaktadır. Bu alana yazılan meta descrption arama motorları tarafından okunur ve önyüzde sayfa kaynağında görünür.||
 |Ürün Tanımı|Html editörü aracılığıyla ürünün detaylı açıklamasının girildiği alandır. Bu alana girilen bilgiler, sitede ürünün detay bilgilerinin yer aldığı sayfada görüntülenir.||
 |Birim|Birim, ürünün stok ve fiyatlandırma noktasında takip edileceği temel birimdir. Yani Temel ölçü birimi adet olan bir ürün için stoklar adet takip edilerek, birim fiyatı adet cinsinden girilmelidir.||
 |Satış Katı|Bu alan doldurulduğunda kullanıcıların belirlenen miktarın katları şeklinde sipariş verebilmesini sağlanır.|Satış katı 3 olarak belirlendiğinde kullanıcıların 3,6,9,12... gibi 3 ün katları kadar sipariş vermesine izin verilir.|
@@ -57,7 +49,7 @@ Açılan sayfada bulunan sekmelerle ilgili detaylar aşağıdadır;
 Ürün kaydetme işlemini tamamladıktan sonra genel bilgiler sekmesinde ürünle ilgili linkler bulunur. **(Resimler, Tavsiyeler, Promosyon Geçmişi, Siparişler, Bundle)** Bu linklere tıklayarak ürünle ilgili aşağıdaki işlemler yapılabilir.<br><br>
 
 ### a. Resimler
-Sisteme yüklenmiş olan veya yeni eklenecek resimlerin ürünlere atandığı bölümdür. Resimler linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen resimler eklenilir. Yeni görsel eklemek için **Ekle** butonuna tıklanır. Açılan sayfada ürüne resim seçebilmek için ![](https://snag.gy/48R0Kc.jpg) butonuna tıklanır.
+Sisteme yüklenmiş olan veya yeni eklenecek resimlerin ürünlere atandığı bölümdür. Resimler linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen resimler eklenilir. Yeni görsel eklemek için **Ekle** butonuna tıklanır. Açılan sayfada ürüne resim seçebilmek için ![](https://snipboard.io/48R0Kc.jpg) butonuna tıklanır.
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -72,13 +64,13 @@ Sisteme yüklenmiş olan veya yeni eklenecek resimlerin ürünlere atandığı b
 |Not|Sadece yönetim kısmında görülebilen ve bilgi için kullanılan bir alandır.|
 |Çoklu Görsel Yükleme Sekmesi|Birden fazla ürün resminin aynı ekrandan seçilebilmesini sağlayan sekmedir.|
 
-Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  resim yükleme işlemi tamamlanır. Sayfadan çıkmadan yeni bir resim yüklenmek isteniyorsa ![](https://snag.gy/W4qmna.jpg) butonuna tıklanır.
+Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  resim yükleme işlemi tamamlanır. Sayfadan çıkmadan yeni bir resim yüklenmek isteniyorsa ![](https://snipboard.io/W4qmna.jpg) butonuna tıklanır.
 
 > ❗️ _Herhangi bir ürün resimi eklendiğinde sistemde tasarım sırasında belirlenen diğer resim boyutlarını (sepetteki küçük resim, ürün listelerindeki resim, ürün detayındaki resim, vb) kendisi otomatik olarak oluşturacaktır. Otomatik resimler, resim/dosya seçme modülü tarafından ilgili klasöre girildiğinde yapılır._
 
 <br>
 ### b. Dokümanlar
-Sisteme yüklenmiş olan veya yeni eklenecek dokümanların ürünlere atandığı bölümdür. Dokümanlar linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen dokümanlar eklenilir. Yeni doküman eklemek için **Ekle** butonuna tıklanır. Sayfa açıldığında ürüne doküman seçebilmek için ![](https://snag.gy/1L3zat.jpg) butonuna tıklanır.
+Sisteme yüklenmiş olan veya yeni eklenecek dokümanların ürünlere atandığı bölümdür. Dokümanlar linkine tıklandıktan sonra açılan sayfada ürüne bağlanmak istenen dokümanlar eklenilir. Yeni doküman eklemek için **Ekle** butonuna tıklanır. Sayfa açıldığında ürüne doküman seçebilmek için ![](https://snipboard.io/1L3zat.jpg) butonuna tıklanır.
 
 |Alan Adı|Açıkalam|
 |--|--|
@@ -89,7 +81,7 @@ Sisteme yüklenmiş olan veya yeni eklenecek dokümanların ürünlere atandığ
 |Onay|Dokümanın geçerli olması için bu kutucuğun işaretli olması gerekir.|
 |Çoklu Doküman Yükleme Sekmesi|Birden fazla ürün dokümanının aynı ekrandan seçilebilmesini sağlayan sekmedir.|
 
-Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  doküman yükleme işlemi tamamlanır. Sayfadan çıkmadan yeni bir doküman yüklenmek isteniyorsa ![](https://snag.gy/W4qmna.jpg)butonuna tıklanır.
+Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklanır ve  doküman yükleme işlemi tamamlanır. Sayfadan çıkmadan yeni bir doküman yüklenmek isteniyorsa ![](https://snipboard.io/W4qmna.jpg)butonuna tıklanır.
 
 <br>
 ### c. Tavsiyeler
@@ -158,7 +150,7 @@ Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ür�
 |Max Adet|Ürünlerin maksimum stoklama miktarı, temel ölçü birimi cinsinden girilebilir. Satınalma siparişi açılması sırasında, sistem öngörü olarak maksimum miktara tamamlayacak şekilde göz önünde bulundurarak tavisyede bulunacaktır.||
 |Para Birimi|Ürünlerin listelendiği kısımlarda ve ürün detay bölümünde bilgi olarak gösterilecek para birimidir. Ürün detay kısmında ve sepet sonrası tüm ekranlarda ürün fiyatları sitenin resmi para birimine dönecektir.||
 |Özellikli Ürün|Bu alanda bulunan seçenekler **Tanımlar > Diğer > Diğer Tanımlar** ekranından tanımlanır. Ürünlerle ilgili varsa özel bir durum bu alanı kullanarak belirlenir.||
-|Maliyet|Bu alan Pazaryeri modülüne özel olup ürünün pazaryerinde minimum satış fiyatını belirler.|Bu alana 100 girildiğinde ürün fiyatı pazaryerinde herhangi bir indirimden dolayı 100TL'nin altına düştüğünde ilgili ürün pazaryerinde satışa kapatılır.|
+|Maliyet|Herhangi bir ürünün veya [Site Ayarlari](site-ayarlari.md)'nda bulunan ayar ile topluca ürünlerin maliyet tutarı altında satılmasını engellemek için önceden belirlenen maliyet alanı kullanılabilir böylece entegrasyon ile gelen yeni fiyatlar belirlenen maliyet fiyatı altında ise fiyat güncellenmeyecektir. Bu yapı aynı zamanda pazaryeri modülü için de geçerlidir.|Bu alana 100 girildiğinde veya Site Ayarlarından topluca tüm ürünlerde geçerli olacak şekilde 100 girildiğinde ve ürünün fiyatı 100TL'nin altına düştüğünde entegrasyondan ilgili ürünün fiyatı güncellenmeyecektir. Böylece e-MOS'ta ürünün fiyatı belirlenen maliyet fiyatının altına düşmesi engellenecektir. |
 |Ürün Tipi|Bu alanda bulunana seçenekler **Tanımlar > Diğer > Diğer Tanımlar** ekranından tanımlanır. Ürün tipini kullanarak ürünleri gruplayabilir ve farklı yapılarda kullanılabilir.|Belli bir ürün tipine bağlı ürün grubunu bir kampanyaya bağlayabilir veya önyüzde ayrı bir sayfa haline getirerek ilgili ürün tipine bağlı ürünler listelenebilir. **Örnek:** Anneler Gününe Özel sayfası.|
 |Adres Tipi|Öndeğer olarak bu alan **Bireysel** olarak çalışır. **Kurumsal** seçeneği ise adres seçerken ikinci bir adres tipi olarak son kullanıcıya sunulur. ||
 |Platform|Bu alanı kullanarak ilgili ürünün satışı istenen platforma göre kısıtlanabilir. Herhangi bir seçim yapılmadığında ilgili ürün tüm platformlarda satışa sunulur.||
@@ -176,7 +168,7 @@ Gerekli bilgileri doldurduktan sonra **Kaydet** butonuna tıklayarak bundle ür�
 |Ürün Tek Satılmaz|Bir ürünün tek başına sepete atılması istenmiyorsa, bu durumu önlemek için bu alanın işaretlenmesi gerekir. Bu seçenek işaretlendiğide, eğer ürün herhangi bir kampanya kapsamında değil ise sepette tutulmaz.||
 |API'den Stok ve Fiyat Güncellenebilir|Bu alan, API servisi üzerinden e-MOS'ta bulunan ürünlerin stok ve fiyat bilgisini güncellemek için kullanılır. Bu kutucuğun seçili olduğu ürünlerin stoğu ve fiyatı API üzerinden değiştirilebilir hale gelir.||
 
-> ❗️ _Çoklu fiyat girişli olarak kurulmuş sitelerde ürünlere satış fiyatı girebilmek için öncelikle ürün kartı kaydedilmelidir. Daha sonra Ürün Yönetim sekmesindeki ürün fiyatları kısmında ![](https://snag.gy/1L3zat.jpg) butonuna basarak seçilecek fiyat tiplerindeki fiyatlar belirlenir._
+> ❗️ _Çoklu fiyat girişli olarak kurulmuş sitelerde ürünlere satış fiyatı girebilmek için öncelikle ürün kartı kaydedilmelidir. Daha sonra Ürün Yönetim sekmesindeki ürün fiyatları kısmında ![](https://snipboard.io/1L3zat.jpg) butonuna basarak seçilecek fiyat tiplerindeki fiyatlar belirlenir._
 
 <br>
 Sistem çoklu fiyat tipinde çalışıyor ise aşağıda açıklaması verilen ürün fiyatları kısmı aktif olur ve birden çok fiyat tipinde ayrı ayrı KDV'siz satış fiyatı girilmesi sağlanır.
@@ -223,7 +215,7 @@ Stok takibi ile ilişkili tanımlamaların yapıldığı sayfadır.
 |Alan Adı|Açıklama|
 |--|--|
 |Barkod|Ürünün barkodunun girildiği alandır.|
-|Beden|Ürünün bedeninin ![](https://snag.gy/1L3zat.jpg) butonuna tıklayarak seçildiği alandır.	|
+|Beden|Ürünün bedeninin ![](https://snipboard.io/1L3zat.jpg) butonuna tıklayarak seçildiği alandır.	|
 |Kullanılabilir Stok|Ürünün kullanılabilir stok sayısının gösterildiği alandır.|
 |Entegrasyon Kodu|Bu veri 3rd party bir firmadan geliyorsa iki platform arasındaki iletişimi sağlayan kod'a karşılık gelir.|
 |Diğer Barkodlar|Ürüne ait birden fazla barkod varsa bu alanda görünür.|
