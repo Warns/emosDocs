@@ -92,31 +92,8 @@ Fiyat aktarımı yapmak için Price sheetinin üzerine tıklayarak aşağıdaki 
 
 |Alan Adı|Açıklama|
 |--|--|
-|EFY_STOKKODU||
-|EFY_FIYATTIPI||
-|EFY_PARABIRIMI||
-|EFY_FIYAT||
-|EFY_FIYAT_INDIRIMLI||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|EFY_STOKKODU|Stok kodu|
+|EFY_FIYATTIPI|Fiyat tipi|
+|EFY_PARABIRIMI|Para birimi|
+|EFY_FIYAT|Fiyat|
+|EFY_FIYAT_INDIRIMLI|İndirimli fiyat|

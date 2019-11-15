@@ -5,13 +5,9 @@ title: Ödeme Tipi Tanımı
 
 ## 1. Ödeme Tipi Tanımı
 
-Ürünlerin yurt içinde veya yurt dışında satışı için ödeme tiplerinin tanımlanacağı sayfadır.
+Ürünlerin yurt içinde veya yurt dışında satışı için ödeme tiplerinin tanımlandığı sayfadır.
 
-**Arama :Ödeme Tipi** Adı kriteri üzerinden **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
-
-Ekran standartları için Tıklayınız.
-
-Yeni bir ödeme tipi tanımlamak için **Ekle**  butonuna tıklanır. Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
+Yeni bir ödeme tipi tanımlamak için **Ekle** butonuna tıklanır. Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -24,7 +20,7 @@ Yeni bir ödeme tipi tanımlamak için **Ekle**  butonuna tıklanır. Açılan s
 |Sıra|Ödeme tipinin sırasını belirleyen alandır.|
 |Ent. Kodu|Kampanyanın ticari sistemdeki karşılığıdır. Sipariş ve fatura entegrasyonu sırasında ihtiyaca göre kampanyaya giren siparişlerde bu kodun entegrasyon ile gönderilmesini sağlar.|
 |Yeni Üyelikte Varsayılan Olsun|Yeni üyelik oluşturulduğunda bu ödeme tipinin otomatik olarak geçerli olmasını sağlamak için bu kutucuk kullanılır.<br>❗️ _Bu kutucuk seçili olduğu durumda seçildiği andan itibaren her yeni üyelikte bu ödeme tipi geçerli olacaktır._|
-|Tek Ödeme||
+|Tek Ödeme|İlgili ödeme tipiyle tek çekim ile ödeme yapılıp yapılmadığını belirleyen alandır.|
 |Onay|Ödeme tipinin durumunu belirler. Ödeme tipinin aktif olması için bu kutucuğun işaretli olması gerekir.|
 |Açıklama|Tasarıma bağlı olarak bu ödeme tipiyle ilgili önyüzde bir açıklama gösterilecekse bu alan kullanılır.|
 

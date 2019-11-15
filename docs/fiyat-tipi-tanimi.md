@@ -18,10 +18,10 @@ Yeni bir fiyat tipi tanımı oluşturma için **Ekle** butonu kullanılır. Aç�
 |Havale İndirim Oranı|Havale ödemelerde uygulanacak indirim oranı.|
 |Kapıda Ödm. İndirim Oranı|Kapıda ödemelerde uygulanacak indirim oranı.|
 |Ent. Kodu|Bu fiyat tipi bir entegrasyona bağlı olarak çalıştığı durumlarda kullanılacak olan entegrasyon ID'sinin girildiği alandır.|
-|Min. Teklif Limiti|| 
-|Artış||
-|Üye Bonus kazandırma Oranı (Taksitli Ödeme)||
-|Tavsiye Bonus Kazanma Süresi||
+|Min. Teklif Limiti|İlgili fiyat tipindeyken sepette teklif vermek mödülü için kullanılan alandır.<br><br>❗️ _Bu yapı genellikle B2B için kullanılmaktadır._  | 
+|Artış|Referans fiyat tipi seçildiği durumda referansın üzerine artış veya azalışa karşılık gelmektedir.|
+|Üye Bonus kazandırma Oranı (Taksitli Ödeme)|Bu fiyat tipiyle yapılan alışverişlerde taksitli ödemelerde kazanılacak bonus oranı.|
+|Tavsiye Bonus Kazanma Süresi|Arkadaş tavsiyesinde bonus kazanma süresini belirleyen alandır.|
 |Üye Bonus kazandırma Oranı (Banka Bonus)||
 |Kdv Gösterim Şekli|İlgili fiyat tipine bağlı ürünlerin KDV dahil veya KDV hariç olarak gösterilmesi için kullanılır.|
 |Ürün PB Gösterimi|Para birimi olarak resmi para birimi veya diğer döviz para biriminin gösterilmesini belirleyen alandır.|

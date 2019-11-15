@@ -3,9 +3,7 @@ id: urun-tanimi
 title: Ürün Tanımı
 ---
 
-Sistemde kullanılacak olan ürünlerin tanımlandığı sayfadır.
-
-Sayfanın kullanımında gerekli temel bilgilere ulaşmak için [Tıklayın](ekran-standartlari.md).
+Sistemde kullanılacak olan ürünlerin tanımlandığı ve listelendiği sayfadır.
 
 Ürün tanımı sayfasının üst kısmında bulunan filtre alanları ürünlere hızlıca erişim sağlamak için kullanılır. Aynı zamanda Filtre alanlarının alt kısmında bulunan seçeneklerle ürünler üzerinde toplu işlem yapmak için kullanılır. **Örnek:** Filtrelenen ürünleri bir kategoriye eklemek, excel'e aktarmak veya bir ürün tipine bağlamak vs.
 

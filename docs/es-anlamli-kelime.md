@@ -16,8 +16,4 @@ Yeni bir eş anlamlı kelime kaydı oluşturmak için **Ekle** butonuna tıklan�
 
 Gerekli bilgiler girildikten sonra **Kaydet** butonuna tıklayarak marka tanım işlemi tamamlanır.
 
-<br>
-
-![](https://snipboard.io/c2xpU8.jpg)
-
->❗️ _Yukarıdaki görselde olduğu gibi kelimeler virgül "," sembolleriyle ayrılmalıdır._ 
+>❗️ _Eş anlamlı kelimeler virgül "," sembolleriyle ayrılmalıdır._ 

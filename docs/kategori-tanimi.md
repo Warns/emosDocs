@@ -3,17 +3,14 @@ id: kategori-tanimi
 title: Kategori Tanımı
 ---
  
-
-![image.png](https://snipboard.io/YnOfcA.jpg)
-
 e-MOS her ürünün en az bir kategoriye bağlı olacağı kabulü ile hareket etmektedir. Bu yüzden herhangi bir ürün girişi yapılmadan önce ürüne bağlanacak kategorilerin tanımlanması gerekmektedir. Kategori tanımları sistem içerisinde sınırsız sayıda ve alt kategoride yapılabilmektedir.
 
-- Ekle, Sil, Onay, Onay Kaldır butonlarından ürünü ekleme, silme, onaylama, onay kaldırma işlemlerini yapabilirsiniz.
-![image.png](https://snipboard.io/oAlvEg.jpg)
+**Ekle**, **Sil**, **Onay**, **Onay Kaldır** butonlarından ürünü ekleme, silme, onaylama, onay kaldırma işlemlerini yapabilirsiniz.
+
 
 > ❗️ _Bir kategoriye onay verildiğinde sadece o kategori onaylanır, onay kaldırıldığında altındaki tüm kategorilerle beraber onayı kalkar._
 
-Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtları düzenlemek için ise ilgili satırın üzerine tıklamak yeterlidir.
+Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtları düzenlemek için ise ilgili kategori başlığı üzerine tıklamak yeterlidir.
 
 |Alan Adı|Açıklama|Örnek|
 |--|--|--|
@@ -28,6 +25,7 @@ Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtla
 |Alt. Kat. Gösterimi|Yanındaki butonuna tıkladığınızda size **Alt Kategorileri Listelenmesin**, **Alt Kategorileri Yalnız Resimleri ile Göster**, **Alt Kategorileri Resim ve Ürünleri ile Göster** seçeneklerini sunar. Bu seçim ürün kategori listelerinde yalnız alt kategori resimlerinin, alt kategori resimleri ile birlikte liste şeklinde içindeki ürünlerin veya resimleri ile birlikte tek tek ürünlerin listelenerek gösterilmesini sağlar.<br><br>❗️ _Alt kategorisi olmayan kategorilerde o kategoriye girildiğinde seçilen gösterim şekli kendisi için çalışacaktır. Yani alt kategorisi olmadığından kendisini seçilen gösterim şekli ile gösterecektir._||
 |Ürün Liste Gösterimi|Yanındaki butonuna tıkladığınızda size **Ürünler Gösterilmesin**, **Katalog Şeklinde Göster**, **Liste Şeklinde Göster** seçeneklerini sunar. Ürün kategori listelerinde önce kategori gösterimi uyarınca kategoriler, altında ise ürün liste gösterimi uyarınca ürünler yerleşir.||
 |Robots Meta Tag|Bu alanı kullanarak ilgili kategorinin SEO index ve follow tag'leri yönetilebilir. Dropdown menüde bulunan seçenekler: **"index, nofollow"**, **"noindex, follow"**, **"noindex, nofollow"**.||
+|Filtre Yapıldığında|Önyüzde kategori sayfasında filtre seçildiğinde, **Breadcrumbs gösterilmesin**, **Canonical gösterilmesin** veya **Breadcrumb ve canonical gösterilmesin** şeklinde bir seçenek yapıldığında ilgili kategoride iken filtre seçimi yapıldığında yapılan seçime göre bu gösterimler yapılmayacaktır.<br><br><br>❗️ _Bu seçim yalnızca seçimin yapıldığı kategori için geçerlidir. Bu alanın default değeri  sitenin tasarımına bağlı olarak değişiklik göstermektedir._ ||
 |Platform|Bu alanı kullanarak ilgili kategorinin hangi platformda çalışacağı belirtilebilir. Dropdown menüde bulunan seçenekler: **Tablet(API)**, **Telefon(API)**, **Mobil**, **Masaüstü**||
 |En Çok Satanlar|Bu alan, en çok satanlar yapısının kategori bazlı çalışması için kullanılır. Bu alan boş bırakıldığında en çok satanlar kurgusu Site Yönetimi > Temel Ayarlar > Site Ayarları > Diğer kısmındaki En Çok Satanlar ayarına göre çalışır. <br><br>❗️ _En üst seviye kategoride bu doldurulduğunda ilgili kategorinin tüm alt kategorileri için de geçerli olur. Aynı zamanda bu ayar ürünün bağlı olduğu ana kategori için geçerlidir._|45;10<br>Örnek olarak bu şekilde bir ayar girildiğinde son 45 güne bakar ve bu süre içerisinde bu kategoriden minimum 10 satış yapılmış ise bu kategorideki ürünleri en çok satanlar listesine ekler|
 |Onay|Kategorinin geçerlilik veya geçersizlik durumunu belirler. Onaysız kategoriler önyüzde görüntülenmeyecektir. ||
@@ -42,4 +40,4 @@ Yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Mevcut kayıtla
 
 >❗️ _Hızlı alt kategori açabilmek için, ana kategorinin yanındaki kutucuk işaretlendikten sonra **Ekle** butonuna tıklanmalıdır._
 
->❗️ _Bir kategorinin yeri değiştirilmek isteniyorsa, bağlı kategori bilgisinin değiştirilmesi yeterli olacaktır. Yeri değişen kategorinin altındaki kategoriler de otomatik olarak taşınacaktır._
+>❗️ _Bir kategorinin yeri değiştirilmek isteniyorsa, bağlı kategori bilgisinin değiştirilmesi yeterli olacaktır. Yeri değişen üst seviye kategorinin altındaki alt kategoriler de otomatik olarak taşınacaktır._
