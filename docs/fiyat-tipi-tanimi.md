@@ -22,7 +22,7 @@ Yeni bir fiyat tipi tanımı oluşturma için **Ekle** butonu kullanılır. Aç�
 |Artış|Referans fiyat tipi seçildiği durumda referansın üzerine artış veya azalışa karşılık gelmektedir.|
 |Üye Bonus kazandırma Oranı (Taksitli Ödeme)|Bu fiyat tipiyle yapılan alışverişlerde taksitli ödemelerde kazanılacak bonus oranı.|
 |Tavsiye Bonus Kazanma Süresi|Arkadaş tavsiyesinde bonus kazanma süresini belirleyen alandır.|
-|Üye Bonus kazandırma Oranı (Banka Bonus)||
+|Üye Bonus kazandırma Oranı (Banka Bonus)|Arkadaş tavsiyesinde banka bonus kazanma tutarını belirleyen alandır.|
 |Kdv Gösterim Şekli|İlgili fiyat tipine bağlı ürünlerin KDV dahil veya KDV hariç olarak gösterilmesi için kullanılır.|
 |Ürün PB Gösterimi|Para birimi olarak resmi para birimi veya diğer döviz para biriminin gösterilmesini belirleyen alandır.|
 |Fiyatsız Ürün Gösterimi|Fiyatsız ürünlerin önyüzde gösterilip gösterilmemesi ve satınalmaya izin verilip verilmemesiyle ilgili kullanılan alandır.|
