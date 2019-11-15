@@ -3,7 +3,7 @@ id: satis-kontrol-tanimi
 title: Satış Kontrol Tanımı
 ---
 
-- Satış Kontrol Tanımı için;
+Satış Kontrol Tanımı için;
 
 |Alan Adı|Açıklama|
 |--|--|
