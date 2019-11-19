@@ -164,6 +164,7 @@ Bu sekmede üyenin **Siparişlerden Kazandığı Bonus Para, Bizim Verdiğimiz B
 |--|--|
 |SMS İşlem IP/Tarih/Seçim|SMS aktivasyon işlemlerde işlemin yapıldığı IP adresi, tarih ve aktivasyon yapılıp yapılmadığının bilgisini gösteren alandır. |
 |Bülten İşlem IP/Tarih/Seçim|Bülten kayıt işlemlerinde işlemin yapıldığı IP adresi, tarih ve kayıt yapılıp yapılmadığının bilgisini gösteren alandır.|
+|KVKK İşlem Tarih/Saat|Kullanıcı tarafından KVKK sözleşmesinin kabul edildiği tarih ve saat bilgisinin gösterildiği alandır.|
 |Cep Telefonu Doğrulandı mı?|Cep telefonu doğrulaması olan sitelerde doğrulamanın yapılıp yapılmadığını gösteren alandır.|
 |Üyelik Yok|Üyeliksiz olarak alışveriş yapan kullanıcılar için bu alan seçili olacaktır.|
 |SMS Onay Kodu|SMS onay kodunun gösterildiği alandır.|

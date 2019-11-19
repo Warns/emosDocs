@@ -154,7 +154,7 @@ Sosyal ağ ayarları bilgisinin girildiği alandır.
 |Yahoo! Consumer Secret|Yahoo tarafında oluşturulan uygulamanın Consumer Secret değerinin girileceği alandır.|
 |Sözleşme onaylı Facebook Login|Kullanıcı siteye ilk kez Facebook ile giriş yapmak istediğinde karşısına pop-up içerisinde sözleşme metni çıkacaktır. Kullanıcı bu sözleşme metnini onayladıktan sonra siteye Facebook ile girişini tamamlamış olacaktır.|
 
-- #### Thubnail Tanımlama
+- #### Thumbnail Tanımlama
 
 Yeni kayıt ekleme aşamasında Dizin Adı ve Resim Boyutu alanı girilmesi zorunlu alanlardır. Bu alanlar doldurulmadan kayıt eklenemez. **Alt Dizin İçin Geçerli Mi?** alanı işaretlenmez ise otomatik olarak false kabul edilmektedir. Sıra alanı boş geçilirse otomatik olarak son sıranın bir üzerini sırayı vererek ekler. 
 

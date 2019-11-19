@@ -11,7 +11,7 @@ Ekranda bulunan sütunlarla ilgili detaylar aşağıdaki gibidir;
 
 |Sütun Adı|Açıklama|
 |--|--|
-|Durum|Ürünün yorumunun durumunu belirleyen alandır. Site üzerinde aktif hale getirilmesi için durum bilgisi aktif olması gerekir.<br>❗ _❗️ Bu sayfa, ürün yorumu açık olan sitelerde kullanılmaktadır._ |
+|Durum|Ürünün yorumunun durumunu belirleyen alandır. Site üzerinde aktif hale getirilmesi için durum bilgisi aktif olması gerekir.<br>❗️ _Bu sayfa, ürün yorumu açık olan sitelerde kullanılmaktadır._ |
 |Tarih|Üyelik tarih bilgisidir.	|
 |Üye|Kullanıcı isminin girildiği alandır.	|
 |Ürün Adı|Ürün adının girildiği alandır.	|
