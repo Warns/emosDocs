@@ -1,5 +1,3 @@
-Ekran standartları için Tıklayınız.
-
 **Taşıyıcı Arama :Taşıyıcı Adı** kriteri üzerinden **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
 
 - Sitede yeni bir taşıyıcı belirlemek çin **Ekle**  butonuna tıklanılır.

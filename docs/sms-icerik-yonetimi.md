@@ -14,8 +14,9 @@ Her SMS'in sağ üst köşesinde o sms'de kullanılabilecek parametrelerin liste
 
 **Örnek SMS parametreleri :**
 
-$strUyeCepTel$ = Üyenin cep telefonu bilgisidir
-$strOnayKodu$ = Üyeye gönderilecek onay kodudur
+<code>$strUyeCepTel$</code> Üyenin cep telefonu bilgisidir
+<br>
+<code>$strOnayKodu$</code> Üyeye gönderilecek onay kodudur
 
 <br>
 

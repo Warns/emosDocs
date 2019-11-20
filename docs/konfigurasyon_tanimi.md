@@ -1,7 +1,5 @@
 Ürünlerde özelleştirme kullanılması isteniyorsa, özelleştirme seçenekleri bu menü üzerinden tanımlanır.
 
-Ekran standartları için Tıklayınız.
-
 **Yeni bir kayıt oluşturmak için;**
 
 - **Ekle** butonuna, güncellenmek istenen kaydın üzerine tıklanarak aşağıdaki formun açılması sağlanır.

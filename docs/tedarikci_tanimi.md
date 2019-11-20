@@ -1,7 +1,5 @@
 Sitede ürün alınan tedarikçilerin tanımlanacağı sayfadır.
 
-Ekran Standartları için Tıklayınız.
-
 **Tedarikçi Arama :** Tedarikçilerin listelendiği ekranda bulunan arama bloğu ile **Tedarikçi Adı** kriteri üzerinden  **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
 
 - Yeni firma kaydı da yapabilmek için  **Ekle** butonuna tıklanır.

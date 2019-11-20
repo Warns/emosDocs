@@ -7,8 +7,6 @@ Siteye alınacak ürünlerin markalarının tanımlandığı sayfadır.
 
 **Arama :** Marka tanımlama sayfası açıldığında üst kısımda bulunan arama bloğu ile **ARA** butonuna tıklanarak marka arama işlemi gerçekleştirilebilir.
 
-Ekran Standartları için Tıklayınız.
-
 - Sitede yeni bir marka tanımlamak için  **Ekle** butonuna tıklanır.
 - Açılan sayfadaki form doldurulur.
 

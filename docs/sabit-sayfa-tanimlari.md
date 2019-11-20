@@ -8,13 +8,9 @@ Sistemde kullanılan gerçek URL'i istediğiniz herhangi bir URL ile değiştirm
 Gerçek URL kısmına sistemde kullanılan asıl URL'nizi, sayfa ismi kısmınada istemiş olduğunuz URL'nin ismini
 yazmalısınız. Böylelikle URL ler arası yönlendirme işlemi gerçekleşmiş olacaktır.
 
-Ekran Standartları için Tıklayınız.
+Yeni bir kayıt oluşturmak için **Ekle** butonuna, güncellenmek için istenen kaydın üzerine tıklanarak aşağıdaki formun açılması sağlanır. Açılan formdaki alanların açıklamaları aşağıda yer almaktadır. 
 
-**Yeni bir kayıt oluşturmak için;**
-
- **Ekle** butonuna, güncellenmek için istenen kaydın üzerine tıklanarak aşağıdaki formun açılması sağlanır. Açılan formdaki alanların açıklamaları aşağıda yer almaktadır. 
-
-####Sabit Sayfa Tanımlama İşlemi :
+## Sabit Sayfa Tanımlama İşlemi:
 
 |Alan Adı|Açıklama|
 |--|--|

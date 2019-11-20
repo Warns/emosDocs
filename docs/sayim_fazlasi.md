@@ -1,5 +1,3 @@
-Ekran standartları için Tıklayınız.
-
 Sayım Fazlası sayfasında yeni bir kayıt eklemek için  **Ekle** butonuna tıklanarak açılan aşağıdaki formun doldurulması gerekir.
 
  |Alan Adı|Açıklama|

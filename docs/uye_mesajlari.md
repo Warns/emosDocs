@@ -1,7 +1,5 @@
 Üyelerle karşılıklı olarak yapılacak mesajlaşmanın takip edileceği kısımdır.
 
-Ekran standartları için Tıklayınız.
-
 **Mesaj Arama :** Mesajların listelendiği ekranda yer alan arama bloğu ile **Başlangıç Tarihi, Bitiş Tarihi, Ad Soyad, Mesaj Tür, Mesaj Konusu, Mesaj** kriterleri üzerinden  **ARA** butonuna tıklanarak arama işlemi gerçekleştirilebilir.
 
 **Sol Menü :** Üyelerin  listelendiği ekranın sol kısmında yer alan menüdür. Bu menüde **Üye Listesi, Üye Mesajları  ve Üye Mesaj Arşivi** linkleri bulunur. Bu linkleri kullanarak ilgili modüllere ulaşılır.

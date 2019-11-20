@@ -1,8 +1,5 @@
 Müşteri önyüzündeki duyuru kutusunda yer alacak duyuruların girildiği sayfadır.
 
-Ekran Standartları için Tıklayınız.
-
-
 **Arama :** Site Yönetimi içerisindeki Duyuru ekranında bulunan arama bloğu ile **Başlangıç Tarihi, Bitiş Tarihi, Metin** kriterleri üzerinden  **ARA** butonuna tıklanarak arama işlemi gerçekleştirilir.
 
 **Yeni bir duyuru eklemek için;**
