@@ -14,7 +14,7 @@ Yeni bir kayıt oluşturmak için **Ekle** butonuna, güncellemek için ise iste
 |Alan Adı|Açıklama|
 |--|--|
 |Ürün Kodu|Dokümanın atamacağı ürünün kodu bu alana girilir.|
-|Ürün|Kodu girilen ürünün sistemden seçilceği alandır. Alanın sağ tarafında yer alan ![](https://snag.gy/1L3zat.jpg) ikonu tıklanarak seçim işlemi yapılır.|
+|Ürün|Kodu girilen ürünün sistemden seçilceği alandır. Alanın sağ tarafında yer alan ![](https://snipboard.io/1L3zat.jpg) ikonu tıklanarak seçim işlemi yapılır.|
 |Doküman Adı|Yüklenecek dokümanın adı bu alan girilir.|
 |Tipi| Dokümanların gruplanmasını sağlayan alandır.|
 |Doküman|Ürün grubunun dış sistemlerden aktarıldığı durumda kullanılan karşılık kodudur.|

@@ -3,11 +3,9 @@ id: iade-faturasi-girisi
 title: İade Faturası Girişi
 ---
 
-Müşterilerin herhangi bir nedenden dolayı iade ettikleri ürünlerin faturalarının belirli kriterlerde raporlayan sayfadır.
+Kullanıcıların herhangi bir nedenden dolayı iade ettikleri ürünlerin faturalarını belirli kriterlerde raporlayan sayfadır.
 
-Ekran standartları için Tıklayınız.
-
-- Yeni bir iade faturası girişi yapmak için **Ekle**  butonuna tıklanarak açılmış olan aşağıdaki form doldurulur.
+Yeni bir iade faturası girişi yapmak için **Ekle**  butonuna tıklanarak açılmış olan aşağıdaki form doldurulur.
 
 |Sütun Adı |Açıklama|
 |--|--|
@@ -17,7 +15,7 @@ Ekran standartları için Tıklayınız.
 |Depo|İade edilen ürünün hangi depodan geldiğini girmeniz gereken alandır.|
 |Müşteri|İade işlemi gerçekleştiren müşterinin isim bilgisini girmeniz gereken alandır.|
 |Ödeme Tipi |Ürünün ödeme şeklinin (Havale,Kredi Kartı) belirtildiği alandır.|
-|Para Birimi |Ürünün para biriminin(USD,YTL,EUR) belirtildiği sütundur.|
+|Para Birimi |Ürünün para biriminin <code>USD</code> <code>YTL</code> <code>EUR</code> belirtildiği sütundur.|
 |Kur|Kurun girildiği alandır.|
 |Onay|İade işleminin onaylanması halinde kutucuğun işaretlenmesinin gerekli olduğu alandır.|
 |Vade Tarihi|Ürünün satışının vadelendirilmesi halinde yapılıcak aylık ödemelerin ödeneceği tarihin belirtildiği alandır.|
@@ -29,7 +27,9 @@ Ekran standartları için Tıklayınız.
 Bunun yanı sıra eklenen iade faturasının onayı verildikten sonra Ödeme Yapıldı olarak işaretlenen faturalar için, müşteriye iade konusunda gönderilecek mail şablonu otomatik olarak oluşturulmakta ve gönderime hazır şekilde site yöneticisine gösterilmektedir. Burada gönderilecek mail içerisinde ekleme çıkarma işlemleri yapılarak gönderilmesi mümkündür. 
 Satış fatura listesinin yer aldığı ekranda fatura bazında dökülebilen İade Döküm raporundaki barkodlu kısım, iade bölümünde girilen bu alana karşılık gelmektedir._
 
-- Yukarıda doldurmuş olduğunuz formu kaydettikten sonra **Fatura Detayı** bölümü aktif olur.
+<br>
+
+Yukarıda doldurmuş olduğunuz formu kaydettikten sonra **Fatura Detayı** bölümü aktif olur.
 
 
 |Sütun Adı |Açıklama|

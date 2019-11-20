@@ -1,8 +1,5 @@
 Müşterilere önyüzden anket yapılabilmesini sağlayan sayfadır.
 
-Ekran Standartları için Tıklayınız.
-
-
 **Arama :** Site Yönetimi içerisindeki Duyuru ekranında bulunan arama bloğu ile **Başlangıç Tarihi, Bitiş Tarihi** kriterleri üzerinden **ARA**  butonuna tıklanarak arama işlemi gerçekleştirilir.
 
 **Yeni bir anket eklemek için;**

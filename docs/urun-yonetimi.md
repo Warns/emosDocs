@@ -3,9 +3,13 @@ id: urun-yonetimi
 title: Ürün Yönetimi
 ---
 
-Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklamaları yer alan butonlar aracılığı ile belirlenmesini sağlar.
+Sistemde kullanılacak olan ürünlerin listelendiği sayfadır.
 
-![](https://snag.gy/Dhe0MS.jpg)
+Sayfanın üst kısmında bulunan filtre alanları ürünlere hızlıca erişim sağlamak için kullanılır. Aynı zamanda Filtre alanlarının alt kısmında bulunan seçeneklerle ürünler üzerinde toplu işlem yapmak için kullanılır. **Örnek:** Filtrelenen ürünleri bir kategoriye eklemek, excel'e aktarmak veya bir ürün tipine bağlamak vs.
+
+Bir ürüne tıklandığında ürün kartının sadece Ürün Yönetim sekmesi açılır.
+
+Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklamaları yer alan butonlar aracılığı ile belirlenmesini sağlar.
 
 |Buton|Açıklama|
 |--|--|
@@ -16,11 +20,9 @@ Sitede yayınlanacak ürünlerin işlevsel özelliklerinin, aşağıda açıklam
 |Stok Durumu Güncelle|Seçili ürünlerin topluca stok durumlarını güncellemek için kullanılır.|
 |Platform Ekle/Sil|Seçili ürünlerin hangi platform veya platformlarda satışa açılmasını veya kapanmasını sağlamak için kullanılır.|
 |Kategoriye Ekle/Sil|Seçili ürünleri topluca bir kategoriye eklemek veya kategoriden çıkarmak için kullanılır.|
+|Ürün Özellik Ekle/Sil|Seçili ürünlere topluca özellik eklemek veya özellik kaldırmak için kullanılır.|
 
-<br>
-Ürün listesinden herhangi bir ürüne tıklandığında aşağıdaki gibi bir ekran açılır;
 
-![](https://snag.gy/D8uM1F.jpg)
 > ❗️ _Ürün Yönetimi ekranından bir ürüne tıklandığında ürün tanımındaki Ürün Yönetim sekmesi açılır._
 
 <br>

@@ -9,7 +9,6 @@ e-MOS giriş sayfasının header kısmında bulunan **Cache Recycle** butonuna t
 
 Aynı zamanda cache recycle butonuna tıkladıktan sonra yanında bulunan ![](https://snipboard.io/qvMaeu.jpg) butonu ile cache'in temizlenip temizlenmediğini (eğer varsa Varnish cache dahil) görüntüleyebilirsiniz.
 <br>
-
 > ❗️ _Yoğun ziyaretçi trafiği olduğu zamanlarda cache recycle yapıldığında websitede bir kaç dakikalığına yavaşlık hissedilebilir. Güncel olan yeni cache kayıtları oluştukça tekrar eski haline gelir._
 
 Cache Recycle butonunun yanında bulunan sarı noktaya tıklayarak cache temizleme işlemini yapan kullanıcıları görüntüleyebilirsiniz.

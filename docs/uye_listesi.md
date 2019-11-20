@@ -1,7 +1,5 @@
 Siteye kayıtlı üyelerin listelendiği, yeni üyelerin eklenebildiği, var olan üyelerin bilgilerinin güncellendiği sayfadır.
 
-Ekran standartları için Tıklayınız.
-
 **Üye Arama:** Üyelerin listelendiği ekranda yer alan arama bloğu ile **Ad Soyad, E-posta, Aktivasyon, Siparişi Var, Bülten, Kategori, Ödeme Tipi** kriterleri üzerinden  **ARA** butonuna tıklanarak arama işlemi gerçekleştirilebilir.
 
 >❗️  _Siteye Facebook ile üye olanları filtrelemek için Üye Tip alanına Facebook Üye, Facebook Login seçenekleri eklenmiştir._

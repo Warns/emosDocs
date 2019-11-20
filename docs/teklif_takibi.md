@@ -1,5 +1,3 @@
-Ekran standartları için Tıklayınız.
-
 ***Buraya screenshot gelicek***
 
 Yeni bir kayıt eklemek oluşturmak için **Ekle** butonuna tıklayarak açılan formu doldurmanız gerekir ;

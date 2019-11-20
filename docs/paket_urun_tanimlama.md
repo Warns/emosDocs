@@ -1,7 +1,5 @@
 Birden çok ürünü birleştirip tamamına belirli bir iskonto oranı uygulayarak paket ürün tanımlayabileceğiniz sayfadır.
 
-Ekran standartları için Tıklayınız.
-
 **Paket Arama :** Promosyon tanımlama sayfası açıldığında üst kısımda bulunan arama bloğu ile **Başlangıç Tarihi, Bitiş Tarihi, Kategori, Ürün Kodu, Barkod,Fiyat Tipi, Aktiflik durumu (aktif-pasif-hepsi)**   kriterleri üzerinden **ARA**  butonuna tıklanarak arama işlemi gerçekleştirilebilir.
 
 Yeni bir kayıt oluşturmak için **EKLE** butonu kullanılır. Mevcut kayıtları düzenlemek için ise ilgili satırın üzerin tıklamak yeterlidir.
