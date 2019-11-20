@@ -1663,7 +1663,7 @@ input::placeholder {
 .container.docsNavContainer {
   overflow: visible;
   -webkit-box-flex: 0;
-  flex: 0 0 280px;
+  flex: 0 0 240px;
   margin-right: 0;
 }
 
@@ -2503,4 +2503,39 @@ input::placeholder {
   margin-top: 0;
   border-radius: 0;
   box-shadow: none;
+}
+
+
+.docsNavContainer {
+  overflow: visible;
+  -webkit-box-flex: 0;
+  flex: 0 0 240px;
+  margin-right: 0;
+}
+
+summary {
+  font-size: 20px; 
+  font-weight: 600; 
+  outline: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:before {
+  content: "+";
+  color: #000;
+  float: left;
+  font-size: 1.5em;
+  font-weight: 300;
+  margin: -10px 10px 0 0;
+  padding: 0;
+  text-align: center;
+  width: 20px;
+  cursor: pointer;
+}
+details[open] summary:before {
+  content: "-";
+  cursor: pointer;
 }

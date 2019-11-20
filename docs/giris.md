@@ -9,10 +9,10 @@ e-MOS Sanal Mağaza uygulaması web tabanlı çalışan bir e-ticaret sistemidir
 
 Esnek kullanıma imkan veren sistemimizi kullanarak bir e-ticaret sitesi yönetiminin ne kadar kolay olduğunu göreceksiniz.
 
-Site adresinizin sonuna "/admin" yazarak yönetim paneli giriş sayfasına ulaşabilirsiniz.
+Site adresinizin sonuna <code>/admin</code> yazarak yönetim paneli giriş sayfasına ulaşabilirsiniz.
 
-**Örnek: https://www.websitesi.com/admin**
+**Örnek: https://www.example.com/admin**
 
 Daha önceden sizlere verilmiş olan Kullanıcı Adı ve Şifre ile sisteme giriş yapabilirsiniz.
 
-![image.png](https://snag.gy/mezAi6.jpg)
+![image.png](https://snipboard.io/mezAi6.jpg)

@@ -31,7 +31,9 @@ Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklayarak tanım işlemi
 
 ### 1.1. Tanımlar Listesi
 
-|Tanım Adı|
+<code>API Versiyon Durum</code> <code>Ayakkabı Numarası</code> <code>Bayi Tipi</code> <code>Ceket Bedeni</code> <code>Çalışma Alanı</code> <code>Direktörlük</code> <code>Döküman Tipi</code> <code>Extra_1</code> <code>Extra_2</code> <code>Extra_3</code> <code>Hizmet Alt Sınıfı</code> <code>Hizmet Sınıfı</code> <code>IK Başvuru Pozisyonları</code> <code>İçerik Kategori Tipi</code> <code>İşletim Sistemi</code> <code>Kampanya Grup Tanımı</code> <code>Kart Saklama Yöntemi</code> <code>Kolon Tipi</code> <code>Maillist Kategori</code> <code>Mesaj Kriteri</code> <code>Misafir Soru Türleri</code> <code>Modül İsimleri</code> <code>Önyüz Kayıt Sayısı</code> <code>Özellikli Ürün</code> <code>Pantolon Bedeni</code> <code>Pazar Yeri</code> <code>Rap.Parametre Tipi</code> <code>Recycle İşlem Türleri</code> <code>Referans Kaynağı</code> <code>Seçenek Grubu</code> <code>Sepet Grup Tipi</code> <code>Servis Türleri</code> <code>Sip. Det Durumları</code> <code>Sipariş İptal Durumları</code> <code>Test Tipleri</code> <code>T-Shirt Bedeni</code> <code>Ürün Alt Sınıfı</code> <code>Ürün Grubu</code> <code>Ürün İade Sebepleri</code> <code>Ürün Parametre Değer</code> <code>Ürün Parametre Tip</code> <code>Ürün Sınıfı</code> <code>Ürün Soru Türleri</code> <code>Ürün Tipi</code> <code>Üye Alt Sınıfı</code> <code>Üye Bilgi Kayıt Tipi</code> <code>Üye Kategori</code> <code>Üye Mesaj Cevapları</code> <code>Üye Sınıfı</code> <code>Üye Soru Grup İçerik</code> <code>Üye Soru Grupları</code> <code>Vergi Grubu</code> <code>Yorum Kriteri</code> <code>Yöneticilik</code> 
+
+<!-- |Tanım Adı|
 |--|
 |API Versiyon Durum|
 |Ayakkabı Numarası|
@@ -86,5 +88,5 @@ Gerekli bilgileri girdikten sonra **Kaydet** butonuna tıklayarak tanım işlemi
 |Üye Soru Grupları|
 |Vergi Grubu|
 |Yorum Kriteri|
-|Yöneticilik|
+|Yöneticilik| -->
 

@@ -14,16 +14,16 @@ Her mailin sağ üst köşesinde o mailde kullanılabilecek parametrelerin liste
 
 **Örnek mail parametreleri:**
 
-$strKimeAdSoyad$
+<code>$strKimeAdSoyad$</code>
 Üye Adı ve soyadı bilgisidir.
 
-$strClientIpAdres$
+<code>$strClientIpAdres$</code>
 Mailin gönderildiği ip adresidir.
 
-$strUyeSifre$
+<code>$strUyeSifre$</code>
 Üyeye ait şifre bilgisidir.
 
-$strKimeEMail$
+<code>$strKimeEMail$</code>
 Üyenin mail adresidir.
 
 <br>
@@ -71,25 +71,25 @@ $strKimeEMail$
 
 Site üzerinde bulunan bir içerik sayfası değiştirildiği durumda yetkilendirmenin verildiği kişiye aşağıda bulunan bilgiler;
 
-$strKimeAdSoyad$
+<code>$strKimeAdSoyad$</code>
 Mailin gideceği kullanıcının “Ad Soyad” bilgisi.
 
-$strKimeEMail$
+<code>$strKimeEMail$</code>
 Mailin hangi mail adresine gideceğinin bilgisi.
 
-$strPblDurum$
+<code>$strPblDurum$</code>
 İçerik üzerinde yapılan en son işlem.
 
-$strIcerikUrl$
+<code>$strIcerikUrl$</code>
 Düzenleme yapılan içeriğin URL bilgisi.
 
-$strIcerikAd$
+<code>$strIcerikAd$</code>
 Düzenleme yapılan içeriğin adı.
 
-$strDuzenleyenKln$
+<code>$strDuzenleyenKln$</code>
 İçeriği düzenleyen kullanıcının “Ad Soyad” bilgisi.
 
-$strWebAdresi$
+<code>$strWebAdresi$</code>
 İlgili müşterinin aktif domain bilgisi (web adresi).
 
 >❗ _İçerik Sayfasında yapılan bu değişiklikler yetkilendirme yapılan kişi tarafından onaylandığı zaman, içeriği düzenleyen kişiye “İçeriğin düzenleme işlemi”ne onay verildiğine dair mail gidecektir._

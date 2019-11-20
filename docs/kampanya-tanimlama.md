@@ -35,7 +35,10 @@ Yeni bir kampanya oluşturmak için **Ekle** butonuna tıklanır. Var olan bir k
 |Kategori Seti|Sistemde daha önceden varsa tanımlı olan kategori setinin seçildiği alandır.|
 |Kampanya Sihirbazı Aktif Mi?|Sihirbaz (çoklu seçimli) kampanyaya dahil olan ürünleri ürün detayda sepete ekle ye tıklandığında pop-up şeklinde seçimlerin yapıldığı özelliğin gösterilip gösterilmediğini sağlayan seçimdir.|
 |Bu Kampanyayı Dağıtıma Dahil Etme|Bazı projelerde 1 al 1 bedava gibi kampanyalarda bedava olacak olan ürünü 0 TL olarak göstermemek için entegrasyonda toplam tutar dağıtılmaktadır. Bu kutucuk ile bu gibi durumlarda tutar dağıtımının yapılıp yapılmadığı kontrol edilebilmektedir.|
-
+|Üye Bazında Tek Kullanım Aktif Mi?|Hazırlanan kampanyalarda hediye puan kurgusunun üye bazında tek kullanımlık olması için kullanılır. Bu kutucuk seçili olduğunda bu kurgu üye bazında bir sefer çalışır.|
+|Kullanılabilecek Maksimum Puan|Hazırlanan kampanyalarda hediye edilecek maksimum puan tutarının belirlenmesi için kullanılır. Bu alana X tutar girildiğinde maksimum hediye edilecek tutara karşılık gelir.|
+|||
+|||
 
 Yukarıdaki bilgileri doldurduktan sonra kampanya bilgilerini kaydetmek için **KAYDET** butonu kullanılır.
 
@@ -68,7 +71,7 @@ Uygulama Kriterlerinın alt kısmında bulunan kutucuklarla ilgili detaylar aşa
 |Başka bir promosyondan ötürü indirim almış ürünleri promosyon kriteri için dikkate alma|Bu seçenek işaretlendiğinde başka bir promosyondan dolayı indirim almış ürünlerin bu kampanyada kullanılmasını engeller.|
 |Ürün indirimli ise bu ürünü promosyon kriteri için dikkate alma|Ürünün kendisi indirimli ise bu ürün kampanya kriterleri için kullanılmaz.|
 
-## 3. Uygulama Bilgileri
+## 3. Uygulama Bilgileri (Hakediş)
 
 Uygulama Bilgileri'nde yeni bir kayıt oluşturmak için **Ekle** butonu kullanılır. Açılan sayfada bulunan alanlarla ilgili detaylar aşağıdaki gibidir;
 
@@ -85,6 +88,7 @@ Uygulama Bilgileri'nde yeni bir kayıt oluşturmak için **Ekle** butonu kullan�
 |Tutar|Ürünün kampanya sonunda gelmesi gereken son fiyatıdır. Sistem bunun için yapılması gereken indirimi kendisi belirler.<br> ❗ _Girilen ürün miktarı biden fazla ise, ürünlerin toplam fiyatı girilen tutar olacaktır._ <br> ❗ _Oran,indirim tutarı ve tutar alanlarından sadece bir tanesi girilmelidir._ |
 |İnd. Tutar|İndirim olarak uygulanacak tutarın belirlendiği alandır. Örn. 10TL indirim.|
 |Tutar|Bu alana bir değer girildiğinde sepetin son fiyatı değiştirir. Örn. Bu alan 10TL girildiğinde sepetin toplam tutarını 10TL yapar. Ürün Seçiminden ürün seçilmiş ise sadece ilgili ürünün son fiyatını 10TL yapar. |
+|Puan Katı|Hazırlanan kampanyada “Kullanılabilecek Maksimum Puan” alanı dolu ise, bu alan aktif hale gelecektir. Bu alan default olarak 1 değerini alır.<br>❗ _Not: Ödeme ekranında kampanya tanımının genel bilgiler kısmında girilen puan tutarı kadar “Site içi puan” kullanıldığında Hakediş (Puan Katı) bölümünde belirlenen çarpan kadar sepette puan indirimi uygulanacaktır._ |
 |Ürünlerde İkon Veya Metin Görünsün Mü?|Kriterde belirlenen ürünlerde resim veya ikon görünüp görünmemesini sağlayan alandır.|
 |Diğer Diller|Çoklu Dil yapısıyla ilgili ayrıntılı bilgi almak için [Tıklayın](coklu-dil.md)|
 

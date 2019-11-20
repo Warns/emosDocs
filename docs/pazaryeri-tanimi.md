@@ -32,6 +32,7 @@ Pazaryeri için kullanılacak fiyat tipi, ödeme tipi, nakliye şekli, entegrasy
 |Authorization Token|Belirli bir Amazon satıcısının belirli bir uygulama geliştiricisine ait yetkiyi temsil eder. Sadece web uygulamaları ve 3rd party geliştirici yetkilendirmelerinde kullanılır.|
 |Onay|Pazaryeri tanımının durumunu gösteren alandır. Aktif etmek için işaretlenmesi gerekir.|
 |Yalnız Ana Resim Ver|Pazaryerine ürün görselini bildirirken sadece ana görseli bildirmek için kullanılır.|
+|Kendi Kargo Kodumu Kullanacağım|Pazaryerinin anlaşmalı olduğu kargo anlaşması üzerinden değil, müşterilerimizin kendi kargo anlaşması üzerinden ilerlemek istemesi durumunda bu özellik aktif edilir. Böylece pazaryerinden sipariş ile birlikte bir kargo kodu e-MOS'a alınmayarak, e-MOS'ta kargo kodu oluşturulur.|
 |Barkod Kırılımlı Çalışsın|Barkod bazında bildirim yapılabilen pazaryerlerinde bedenli/seçenekli ürün bildirimi yapılırsa kullanılır.  (Hepsiburada, Morhipo, Trendyol)|
 |HepsiExpress Aktif Mi|Sadece Hepsiburada pazaryeri için geçerlidir. Kargo olarak HepsiExpress'i aktif etmek için kullanılır.|
 
@@ -55,7 +56,7 @@ Pazaryeri bazında markalar servisten çekilerek e-MOS sistemine işlenmektedir.
 
 Yeni bir marka ve pazaryerindeki karşılığını eklemek için **Ekle** butonu kullanılır. Ekle butonuna tıkladıktan sonra aşağıdaki gibi yeni bir sayfa açılır;
 
-![](https://snag.gy/2VScJP.jpg)
+![](https://snipboard.io/2VScJP.jpg)
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -69,7 +70,7 @@ Pazaryeri bazında kategoriler servisten çekilerek e-MOS sistemine işlenmekted
 
 Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** butonu kullanılır. Ekle butonuna tıkladıktan sonra aşağıdaki gibi yeni bir sayfa açılır;
 
-![](https://snag.gy/Lu4oBM.jpg)
+![](https://snipboard.io/Lu4oBM.jpg)
 
 |Alan Adı|Açıklama|
 |--|--|
@@ -78,13 +79,15 @@ Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** but
 |Kategori Tipi|Amazon kategori tipi yapısına özel bir alandır.|
 |Onay|Kategori eşlemesinin durumunun belirtildiği alandır.|
 
+> ❗️ _Burda dikkat edilmesi gereken nokta eşlemelerin ürünlerin default kategorisi üzerinden yapılmasıdır. e-MOS'ta ürün birden fazla kategoriye bağlı olabilir ancak default kategorisi bir tanedir. Örnek: Default kategorisi Mineraller olan ürünlerin, pazaryerinde karşılık kategorisi Besin Takviyesidir. Eşlemesi yapılan kategorilere bağlı olarak ürün özellikleri değişmektedir, bu sebeple yapılan eşlemeler çok önemlidir._
+
 <br>
 ## 2. Pazaryeri İçin Ürünün Aktif Edilmesi ve Özelliklerinin Girilmesi
 
 ### 2.1 Pazaryeri İçin Ürünün Aktif Edilmesi
 Pazaryeri modülü aktif edildiğinde ürün kartında “Pazaryeri” sekmesi aktif olacaktır. Oluştur butonuna basıldığında sistemde bulunan tüm pazaryerleri için pasif durumda kayıt atılır. Ürün için istenilen pazaryeri aktif edilir. Ürün bildirim görevi çalıştığında ilgili ürün pazaryerine gönderilecek ürünler listesine eklenecektir.
 
-![](https://snag.gy/ThnLSr.jpg)
+![](https://snipboard.io/ThnLSr.jpg)
 
 <br>
 ### 2.2 Pazaryeri İçin Ürün Özelliklerinin Girilmesi
@@ -93,24 +96,18 @@ N11 ve Gittigidiyor pazaryerleri için ürün bildirimi yapılmak istenildiğind
 #### 2.2.1 Özellik Seti Tanımı
 [Özellik Seti](ozellik-seti.md) sayfasından her bir pazaryeri için onaysız durumunda özellik grubu tanımlanır. 
 
-![](https://snag.gy/J06LSr.jpg)
-
 #### 2.2.2 Özellik Parametre Tanımı
 [Özellik Parametre](ozellik-parametre.md) syfasından tanımlanan özellik gruplarına istenilen özellik parametrelerin tanımı yapılır. Kategori bazında zorunlu attribute bilgisi ilgili pazaryerine ait servis ve dokümantasyon üzerinden elde edilir.
 
-![](https://snag.gy/V1jvhm.jpg)
+![](https://snipboard.io/V1jvhm.jpg)
 
 #### 2.2.3 Ürün Kartında Parametre Seçimi
 Ürün kartında “Özellikler” sekmesinde parametre tanımlamaları görünür. İlgili ürünün, ilgili pazar yeri için hangi özelliklerinin seçilmesi gerektiği ürünün kategorisinin hangi pazaryeri kategorisiyle eşleştirmesine bağlıdır.
 
-**Örnek:** X ürünü A kategorisine bağlı, kategori eşleme ekranında da A kategorisi B kategorisiyle eşleştirildi. (A ⇔  B) ürün pazaryerine bildirilirken B kategorisi olarak bildirileceği için B kategorisinin sahip olduğu tüm zorunlu attribute alanlarının doldurulması gerekir.
-
-![](https://snag.gy/GWfbNi.jpg)
+**Örnek:** X ürünü A kategorisine bağlı, kategori eşleme ekranında da A kategorisi B kategorisiyle eşleştirildi. (A ⇔ B) ürün pazaryerine bildirilirken B kategorisi olarak bildirileceği için B kategorisinin sahip olduğu tüm zorunlu attribute alanlarının doldurulması gerekir.
 
 > ❗️ _Ürün özelliklerinin eksik veya hatalı girildiği durumlarda ilgili ürünün pazaryerine aktarılmasına engel olacaktır. Pazaryerinin servisine bağlı olarak eğer bununla ilgil log tutuyorsa [Pazaryeri Log](pazaryeri-log.md) ekranında aktarılmadığının bilgisi ve nedeni görünecektir._
 
 <br>
 ### 2.3 Ürün Maliyet Kontrolü
 Pazaryerine gönderilecek ürün maliyetinin altında satılmasını engellemek için ürün kartında bulunan maliyet alanı kullanılır. Bu alan admin kullanıcısı tarafından manuel olarak doldurulmaktadır. Ürünün pazaryerine gönderilecek satış fiyatı, maliyet fiyatının altında olması durumunda sistem ürünü göndermeyecek ve pazaryeri log ekranında bu ürünle ilgili uyarı mesajı listeleyecektir.
-
-![](https://snag.gy/FHk6CW.jpg)
