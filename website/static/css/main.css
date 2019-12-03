@@ -2535,7 +2535,11 @@ summary:before {
   width: 20px;
   cursor: pointer;
 }
-details[open] summary:before {
+details[open] > summary:before {
   content: "-";
   cursor: pointer;
+}
+
+details details {
+  padding-left: 10px;
 }
