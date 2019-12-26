@@ -84,23 +84,18 @@
           "hizmet-tanimi",
           "servis-tanimi",
           "hediye-paketi-tanimi",
-          "urun-ozellik-tanimi",
-          "abonelik-tanimi"
+          "urun-ozellik-tanimi"
         ]
       },
       {
         "type": [
           {
             "type": "subcategory",
-            "ids": [
-              ""
-            ]
+            "ids": [""]
           },
           {
             "type": "subcategory",
-            "ids": [
-              ""
-            ]
+            "ids": [""]
           }
         ]
       }
@@ -121,10 +116,7 @@
       {
         "type": "subcategory",
         "label": "Kampanya",
-        "ids": [
-          "kampanya-tanimlama",
-          "ciro-kampanyalari"
-        ]
+        "ids": ["kampanya-tanimlama", "ciro-kampanyalari"]
       },
       {
         "type": "subcategory",
@@ -138,10 +130,7 @@
       },
       "stok-limit-tanimi"
     ],
-    "Stok Yönetimi": [
-      "depo-tanimi",
-      "toplu-stok-guncelle"
-    ],
+    "Stok Yönetimi": ["depo-tanimi", "toplu-stok-guncelle"],
     "Raporlar": [
       "dinamik-rapor",
       "istatistik-raporlari",
@@ -161,7 +150,8 @@
       "urun-tavsiyeleri",
       "arkadas-tavsiyeleri",
       "bulten-mail-listesi",
-      "abonelikler",
+      "abonelikler-listesi",
+      "abonelik-tanimi",
       "guvenli-domain-tanimi"
     ],
     "Site Yönetimi": [
@@ -211,19 +201,12 @@
       {
         "type": "subcategory",
         "label": "Görevler",
-        "ids": [
-          "Görevler",
-          "Aksiyonlar"
-        ]
+        "ids": ["Görevler", "Aksiyonlar"]
       },
       {
         "type": "subcategory",
         "label": "Form Yönetimi",
-        "ids": [
-          "form-yonetimi",
-          "xml-form-tanimi",
-          "xml-form-data-tanimi"
-        ]
+        "ids": ["form-yonetimi", "xml-form-tanimi", "xml-form-data-tanimi"]
       },
       {
         "type": "subcategory",

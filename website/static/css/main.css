@@ -2543,3 +2543,16 @@ details[open] > summary:before {
 details details {
   padding-left: 10px;
 }
+
+
+element.style {
+}
+.docsSliderActive .toc .navBreadcrumb, .tocActive .navBreadcrumb {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    /* background: red; */
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+}

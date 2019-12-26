@@ -10,14 +10,14 @@ Aynı zamanda sayfanın üst kısmında yer alan filtreler ile **Ürün Kodu, Ü
 
 Temel seçenekteki sütun bilgilerinin detayları aşağıdaki gibidir;
 
-|Sütun Adı|Açıklama|
-|--|--|
-|Toplam Miktar||
-|İptal Miktar||
-|Gel. Miktar||
-|Brüt Tutar||
-|İndirim Tutar||
-|Sİpariş Tutar||
+| Sütun Adı     | Açıklama |
+|---------------|----------|
+| Toplam Miktar |          |
+| İptal Miktar  |          |
+| Gel. Miktar   |          |
+| Brüt Tutar    |          |
+| İndirim Tutar |          |
+| Sİpariş Tutar |          |
 
 <br>
 ## 2. Alış Fatura Raporu
@@ -27,14 +27,14 @@ Aynı zamanda sayfanın üst kısmında yer alan filtreler ile **Ürün Kodu, Ü
 
 Temel seçenekteki sütun bilgilerinin detayları aşağıdaki gibidir;
 
-|Sütun Adı|Açıklama|
-|--|--|
-|Toplam Miktar|Aldığınız ürünün toplam miktarının yazdığı sütundur.|
-|Brüt Toplam Tutar|Aldığınız ürünün brüt toplam fiyatının yazdığı sütundur.|
-|İndirim Tutar|Aldığınız üründeki indirim tutarının yazdığı sütundur.|
-|Vade Farkı|Aldığınız üründeki vade farkının yazdığı sütundur.|
-|Vergi Tutar|Aldığınız üründeki vergi tutarının yazdığı sütundur.|
-|Fatura Tutar|Toplam fatura tutarının yazdığı sütundur.|
+| Sütun Adı         | Açıklama                                                 |
+|-------------------|----------------------------------------------------------|
+| Toplam Miktar     | Aldığınız ürünün toplam miktarının yazdığı sütundur.     |
+| Brüt Toplam Tutar | Aldığınız ürünün brüt toplam fiyatının yazdığı sütundur. |
+| İndirim Tutar     | Aldığınız üründeki indirim tutarının yazdığı sütundur.   |
+| Vade Farkı        | Aldığınız üründeki vade farkının yazdığı sütundur.       |
+| Vergi Tutar       | Aldığınız üründeki vergi tutarının yazdığı sütundur.     |
+| Fatura Tutar      | Toplam fatura tutarının yazdığı sütundur.                |
 
 <br>
 ## 3. Hizmet Alış Fatura Raporu
@@ -44,10 +44,10 @@ Aynı zamanda sayfanın üst kısmında yer alan filtreler ile **Satıcı, Hizme
 
 Temel seçenekteki sütun bilgilerinin detayları aşağıdaki gibidir;
 
-|Sütun Adı|Açıklama|
-|--|--|
-|Toplam Miktar|Toplam hizmet miktarını gösteren sütundur.|
-|Brüt Tutar|Hizmetin brüt tutarının yazdığı sütundur.|
-|İndirim Tutar|Hizmetin indirim tutarının yazdığı sütundur.|
-|Vergi Tutar|Hizmete uygulanan vergi tutarının yazdığı sütundur.|
-|Net Tutar|toplam net tutarın yazdığı sütundur.|
+| Sütun Adı     | Açıklama                                            |
+|---------------|-----------------------------------------------------|
+| Toplam Miktar | Toplam hizmet miktarını gösteren sütundur.          |
+| Brüt Tutar    | Hizmetin brüt tutarının yazdığı sütundur.           |
+| İndirim Tutar | Hizmetin indirim tutarının yazdığı sütundur.        |
+| Vergi Tutar   | Hizmete uygulanan vergi tutarının yazdığı sütundur. |
+| Net Tutar     | toplam net tutarın yazdığı sütundur.                |

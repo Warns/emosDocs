@@ -5,7 +5,7 @@ title: Nakliye Kural Tanımı
 
 Kargo kampanyalarında kullanılan kuralların belirtildiği ekrandır. Bu ekranı kullanarak özelleştirilmiş kargo kampanyaları tanımlanabilir. 
 
-Bu ekranda oluşturulan kural "Kargo Kampanyası" olarak tanımlanır. Gelişmiş kampanya tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](kampanya-tanimi.md)
+Bu ekranda oluşturulan kural "Kargo Kampanyası" olarak tanımlanır. Gelişmiş kampanya tanımı hakkında ayrıntılı bilgi almak için [Tıklayın](kampanya-tanimlama.md)
 
 Yeni bir nakliye kuralı tanımlamak için için Nakliye Kural Tanımı sayfası açıldığında **Ekle** butonuna tıklanılır. 
 

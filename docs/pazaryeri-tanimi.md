@@ -79,7 +79,7 @@ Yeni bir kategori ve pazaryerindeki karşılığını eklemek için **Ekle** but
 |Kategori Tipi|Amazon kategori tipi yapısına özel bir alandır.|
 |Onay|Kategori eşlemesinin durumunun belirtildiği alandır.|
 
-> ❗️ _Burda dikkat edilmesi gereken nokta eşlemelerin ürünlerin default kategorisi üzerinden yapılmasıdır. e-MOS'ta ürün birden fazla kategoriye bağlı olabilir ancak default kategorisi bir tanedir. Örnek: Default kategorisi Mineraller olan ürünlerin, pazaryerinde karşılık kategorisi Besin Takviyesidir. Eşlemesi yapılan kategorilere bağlı olarak ürün özellikleri değişmektedir, bu sebeple yapılan eşlemeler çok önemlidir._
+> ❗️ _Burada dikkat edilmesi gereken nokta eşlemelerin ürünlerin default kategorisi üzerinden yapılmasıdır. e-MOS'ta ürün birden fazla kategoriye bağlı olabilir ancak default kategorisi bir tanedir. Örnek: Default kategorisi Mineraller olan ürünlerin, pazaryerinde karşılık kategorisi Besin Takviyesidir. Eşlemesi yapılan kategorilere bağlı olarak ürün özellikleri değişmektedir, bu sebeple yapılan eşlemeler çok önemlidir._
 
 <br>
 ## 2. Pazaryeri İçin Ürünün Aktif Edilmesi ve Özelliklerinin Girilmesi
