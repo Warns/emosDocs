@@ -10,3 +10,7 @@ website/build/
 website/yarn.lock
 website/node_modules
 website/i18n/*
+10-2019 e-MOS Patch Release TR.pdf
+10-2019 e-MOS Patch Release EN.pdf
+*.pdf
+*.pdf
