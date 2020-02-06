@@ -8,7 +8,6 @@
           "giris",
           "emos-dashboard",
           "ekran-standartlari",
-          "ftp-erisimi",
           "resim-ve-dosya-yukleme",
           "cache-recycle",
           "coklu-dil"
@@ -181,28 +180,16 @@
           "snippet-banner",
           "banner-tanimi",
           "sayfa-hiyerarsi",
-          "icerik-tanimi",
-          "icerik-kategorileri",
-          "icerik-etiketleri",
-          "icerik-yorumlari"
+          "icerik-tanimi"
         ]
       },
       {
         "type": "subcategory",
         "label": "Script",
-        "ids": [
-          "emos-script",
-          "script-yoneticisi",
-          "script-dosya-yonetimi",
-          "razor-script"
-        ]
+        "ids": ["emos-script", "script-yoneticisi", "script-dosya-yonetimi"]
       },
       "sabit-sayfa-tanimlari",
-      {
-        "type": "subcategory",
-        "label": "Görevler",
-        "ids": ["Görevler", "Aksiyonlar"]
-      },
+      "gorevler",
       {
         "type": "subcategory",
         "label": "Form Yönetimi",
@@ -211,15 +198,7 @@
       {
         "type": "subcategory",
         "label": "Diğer",
-        "ids": [
-          "haber-bulten-hazırlama",
-          "bulten-gonderme",
-          "filtre-tanimlama",
-          "footer-tanimlama",
-          "insan-kaynaklari",
-          "matbu-evrak-tasarimi",
-          "sistem-hatalari"
-        ]
+        "ids": ["insan-kaynaklari", "matbu-evrak-tasarimi", "sistem-hatalari"]
       }
     ]
   }
