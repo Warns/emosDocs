@@ -114,8 +114,8 @@ video {
 
 /* Base scaffolding taken from Markswatch theme */
 body {
-  color: #24292e;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+  color: hsl(213, 8%, 27%);
+  font-family:   Geneva, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   font-size: 16px;
   line-height: 1.5;
@@ -143,14 +143,18 @@ i {
   padding: 0;
 }
 
+/* link color */
+/* color: rgb(147, 147, 150); color: #24292e; */
+
 a {
-  color: rgb(92, 92, 255);
+  color: #5c5cff;
   font-weight: 500;
   text-decoration: none;
+  
 }
 
 a:hover {
-  color: blue;
+  color: #696969;
   font-weight: 500;
   text-decoration: none;
 }
@@ -312,13 +316,15 @@ blockquote > :last-child {
   margin-bottom: 0;
 }
 
+
+
 code {
   background-color: rgba(27, 31, 35, 0.05);
   border-radius: 3px;
   color: inherit;
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
     'Courier New', monospace;
-  font-size: 70%;
+  font-size: 80%;  
   margin: 0;
   padding: 3.2px 6.4px;
 }
@@ -2558,3 +2564,4 @@ element.style {
     z-index: 1;
 
 }
+
