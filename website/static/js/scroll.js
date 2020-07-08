@@ -10,9 +10,9 @@ document.addEventListener("DOMContentLoaded", () => {
     bounding.bottom <=
       (window.innerHeight || document.documentElement.clientHeight)
   ) {
-    // Already visible.  Do nothing.
+    // If Already visible.  Do nothing.
   } else {
-    // Not visible.  Scroll sidebar.
+    // If Not visible.  Scroll bar.
     item.scrollIntoView({ block: "center", inline: "nearest" });
     document.body.scrollTop = document.documentElement.scrollTop = 0;
   }
